@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=https://archive.org/download/futurenotset/fns_teaser.mp3?ptm_source=feed&ptm_context=mp3&ptm_request=266f48cece49&ptm_file=fns_teaser.mp3">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://archive.org/download/futurenotset/fns_teaser.mp3?ptm_source=feed&ptm_context=mp3&ptm_request=266f48cece49&ptm_file=fns_teaser.mp3";
+		</script>
+
+		<p>You are being redirected to <a href="https://archive.org/download/futurenotset/fns_teaser.mp3?ptm_source=feed&ptm_context=mp3&ptm_request=266f48cece49&ptm_file=fns_teaser.mp3">https://archive.org/download/futurenotset/fns_teaser.mp3?ptm_source=feed&ptm_context=mp3&ptm_request=266f48cece49&ptm_file=fns_teaser.mp3</a></p>
+	</body>
+</html>
