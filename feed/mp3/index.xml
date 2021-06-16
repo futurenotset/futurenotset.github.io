@@ -4,14 +4,14 @@
 
 <channel>
 	<title>The Future is not Set</title>
-	<link>https://futurenotset.podonaut.com/</link>
+	<link>https://futurenotset.com/</link>
 	<description><![CDATA[The future is here! It is just unevenly distributed!]]></description>
 	<lastBuildDate>Tue, 15 Jun 2021 15:08:05 +0000</lastBuildDate>
 	
-<image><url>https://futurenotset.podonaut.com/wp-content/uploads/sites/8/2021/06/notset.png</url><title>The Future is not Set</title><link>https://futurenotset.podonaut.com/</link></image>
-<atom:link rel="self" type="application/rss+xml" title="The Future is not Set (MP3 Feed)" href="https://futurenotset.podonaut.com/feed/mp3/index.xml" />
-	<atom:link rel="alternate" type="application/rss+xml" title="The Future is not Set (podcast)" href="https://futurenotset.podonaut.com/feed/podcast/index.xml" />
-	<atom:link rel="first" href="https://futurenotset.podonaut.com/feed/mp3/index.xml" />
+<image><url>https://futurenotset.com/wp-content/uploads/sites/8/2021/06/notset.png</url><title>The Future is not Set</title><link>https://futurenotset.com/</link></image>
+<atom:link rel="self" type="application/rss+xml" title="The Future is not Set (MP3 Feed)" href="https://futurenotset.com/feed/mp3/index.xml" />
+	<atom:link rel="alternate" type="application/rss+xml" title="The Future is not Set (podcast)" href="https://futurenotset.com/feed/podcast/index.xml" />
+	<atom:link rel="first" href="https://futurenotset.com/feed/mp3/index.xml" />
 	<language>en-GB</language><generator>Podlove Podcast Publisher v3.5.4</generator>
 	<copyright>Copyright © 2021 Podonaut All Rights Reserved</copyright>
 	<itunes:author>Dave Keeshan</itunes:author>
@@ -23,7 +23,7 @@
 		<itunes:name>Dave Keeshan</itunes:name>
 		<itunes:email>futurenotset@podonaut.com</itunes:email>
 	</itunes:owner>
-	<itunes:image href="https://futurenotset.podonaut.com/wp-content/uploads/sites/8/2021/06/notset.png"/>
+	<itunes:image href="https://futurenotset.com/wp-content/uploads/sites/8/2021/06/notset.png"/>
 	<itunes:subtitle>The future is here! It is just unevenly distributed!</itunes:subtitle>
 	<itunes:block>no</itunes:block>
 	<itunes:explicit>no</itunes:explicit>
@@ -32,11 +32,11 @@
 	
 	<item>
         <title>Teaser</title>
-		<link>https://futurenotset.podonaut.com/teaser/</link>
+		<link>https://futurenotset.com/teaser/</link>
 		<pubDate>Tue, 15 Jun 2021 15:01:04 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2021-06-15t15:00:04+00:00-1ba67d451701275</guid>
     	<description><![CDATA[Teaser]]></description>
-		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.podonaut.com/teaser/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/teaser/#" />
 		
 <enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/futurenotset/fns_teaser.mp3" length="363222" type="audio/mpeg"/>
 
