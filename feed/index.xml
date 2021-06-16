@@ -9,7 +9,7 @@
 
 <channel>
 	<title>The Future is not Set</title>
-	<atom:link href="https://futurenotset.com/feed/" rel="self" type="application/rss+xmlindex.xml" />
+	<atom:link href="https://futurenotset.com/feed/index.xml" rel="self" type="application/rss+xml" />
 	<link>https://futurenotset.com/</link>
 	<description></description>
 	<lastBuildDate>Tue, 15 Jun 2021 15:04:41 +0000</lastBuildDate>
