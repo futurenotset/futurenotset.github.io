@@ -38,7 +38,7 @@
     	<description><![CDATA[Teaser]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.podonaut.com/teaser/#" />
 		
-<enclosure url="https://futurenotset.podonaut.com/podlove/file/1/s/feed/c/podcast/fns_teaser.mp3" length="363222" type="audio/mpeg"/>
+<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/futurenotset/fns_teaser.mp3" length="363222" type="audio/mpeg"/>
 
 		<itunes:duration>00:00:30</itunes:duration>
 		<itunes:author>Dave Keeshan</itunes:author>
