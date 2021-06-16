@@ -6,11 +6,10 @@
 	<title>The Future is not Set</title>
 	<link>https://futurenotset.com/</link>
 	<description><![CDATA[The future is here! It is just unevenly distributed!]]></description>
-	<lastBuildDate>Tue, 15 Jun 2021 15:08:05 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 16 Jun 2021 23:04:55 +0000</lastBuildDate>
 	
 <image><url>https://futurenotset.com/wp-content/uploads/sites/8/2021/06/notset.png</url><title>The Future is not Set</title><link>https://futurenotset.com/</link></image>
 <atom:link rel="self" type="application/rss+xml" title="The Future is not Set (podcast)" href="https://futurenotset.com/feed/podcast/index.xml" />
-	<atom:link rel="alternate" type="application/rss+xml" title="The Future is not Set (MP3 Feed)" href="https://futurenotset.com/feed/mp3/index.xml" />
 	<atom:link rel="first" href="https://futurenotset.com/feed/podcast/index.xml" />
 	<language>en-GB</language><generator>Podlove Podcast Publisher v3.5.4</generator>
 	<copyright>Copyright © 2021 Podonaut All Rights Reserved</copyright>
@@ -30,6 +29,11 @@
 	
 	<atom:link rel="me" href="https://podcasts.apple.com/podcast/id1572673778" />
 
+	<podcast:locked owner="admin@futurenotset.com">yes</podcast:locked>
+	<podcast:value type="lightning" method="keysend" suggested="0.00000015000">
+		<podcast:valueRecipient name="Gurus of Comedy (Podcaster)" type="node" address="033bf25b954273ff9425d1e2fec4b8b604355f618eda210a47ac820759664cf7ba" split="95" />
+		<podcast:valueRecipient name="Satoshi Stream" type="node" address="03c457fafbc8b91b462ef0b8f61d4fd96577a4b58c18b50e59621fd0f41a8ae1a4" split="5" />
+	</podcast:value>
 	
 	<item>
         <title>Teaser</title>
