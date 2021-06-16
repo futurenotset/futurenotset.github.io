@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: Teaser	</title>
-	<atom:link href="https://futurenotset.com/teaser/feed/" rel="self" type="application/rss+xmlindex.xml" />
+	<atom:link href="https://futurenotset.com/teaser/feed/" rel="self" type="application/rss+xml" />
 	<link>https://futurenotset.com/teaser/</link>
 	<description></description>
 	<lastBuildDate>Tue, 15 Jun 2021 15:04:41 +0000</lastBuildDate>
