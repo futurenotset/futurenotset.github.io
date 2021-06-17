@@ -12,7 +12,7 @@
 	<atom:link href="https://futurenotset.com/feed/index.xml" rel="self" type="application/rss+xml" />
 	<link>https://futurenotset.com/</link>
 	<description></description>
-	<lastBuildDate>Thu, 17 Jun 2021 14:12:53 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Jun 2021 19:32:28 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,7 +31,7 @@
 		<title>Zero Day Exploits</title>
 		<link>https://futurenotset.com/zero-day-exploits/</link>
 		
-		<dc:creator><![CDATA[gomez]]></dc:creator>
+		<dc:creator><![CDATA[davekeeshan]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 14:12:53 +0000</pubDate>
 				<guid isPermaLink="false"></guid>
 
@@ -62,7 +62,7 @@ Meanwhile Jonathan begins to learn the art of podcasting.]]></description>
 		<title>Teaser</title>
 		<link>https://futurenotset.com/teaser/</link>
 		
-		<dc:creator><![CDATA[gomez]]></dc:creator>
+		<dc:creator><![CDATA[davekeeshan]]></dc:creator>
 		<pubDate>Tue, 15 Jun 2021 15:01:04 +0000</pubDate>
 				<guid isPermaLink="false"></guid>
 

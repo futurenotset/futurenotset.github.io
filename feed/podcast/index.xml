@@ -6,14 +6,14 @@
 	<title>The Future is not Set</title>
 	<link>https://futurenotset.com/</link>
 	<description><![CDATA[The future is here! It is just unevenly distributed!]]></description>
-	<lastBuildDate>Thu, 17 Jun 2021 14:12:53 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Jun 2021 22:16:59 +0000</lastBuildDate>
 	
 <image><url>https://futurenotset.com/wp-content/uploads/sites/8/2021/06/notset.png</url><title>The Future is not Set</title><link>https://futurenotset.com/</link></image>
 <atom:link rel="self" type="application/rss+xml" title="The Future is not Set (podcast)" href="https://futurenotset.com/feed/podcast/index.xml" />
 	<atom:link rel="first" href="https://futurenotset.com/feed/podcast/index.xml" />
 	<language>en-GB</language><generator>Podlove Podcast Publisher v3.5.4</generator>
 	<copyright>Copyright © 2021 Podonaut All Rights Reserved</copyright>
-	<itunes:author>Dave Keeshan</itunes:author>
+	<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
 	<itunes:type>episodic</itunes:type>
 	<itunes:summary><![CDATA[]]></itunes:summary>
 <itunes:category text="Technology" />
@@ -28,6 +28,7 @@
 	<itunes:explicit>no</itunes:explicit>
 	
 	<atom:link rel="me" href="https://podcasts.apple.com/podcast/id1572673778" />
+	<podcast:funding url="https://paypal.me/davekeeshan">PayPal</podcast:funding>
 
 	<podcast:locked owner="admin@futurenotset.com">yes</podcast:locked>
 	<podcast:value type="lightning" method="keysend" suggested="0.00000015000">
@@ -49,7 +50,7 @@ Meanwhile Jonathan begins to learn the art of podcasting.]]></description>
 <enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/futurenotset/fns_001.mp3" length="40361792" type="audio/mpeg"/>
 
 		<itunes:duration>00:51:37</itunes:duration>
-		<itunes:author>Dave Keeshan</itunes:author>
+		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
 		<itunes:subtitle>And we're in!</itunes:subtitle>
 		<itunes:title>Zero Day Exploits</itunes:title>
 		<itunes:episode>1</itunes:episode>
@@ -94,7 +95,7 @@ Meanwhile Jonathan begins to learn the art of podcasting.]]></itunes:summary>
 <enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/futurenotset/fns_teaser.mp3" length="363222" type="audio/mpeg"/>
 
 		<itunes:duration>00:00:30</itunes:duration>
-		<itunes:author>Dave Keeshan</itunes:author>
+		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
 		<itunes:subtitle></itunes:subtitle>
 		<itunes:title>Teaser</itunes:title>
 		<itunes:episode>0</itunes:episode>
