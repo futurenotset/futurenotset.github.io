@@ -8,7 +8,7 @@ def main(src, debug=False):
     
     #domain = {'futurenotset.com': 'future.wp.podonaut.com'}
     domain = {'futurenotset.podonaut.com': 'futurenotset.com'}
-    #domain = {'example.com': None}
+    domain = {'example.com': None}
     files = glob(f'{src}/**/*.*', recursive=True)                               
 
 
@@ -54,7 +54,7 @@ def main(src, debug=False):
     for d in domain:
         print(d)
         if domain[d] is None:
-            dst = src
+            return
         else:
             dst = f"{src}/../{domain[d]}"
             copytree(src, dst, ignore=ignore_patterns(".git"), dirs_exist_ok=True)
