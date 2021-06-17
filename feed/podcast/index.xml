@@ -9,8 +9,8 @@
 	<lastBuildDate>Thu, 17 Jun 2021 08:40:24 +0000</lastBuildDate>
 	
 <image><url>https://futurenotset.podonaut.com/wp-content/uploads/sites/8/2021/06/notset.png</url><title>The Future is not Set</title><link>https://futurenotset.podonaut.com/</link></image>
-<atom:link rel="self" type="application/rss+xml" title="The Future is not Set (podcast)" href="https://futurenotset.podonaut.com/feed/podcast/" />
-	<atom:link rel="first" href="https://futurenotset.podonaut.com/feed/podcast/" />
+<atom:link rel="self" type="application/rss+xml" title="The Future is not Set (podcast)" href="https://futurenotset.podonaut.com/feed/podcast/index.xml" />
+	<atom:link rel="first" href="https://futurenotset.podonaut.com/feed/podcast/index.xml" />
 	<language>en-GB</language><generator>Podlove Podcast Publisher v3.5.4</generator>
 	<copyright>Copyright © 2021 Podonaut All Rights Reserved</copyright>
 	<itunes:author>Dave Keeshan</itunes:author>
