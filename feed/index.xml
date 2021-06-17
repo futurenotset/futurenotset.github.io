@@ -12,7 +12,7 @@
 	<atom:link href="https://futurenotset.com/feed/index.xml" rel="self" type="application/rss+xml" />
 	<link>https://futurenotset.com/</link>
 	<description></description>
-	<lastBuildDate>Tue, 15 Jun 2021 15:04:41 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Jun 2021 14:12:53 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,37 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Zero Day Exploits</title>
+		<link>https://futurenotset.com/zero-day-exploits/</link>
+		
+		<dc:creator><![CDATA[gomez]]></dc:creator>
+		<pubDate>Thu, 17 Jun 2021 14:12:53 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Welcome to the first podcast co-hosted by Dave Keeshan and Jonathan Byrne.  Starting from the topic of Zero Day exploits Dave and Jon discuss how some of the decisions made by the likes of the NSA make in a backroom affect the day to day life of you an me. Will you ever look a trust the same way again?
+
+
+Meanwhile Jonathan begins to learn the art of podcasting.]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large is-resized is-style-default"><img loading="lazy" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/06/zero-day-vulnerability-attack-exploit-1024x640.jpg" alt="" class="wp-image-51" width="799" height="499" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/06/zero-day-vulnerability-attack-exploit-1024x640.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/06/zero-day-vulnerability-attack-exploit-300x188.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/06/zero-day-vulnerability-attack-exploit-768x480.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/06/zero-day-vulnerability-attack-exploit-1536x960.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2021/06/zero-day-vulnerability-attack-exploit.jpg 1600w" sizes="(max-width: 799px) 100vw, 799px" /></figure>
+
+
+
+<p>Welcome to the first podcast co-hosted by Dave Keeshan and Jonathan Byrne.  Starting from the topic of Zero Day exploits Dave and Jon discuss how some of the decisions made by the likes of the NSA make in a backroom affect the day to day life of you an me. Will you ever look a trust the same way again?</p>
+
+
+
+<p>Meanwhile Jonathan begins to learn the art of podcasting.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Teaser</title>
 		<link>https://futurenotset.com/teaser/</link>
 		

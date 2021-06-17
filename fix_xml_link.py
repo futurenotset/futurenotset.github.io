@@ -8,11 +8,11 @@ def main(src, debug=False):
     
     #domain = {'futurenotset.com': 'future.wp.podonaut.com'}
     domain = {'futurenotset.podonaut.com': 'futurenotset.com'}
-    domain = {'example.com': None}
+    #domain = {'example.com': None}
     files = glob(f'{src}/**/*.*', recursive=True)                               
 
 
-    for src_file in files:                                                            
+    for src_file in files:                                                           
         dst_file = src_file
         if os.path.isfile(src_file) and re.search("ml$", src_file):                                                  
             #print(file)                                                          
@@ -54,10 +54,10 @@ def main(src, debug=False):
     for d in domain:
         print(d)
         if domain[d] is None:
-            return
+            dst = src
         else:
             dst = f"{src}/../{domain[d]}"
-            copytree(src, dst, ignore=ignore_patterns(".git"), dirs_exist_ok=True)
+            copytree(src, dst, ignore=ignore_patterns(".git", "*.py"), dirs_exist_ok=True)
         
         print(src)
         print(dst)
