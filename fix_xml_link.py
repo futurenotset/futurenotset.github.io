@@ -2,49 +2,73 @@ import os
 import sys
 import re
 from glob import glob
+from shutil import copytree, ignore_patterns
 
-
-def main(src, debuf=False):
+def main(src, debug=False):
     
-    files = glob(f'{src}/**/*.*ml', recursive=True)                               
+    #domain = {'futurenotset.com': 'future.wp.podonaut.com'}
+    domain = {'future.podonaut.com': 'futurenotset.com'}
+    #domain = {'example.com': None}
+    files = glob(f'{src}/**/*.*', recursive=True)                               
 
-    for file in files:                                                            
-        #dst_file = re.sub(src, dst, file)                                        
-        dst_file = file                                                           
-        if debug:
-            dst_file =  dst_file + ".tmp"                                                          
-        if os.path.isfile(file):                                                  
-            #print(file)                                                          
-            if re.search('podlove/image', file):                                  
-                continue                                                          
+    for d in domain:
+        print(d)
+        if domain[d] is None:
+            dst = src
+        else:
+            dst = f"{src}/../{domain[d]}"
+            copytree(src, dst, ignore=ignore_patterns(".git"), dirs_exist_ok=True)
+        
+        print(src)
+        print(dst)
+        #os.makedirs(dst, exist_ok=True)
+        #shutil.rmtree(f"{dst}/*")
+        continue
+        for src_file in files:                                                            
+            dst_file = re.sub(src, dst, src_file) 
+            #print(src_file)
+            #print(dst_file)
+            
+            if os.path.isfile(src_file) and re.search("ml$", src_file):                                                  
+                #print(file)                                                          
+                if re.search('podlove/image', src_file):                                  
+                    continue                                                          
 
-            if re.search('html', file) or re.search('xml', file):                 
-                try:                                                              
-                    f = open(file, 'r', encoding="utf-8")                         
-                    lines = f.readlines()                                         
-                    f.close()                                                     
-                except:                                                           
-                    print(file)                                                   
-                    exit()                                                        
+                if re.search('html', src_file) or re.search('xml', src_file):                 
+                    try:                                                              
+                        f = open(src_file, 'r', encoding="utf-8")                         
+                        lines = f.readlines()                                         
+                        f.close()                                                     
+                    except:                                                           
+                        print(src_file)                                                   
+                        exit()                                                        
                                                                                   
-                f = open(dst_file, 'w', encoding="utf-8")                     
-                for line in lines:                                                
-                    g = re.search('href="(http[\w\/\.:]+)"', line)                
-                    if g and re.search("feed", line):                             
-                        murl = g.group(1)                                         
-                        nurl = f'{g.group(1)}index.xml'                           
-                        if not re.search("xml$", murl):                           
-                            line = re.sub(murl, nurl, line)                       
-                                                                                  
-                    g = re.search('(<span class="theme-credit">.+</span>)', line) 
-                    if g:                                                         
-                        print(g.group(1))                                        
-                        line = re.sub(g.group(1), "", line)                       
-                                                                                  
-                    f.write(line)                                                 
-                                                                                  
+                    f = open(dst_file, 'w', encoding="utf-8")                     
+                    for line in lines:                                                
+                        g = re.search('"(http[\w\/\\\.:]+)"', line)                
+                        if g and re.search("feed", line):                             
+                            murl = g.group(1)                                         
+                            murl = re.sub("\\\\", "\\\\\\\\", murl)                                            
+                            
+                            nurl = f'{g.group(1)}index.xml'                           
+                            if not re.search("xml$", murl):                           
+                                #print(g.span())
+                                #print(murl)
+                                #print(nurl)
+                                line = re.sub(murl, nurl, line)                       
+                                                                                      
+                        g = re.search('(<span class="theme-credit">.+</span>)', line) 
+                        if g:                                                         
+                            #print(g.group(1))                                        
+                            line = re.sub(g.group(1), "", line)                       
+                                                                                      
+                        g = re.search(f'http[s\/\\\.:{d}]', line)
+                        if g:   
+                            line = re.sub(d, domain[d], line)
+                        f.write(line)                                                 
+                                                                                      
 
-                f.close()                                                         
+                    f.close()                                                         
 
 if __name__ == "__main__":
     if 0 == len(sys.argv):
@@ -56,5 +80,5 @@ if __name__ == "__main__":
     else:
         raise Exception()
     print(src)
-    debug = False
+    debug = True
     main(src, debug)
