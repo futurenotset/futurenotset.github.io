@@ -12,7 +12,7 @@ def main(src, debug=False):
     files = glob(f'{src}/**/*.*', recursive=True)                               
 
 
-    for src_file in files:                                                            
+    for src_file in files:                                                           
         dst_file = src_file
         if os.path.isfile(src_file) and re.search("ml$", src_file):                                                  
             #print(file)                                                          
@@ -57,7 +57,7 @@ def main(src, debug=False):
             dst = src
         else:
             dst = f"{src}/../{domain[d]}"
-            copytree(src, dst, ignore=ignore_patterns(".git"), dirs_exist_ok=True)
+            copytree(src, dst, ignore=ignore_patterns(".git", "*.py"), dirs_exist_ok=True)
         
         print(src)
         print(dst)
