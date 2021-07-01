@@ -12,7 +12,7 @@
 	<atom:link href="https://futurenotset.com/feed/index.xml" rel="self" type="application/rss+xml" />
 	<link>https://futurenotset.com/</link>
 	<description></description>
-	<lastBuildDate>Thu, 17 Jun 2021 19:32:28 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Jul 2021 20:33:16 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,34 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Cargo Cults</title>
+		<link>https://futurenotset.com/cargo-cults/</link>
+		
+		<dc:creator><![CDATA[davekeeshan]]></dc:creator>
+		<pubDate>Thu, 01 Jul 2021 15:02:10 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[In this episode Dave and Jonathan ramble on about cargo cults and how humans develop ritualistic behaviors that completely miss the point of what they are trying to accomplish. In programming, business management and even in science itself there are many examples of people doing silly things while appearing to look like they are working.
+
+links:
+Animal superstition: https://psycnet.apa.org/record/1948-04299-001
+Easily hacked certificate authorities (Diginotar): https://darknetdiaries.com/transcript/3/]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="640" height="464" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/tumblr_omgdz15TmT1sn5m9vo7_640.jpg" alt="" class="wp-image-64" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/tumblr_omgdz15TmT1sn5m9vo7_640.jpg 640w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/tumblr_omgdz15TmT1sn5m9vo7_640-300x218.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
+
+
+
+<p>In this episode Dave and Jonathan ramble on about cargo cults and how humans develop ritualistic behaviors that completely miss the point of what they are trying to accomplish. In programming, business management and even in science itself there are many examples of people doing silly things while appearing to look like they are working.</p>
+
+
+
+<p>links:<br><a href="https://psycnet.apa.org/record/1948-04299-001">Animal superstition</a><br><a href="https://darknetdiaries.com/transcript/3/">Easily hacked certificate authorities (Diginotar)</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Zero Day Exploits</title>
 		<link>https://futurenotset.com/zero-day-exploits/</link>
 		
@@ -53,22 +81,6 @@ Meanwhile Jonathan begins to learn the art of podcasting.]]></description>
 
 
 <p></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Teaser</title>
-		<link>https://futurenotset.com/teaser/</link>
-		
-		<dc:creator><![CDATA[davekeeshan]]></dc:creator>
-		<pubDate>Tue, 15 Jun 2021 15:01:04 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
-
-					<description><![CDATA[A sneak peak of what is coming]]></description>
-										<content:encoded><![CDATA[
-<p>A sneak peak of what is coming</p>
 ]]></content:encoded>
 					
 		

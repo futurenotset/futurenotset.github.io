@@ -6,7 +6,7 @@
 	<title>The Future is not Set</title>
 	<link>https://futurenotset.com/</link>
 	<description><![CDATA[The future is here! It is just unevenly distributed!]]></description>
-	<lastBuildDate>Thu, 17 Jun 2021 22:16:59 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Jul 2021 20:33:16 +0000</lastBuildDate>
 	
 <image><url>https://futurenotset.com/wp-content/uploads/sites/8/2021/06/notset.png</url><title>The Future is not Set</title><link>https://futurenotset.com/</link></image>
 <atom:link rel="self" type="application/rss+xml" title="The Future is not Set (podcast)" href="https://futurenotset.com/feed/podcast/index.xml" />
@@ -32,9 +32,55 @@
 
 	<podcast:locked owner="admin@futurenotset.com">yes</podcast:locked>
 	<podcast:value type="lightning" method="keysend" suggested="0.00000015000">
-		<podcast:valueRecipient name="Gurus of Comedy (Podcaster)" type="node" address="033bf25b954273ff9425d1e2fec4b8b604355f618eda210a47ac820759664cf7ba" split="95" />
-		<podcast:valueRecipient name="Satoshi Stream" type="node" address="03c457fafbc8b91b462ef0b8f61d4fd96577a4b58c18b50e59621fd0f41a8ae1a4" split="5" />
+		<podcast:valueRecipient name="Gurus of Comedy (Podcaster)" type="node" address="033bf25b954273ff9425d1e2fec4b8b604355f618eda210a47ac820759664cf7ba" split="5" />
+		<podcast:valueRecipient name="Satoshi Stream" type="node" address="03c457fafbc8b91b462ef0b8f61d4fd96577a4b58c18b50e59621fd0f41a8ae1a4" split="95" />
 	</podcast:value>
+	
+	<item>
+        <title>Cargo Cults</title>
+		<link>https://futurenotset.com/cargo-cults/</link>
+		<pubDate>Thu, 01 Jul 2021 15:02:10 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2021-07-01t14:55:53+00:00-4ec7da0a6c8dd84</guid>
+    	<description><![CDATA[In this episode Dave and Jonathan ramble on about cargo cults and how humans develop ritualistic behaviors that completely miss the point of what they are trying to accomplish. In programming, business management and even in science itself there are many examples of people doing silly things while appearing to look like they are working.
+
+links:
+Animal superstition: https://psycnet.apa.org/record/1948-04299-001
+Easily hacked certificate authorities (Diginotar): https://darknetdiaries.com/transcript/3/]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/cargo-cults/#" />
+		
+<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/futurenotset/fns_002.mp3" length="44303851" type="audio/mpeg"/>
+
+		<itunes:duration>00:48:07</itunes:duration>
+		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
+		<itunes:subtitle>Coconut Headphones!</itunes:subtitle>
+		<itunes:title>Cargo Cults</itunes:title>
+		<itunes:episode>2</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary><![CDATA[In this episode Dave and Jonathan ramble on about cargo cults and how humans develop ritualistic behaviors that completely miss the point of what they are trying to accomplish. In programming, business management and even in science itself there are many examples of people doing silly things while appearing to look like they are working.
+
+links:
+Animal superstition: https://psycnet.apa.org/record/1948-04299-001
+Easily hacked certificate authorities (Diginotar): https://darknetdiaries.com/transcript/3/]]></itunes:summary>
+		
+		<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="640" height="464" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/tumblr_omgdz15TmT1sn5m9vo7_640.jpg" alt="" class="wp-image-64" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/tumblr_omgdz15TmT1sn5m9vo7_640.jpg 640w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/tumblr_omgdz15TmT1sn5m9vo7_640-300x218.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
+
+
+
+<p>In this episode Dave and Jonathan ramble on about cargo cults and how humans develop ritualistic behaviors that completely miss the point of what they are trying to accomplish. In programming, business management and even in science itself there are many examples of people doing silly things while appearing to look like they are working.</p>
+
+
+
+<p>links:<br><a href="https://psycnet.apa.org/record/1948-04299-001">Animal superstition</a><br><a href="https://darknetdiaries.com/transcript/3/">Easily hacked certificate authorities (Diginotar)</a></p>
+]]></content:encoded>
+<atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://twitter.com/davekeeshan</atom:uri></atom:contributor>
+
+<atom:contributor><atom:name>Jonathan Byrne</atom:name></atom:contributor>
+
+<podcast:person img="https://futurenotset.com/wp-content/uploads/sites/8/2021/06/DK_face_dinky.png" role="host">Dave Keeshan</podcast:person>
+
+<podcast:person img="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e.jpg?s=512&amp;d=mm&amp;r=g" role="host">Jonathan Byrne</podcast:person>
+	</item>
 	
 	<item>
         <title>Zero Day Exploits</title>
@@ -74,36 +120,6 @@ Meanwhile Jonathan begins to learn the art of podcasting.]]></itunes:summary>
 
 
 <p></p>
-]]></content:encoded>
-<atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://twitter.com/davekeeshan</atom:uri></atom:contributor>
-
-<atom:contributor><atom:name>Jonathan Byrne</atom:name></atom:contributor>
-
-<podcast:person img="https://futurenotset.com/wp-content/uploads/sites/8/2021/06/DK_face_dinky.png" role="host">Dave Keeshan</podcast:person>
-
-<podcast:person img="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e.jpg?s=512&amp;d=mm&amp;r=g" role="host">Jonathan Byrne</podcast:person>
-	</item>
-	
-	<item>
-        <title>Teaser</title>
-		<link>https://futurenotset.com/teaser/</link>
-		<pubDate>Tue, 15 Jun 2021 15:01:04 +0000</pubDate>
-		<guid isPermaLink="false">podlove-2021-06-15t15:00:04+00:00-1ba67d451701275</guid>
-    	<description><![CDATA[Teaser]]></description>
-		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/teaser/#" />
-		
-<enclosure url="https://chrt.fm/track/9EE9B3/dts.podtrac.com/redirect.mp3/archive.org/download/futurenotset/fns_teaser.mp3" length="363222" type="audio/mpeg"/>
-
-		<itunes:duration>00:00:30</itunes:duration>
-		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
-		<itunes:subtitle></itunes:subtitle>
-		<itunes:title>Teaser</itunes:title>
-		<itunes:episode>0</itunes:episode>
-		<itunes:episodeType>full</itunes:episodeType>
-		
-		
-		<content:encoded><![CDATA[
-<p>A sneak peak of what is coming</p>
 ]]></content:encoded>
 <atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://twitter.com/davekeeshan</atom:uri></atom:contributor>
 
