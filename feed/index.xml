@@ -12,7 +12,7 @@
 	<atom:link href="https://futurenotset.com/feed/index.xml" rel="self" type="application/rss+xml" />
 	<link>https://futurenotset.com/</link>
 	<description></description>
-	<lastBuildDate>Thu, 01 Jul 2021 20:33:16 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 08 Jul 2021 20:08:55 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,32 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Machine Learning</title>
+		<link>https://futurenotset.com/machine-learning/</link>
+		
+		<dc:creator><![CDATA[davekeeshan]]></dc:creator>
+		<pubDate>Thu, 08 Jul 2021 20:08:02 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[What is Artificial Intelligence? What is Machine Learning? In this episode Jonathan explains some of the base ideas behind these terms to Dave and a few other things.
+
+This is a podcasting 2.0 complaint podcast.]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="1000" height="700" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/machineLearning3.png" alt="" class="wp-image-71" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/machineLearning3.png 1000w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/machineLearning3-300x210.png 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/machineLearning3-768x538.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+
+
+
+<p>What is Artificial Intelligence? What is Machine Learning? In this episode Jonathan explains some of the base ideas behind these terms to Dave and a few other things.</p>
+
+
+
+<p>This is a podcasting 2.0 complaint podcast.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Cargo Cults</title>
 		<link>https://futurenotset.com/cargo-cults/</link>
 		
