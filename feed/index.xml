@@ -12,7 +12,7 @@
 	<atom:link href="https://futurenotset.com/feed/index.xml" rel="self" type="application/rss+xml" />
 	<link>https://futurenotset.com/</link>
 	<description></description>
-	<lastBuildDate>Thu, 08 Jul 2021 20:08:55 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 15 Jul 2021 15:43:51 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,34 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Sneakers &#8211; A Retrospective</title>
+		<link>https://futurenotset.com/sneakers-a-retrospective/</link>
+		
+		<dc:creator><![CDATA[gomez]]></dc:creator>
+		<pubDate>Thu, 15 Jul 2021 15:43:51 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[This episode Dave and Jon discuss the classic 90s movie, Sneakers. A moderately successful film on release in 1992, it turns out to be one of the most prescient and [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="559" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/vlcsnap-2021-07-15-16h34m13s281-1024x559.png" alt="" class="wp-image-75" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/vlcsnap-2021-07-15-16h34m13s281-1024x559.png 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/vlcsnap-2021-07-15-16h34m13s281-300x164.png 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/vlcsnap-2021-07-15-16h34m13s281-768x419.png 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/vlcsnap-2021-07-15-16h34m13s281-1536x839.png 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/vlcsnap-2021-07-15-16h34m13s281.png 1904w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>This episode Dave and Jon discuss the classic 90s movie, <a href="https://en.wikipedia.org/wiki/Sneakers_(1992_film)">Sneakers</a>. A moderately successful film on release in 1992, it turns out to be one of the most prescient and visionary movies ever made to predicted the world in which we find ourselves living today. Ransonware attacks on public utilities. Questionable motivations of the United States Government Employees against its own citizens and computer dating, its all there!</p>
+
+
+
+<p><strong>Dave Note</strong>: To the content holders of the movie sequel rights, let&#8217;s talk, I have loads of ideas!</p>
+
+
+
+<blockquote class="wp-block-quote"><p>There&#8217;s a war out there, old friend. A world war. And it&#8217;s not about who&#8217;s got the most bullets. It&#8217;s about who controls the information. What we see and hear, how we work, what we think… it&#8217;s all about the information!</p><cite><a href="https://www.imdb.com/name/nm0001426/?ref_=tt_trv_qu">Cosmo</a></cite></blockquote>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Machine Learning</title>
 		<link>https://futurenotset.com/machine-learning/</link>
 		
