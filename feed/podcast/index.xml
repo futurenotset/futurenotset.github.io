@@ -6,7 +6,7 @@
 	<title>The Future is not Set</title>
 	<link>https://futurenotset.com/</link>
 	<description><![CDATA[The future is here! It is just unevenly distributed!]]></description>
-	<lastBuildDate>Thu, 15 Jul 2021 15:43:51 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Jul 2021 15:02:22 +0000</lastBuildDate>
 	
 <image><url>https://futurenotset.com/wp-content/uploads/sites/8/2021/06/notset.png</url><title>The Future is not Set</title><link>https://futurenotset.com/</link></image>
 <atom:link rel="self" type="application/rss+xml" title="The Future is not Set (podcast)" href="https://futurenotset.com/feed/podcast/index.xml" />
@@ -35,6 +35,48 @@
 		<podcast:valueRecipient name="Gurus of Comedy (Podcaster)" type="node" address="033bf25b954273ff9425d1e2fec4b8b604355f618eda210a47ac820759664cf7ba" split="5" />
 		<podcast:valueRecipient name="Satoshi Stream" type="node" address="03c457fafbc8b91b462ef0b8f61d4fd96577a4b58c18b50e59621fd0f41a8ae1a4" split="95" />
 	</podcast:value>
+	
+	<item>
+        <title>Phreaking</title>
+		<link>https://futurenotset.com/phreaking/</link>
+		<pubDate>Fri, 30 Jul 2021 15:02:22 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2021-07-30t14:48:19+00:00-1b77b1e6103bfe8</guid>
+    	<description><![CDATA[This episode we go back and cover the modern ancient history of phreaking. A skill that was impressive the American government was terrified that the hacker Kevin Mitnick could launch a nuclear missile merely by whistling down the phone.
+
+Dave and Jon recount their small exposure when information between computers was actual done by sound!]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/phreaking/#" />
+		
+<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_005.mp3" length="33779752" type="audio/mpeg"/>
+
+		<itunes:duration>00:40:12</itunes:duration>
+		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
+		<itunes:subtitle>Did you hear that?</itunes:subtitle>
+		<itunes:title>Phreaking</itunes:title>
+		<itunes:episode>5</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary><![CDATA[This episode we go back and cover the modern ancient history of phreaking. A skill that was impressive the American government was terrified that the hacker Kevin Mitnick could launch a nuclear missile merely by whistling down the phone.
+
+Dave and Jon recount their small exposure when information between computers was actual done by sound!]]></itunes:summary>
+		
+		<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/phreak.jpg" alt="" class="wp-image-80" width="449" height="358" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/phreak.jpg 992w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/phreak-300x240.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/phreak-768x613.jpg 768w" sizes="(max-width: 449px) 100vw, 449px" /></figure>
+
+
+
+<p>This episode we go back and cover the modern ancient history of <a href="https://en.wikipedia.org/wiki/Phreaking">phreaking</a>. A skill that was impressive the American government was terrified that the hacker <a href="https://en.wikipedia.org/wiki/Kevin_Mitnick">Kevin Mitnick</a> could launch a nuclear missile merely by <a href="https://archive.is/20120713163239/http://news.cnet.com/8301-1009_3-9995253-83.html">whistling down the phone.</a></p>
+
+
+
+<p>Dave and Jon recount their small exposure when information between computers was actual done by sound!</p>
+]]></content:encoded>
+<atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://twitter.com/davekeeshan</atom:uri></atom:contributor>
+
+<atom:contributor><atom:name>Jonathan Byrne</atom:name></atom:contributor>
+
+<podcast:person img="https://futurenotset.com/wp-content/uploads/sites/8/2021/06/DK_face_dinky.png" role="host">Dave Keeshan</podcast:person>
+
+<podcast:person img="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e.jpg?s=512&amp;d=mm&amp;r=g" role="host">Jonathan Byrne</podcast:person>
+	</item>
 	
 	<item>
         <title>Sneakers - A Retrospective</title>
@@ -85,7 +127,7 @@
 		<guid isPermaLink="false">podlove-2021-07-08t19:59:15+00:00-d217862ace748d9</guid>
     	<description><![CDATA[What is Artificial Intelligence? What is Machine Learning? In this episode Jonathan explains some of the base ideas behind these terms to Dave and a few other things.
 
-This is a podcasting 2.0 complaint podcast.]]></description>
+This is a podcasting 2.0 compliant podcast.]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/machine-learning/#" />
 		
 <enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_003.mp3" length="42144024" type="audio/mpeg"/>
@@ -98,7 +140,7 @@ This is a podcasting 2.0 complaint podcast.]]></description>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:summary><![CDATA[What is Artificial Intelligence? What is Machine Learning? In this episode Jonathan explains some of the base ideas behind these terms to Dave and a few other things.
 
-This is a podcasting 2.0 complaint podcast.]]></itunes:summary>
+This is a podcasting 2.0 compliant podcast.]]></itunes:summary>
 		
 		<content:encoded><![CDATA[
 <figure class="wp-block-image size-large"><img loading="lazy" width="1000" height="700" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/machineLearning3.png" alt="" class="wp-image-71" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/machineLearning3.png 1000w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/machineLearning3-300x210.png 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/machineLearning3-768x538.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
@@ -109,7 +151,7 @@ This is a podcasting 2.0 complaint podcast.]]></itunes:summary>
 
 
 
-<p>This is a podcasting 2.0 complaint podcast.</p>
+<p>This is a podcasting 2.0 compliant podcast.</p>
 ]]></content:encoded>
 <atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://twitter.com/davekeeshan</atom:uri></atom:contributor>
 
