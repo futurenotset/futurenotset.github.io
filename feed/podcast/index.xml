@@ -6,7 +6,7 @@
 	<title>The Future is not Set</title>
 	<link>https://futurenotset.com/</link>
 	<description><![CDATA[The future is here! It is just unevenly distributed!]]></description>
-	<lastBuildDate>Fri, 30 Jul 2021 15:02:22 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 19 Aug 2021 19:13:45 +0000</lastBuildDate>
 	
 <image><url>https://futurenotset.com/wp-content/uploads/sites/8/2021/06/notset.png</url><title>The Future is not Set</title><link>https://futurenotset.com/</link></image>
 <atom:link rel="self" type="application/rss+xml" title="The Future is not Set (podcast)" href="https://futurenotset.com/feed/podcast/index.xml" />
@@ -35,6 +35,52 @@
 		<podcast:valueRecipient name="Gurus of Comedy (Podcaster)" type="node" address="033bf25b954273ff9425d1e2fec4b8b604355f618eda210a47ac820759664cf7ba" split="5" />
 		<podcast:valueRecipient name="Satoshi Stream" type="node" address="03c457fafbc8b91b462ef0b8f61d4fd96577a4b58c18b50e59621fd0f41a8ae1a4" split="95" />
 	</podcast:value>
+	
+	<item>
+        <title>Mask Wearing</title>
+		<link>https://futurenotset.com/mask-wearing/</link>
+		<pubDate>Thu, 19 Aug 2021 19:13:45 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2021-08-19t19:04:46+00:00-f40b588b06642f9</guid>
+    	<description><![CDATA[in some way used to wearing a mask to get about their day. Dave and Jonathan are happy to wear masks for the risk prevention the afford, maths is no their side, however it doesn't mean that they like them.  Dave has taken up chewing gum to counter act his bad breath!
+
+While also big fans of a good conspiracy, we still struggle to figure out how to send a wireless 5G tracking microchip down a hypodermic needle.  Do you know how hard it is to get a 5G modem to work? I mean seriously! The person/company who achieve that will not do it is secret, they'll take that company public and be the biggest IPO ever seen! Just sayin!]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/mask-wearing/#" />
+		
+<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_006.mp3" length="27178226" type="audio/mpeg"/>
+
+		<itunes:duration>00:00:00</itunes:duration>
+		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
+		<itunes:subtitle>Shorting Chewing Gum</itunes:subtitle>
+		<itunes:title>Mask Wearing</itunes:title>
+		<itunes:episode>6</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary><![CDATA[in some way used to wearing a mask to get about their day. Dave and Jonathan are happy to wear masks for the risk prevention the afford, maths is no their side, however it doesn't mean that they like them.  Dave has taken up chewing gum to counter act his bad breath!
+
+While also big fans of a good conspiracy, we still struggle to figure out how to send a wireless 5G tracking microchip down a hypodermic needle.  Do you know how hard it is to get a 5G modem to work? I mean seriously! The person/company who achieve that will not do it is secret, they'll take that company public and be the biggest IPO ever seen! Just sayin!]]></itunes:summary>
+		
+		<content:encoded><![CDATA[
+<p></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="768" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/08/il_fullxfull.2393351584_mz7a-1024x768.jpg" alt="" class="wp-image-84" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/08/il_fullxfull.2393351584_mz7a-1024x768.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/08/il_fullxfull.2393351584_mz7a-300x225.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/08/il_fullxfull.2393351584_mz7a-768x576.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/08/il_fullxfull.2393351584_mz7a-1536x1152.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2021/08/il_fullxfull.2393351584_mz7a.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Lets talk about wearing masks.  Some people have to wear masks as part of their day to day life, now the whole world is in some way used to wearing a mask to get about their day. Dave and Jonathan are happy to wear masks for the risk prevention the afford, maths is no their side, however it doesn&#8217;t mean that they like them.  Dave has taken up chewing gum to counter act his bad breath!</p>
+
+
+
+<p>While also big fans of a good conspiracy, we still struggle to figure out how to send a wireless 5G tracking microchip down a hypodermic needle.  Do you know how hard it is to get a 5G modem to work? I mean seriously! The person/company who achieve that will not do it is secret, they&#8217;ll take that company public and be the biggest IPO ever seen! Just sayin!</p>
+]]></content:encoded>
+<atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://twitter.com/davekeeshan</atom:uri></atom:contributor>
+
+<atom:contributor><atom:name>Jonathan Byrne</atom:name></atom:contributor>
+
+<podcast:person img="https://futurenotset.com/wp-content/uploads/sites/8/2021/06/DK_face_dinky.png" role="host">Dave Keeshan</podcast:person>
+
+<podcast:person img="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e.jpg?s=512&amp;d=mm&amp;r=g" role="host">Jonathan Byrne</podcast:person>
+	</item>
 	
 	<item>
         <title>Phreaking</title>
