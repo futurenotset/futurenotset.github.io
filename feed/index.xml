@@ -12,7 +12,7 @@
 	<atom:link href="https://futurenotset.com/feed/index.xml" rel="self" type="application/rss+xml" />
 	<link>https://futurenotset.com/</link>
 	<description></description>
-	<lastBuildDate>Thu, 23 Sep 2021 22:46:06 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 23 Sep 2021 22:49:15 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,9 +29,9 @@
 </image> 
 	<item>
 		<title>Podcasting 2.0 part I</title>
-		<link>https://futurenotset.com/p0dcasting-2-0-part-i/</link>
+		<link>https://futurenotset.com/podcasting-2-0-part-i/</link>
 		
-		<dc:creator><![CDATA[gomez]]></dc:creator>
+		<dc:creator><![CDATA[davekeeshan]]></dc:creator>
 		<pubDate>Thu, 23 Sep 2021 22:28:47 +0000</pubDate>
 				<guid isPermaLink="false"></guid>
 
