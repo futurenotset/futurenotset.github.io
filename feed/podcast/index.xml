@@ -6,7 +6,7 @@
 	<title>The Future is not Set</title>
 	<link>https://futurenotset.com/</link>
 	<description><![CDATA[The future is here! It is just unevenly distributed!]]></description>
-	<lastBuildDate>Thu, 09 Sep 2021 20:13:08 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 23 Sep 2021 22:29:34 +0000</lastBuildDate>
 	
 <image><url>https://futurenotset.com/wp-content/uploads/sites/8/2021/06/notset.png</url><title>The Future is not Set</title><link>https://futurenotset.com/</link></image>
 <atom:link rel="self" type="application/rss+xml" title="The Future is not Set (podcast)" href="https://futurenotset.com/feed/podcast/index.xml" />
@@ -35,6 +35,56 @@
 		<podcast:valueRecipient name="Gurus of Comedy (Podcaster)" type="node" address="033bf25b954273ff9425d1e2fec4b8b604355f618eda210a47ac820759664cf7ba" split="5" />
 		<podcast:valueRecipient name="Satoshi Stream" type="node" address="03c457fafbc8b91b462ef0b8f61d4fd96577a4b58c18b50e59621fd0f41a8ae1a4" split="95" />
 	</podcast:value>
+	
+	<item>
+        <title>Podcasting 2.0 part I</title>
+		<link>https://futurenotset.com/podcasting-2-0-part-i/</link>
+		<pubDate>Thu, 23 Sep 2021 22:28:47 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2021-09-23t22:11:27+00:00-f5871621daf46ae</guid>
+    	<description><![CDATA[And we are back again talking about podcasting and the big fight against the walled gardens and their deep pockets.  It took, 150 million to pay of Joe Rogan, we won't be as cheap!
+
+Dave explains to Jonathan what podcasting 2.0 is and where it is going, sexy things like RSS feeds and meta tags, we go nuts!  It turns out to be such a massive project, we run out of time, so we'll be back to cover the one topic that gets left as a cliffhanger, what is it? Join us for part II!]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/podcasting-2-0-part-i/#" />
+		
+<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_008.mp3" length="38528540" type="audio/mpeg"/>
+
+		<itunes:duration>00:45:51</itunes:duration>
+		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
+		<itunes:subtitle>Figthing the Deep Pocket Wall Gardens!</itunes:subtitle>
+		<itunes:title>Podcasting 2.0 part I</itunes:title>
+		<itunes:episode>8</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary><![CDATA[And we are back again talking about podcasting and the big fight against the walled gardens and their deep pockets.  It took, 150 million to pay of Joe Rogan, we won't be as cheap!
+
+Dave explains to Jonathan what podcasting 2.0 is and where it is going, sexy things like RSS feeds and meta tags, we go nuts!  It turns out to be such a massive project, we run out of time, so we'll be back to cover the one topic that gets left as a cliffhanger, what is it? Join us for part II!]]></itunes:summary>
+		
+		<content:encoded><![CDATA[
+<p></p>
+
+
+
+<div class="wp-block-image is-style-rounded"><figure class="alignright size-large is-resized"><img loading="lazy" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/09/harry-cunningham-_1J2AioiNC0-unsplash-683x1024.jpg" alt="" class="wp-image-95" width="342" height="512" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/09/harry-cunningham-_1J2AioiNC0-unsplash-683x1024.jpg 683w, https://futurenotset.com/wp-content/uploads/sites/8/2021/09/harry-cunningham-_1J2AioiNC0-unsplash-200x300.jpg 200w, https://futurenotset.com/wp-content/uploads/sites/8/2021/09/harry-cunningham-_1J2AioiNC0-unsplash-768x1152.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/09/harry-cunningham-_1J2AioiNC0-unsplash-1024x1536.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/09/harry-cunningham-_1J2AioiNC0-unsplash-1365x2048.jpg 1365w, https://futurenotset.com/wp-content/uploads/sites/8/2021/09/harry-cunningham-_1J2AioiNC0-unsplash-scaled.jpg 1707w" sizes="(max-width: 342px) 100vw, 342px" /></figure></div>
+
+
+
+<p>And we are back again talking about podcasting and the big fight against the walled gardens and their deep pockets.  It took, 150 million to pay of Joe Rogan, we won&#8217;t be as cheap!</p>
+
+
+
+<p><br>Dave explains to Jonathan what <a href="https://podcastindex.org/index.xml">podcasting 2.0</a> is and where it is going, sexy things like RSS feeds and meta tags, we go nuts!  It turns out to be such a massive project, we run out of time, so we&#8217;ll be back to cover the one topic that gets left as a cliffhanger, what is it? Join us for part II!</p>
+
+
+
+<p>Photo by <a href="https://unsplash.com/@harrycunningham?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Harry Cunningham</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+]]></content:encoded>
+<atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://twitter.com/davekeeshan</atom:uri></atom:contributor>
+
+<atom:contributor><atom:name>Jonathan Byrne</atom:name></atom:contributor>
+
+<podcast:person img="https://futurenotset.com/wp-content/uploads/sites/8/2021/06/DK_face_dinky.png" role="host">Dave Keeshan</podcast:person>
+
+<podcast:person img="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e.jpg?s=512&amp;d=mm&amp;r=g" role="host">Jonathan Byrne</podcast:person>
+	</item>
 	
 	<item>
         <title>How to podcast?</title>
