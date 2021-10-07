@@ -6,7 +6,7 @@
 	<title>The Future is not Set</title>
 	<link>https://futurenotset.com/</link>
 	<description><![CDATA[The future is here! It is just unevenly distributed!]]></description>
-	<lastBuildDate>Thu, 23 Sep 2021 22:49:15 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 07 Oct 2021 19:38:02 +0000</lastBuildDate>
 	
 <image><url>https://futurenotset.com/wp-content/uploads/sites/8/2021/06/notset.png</url><title>The Future is not Set</title><link>https://futurenotset.com/</link></image>
 <atom:link rel="self" type="application/rss+xml" title="The Future is not Set (podcast)" href="https://futurenotset.com/feed/podcast/index.xml" />
@@ -35,6 +35,84 @@
 		<podcast:valueRecipient name="Gurus of Comedy (Podcaster)" type="node" address="033bf25b954273ff9425d1e2fec4b8b604355f618eda210a47ac820759664cf7ba" split="5" />
 		<podcast:valueRecipient name="Satoshi Stream" type="node" address="03c457fafbc8b91b462ef0b8f61d4fd96577a4b58c18b50e59621fd0f41a8ae1a4" split="95" />
 	</podcast:value>
+	
+	<item>
+        <title>Value Tag (Podcasting 2.0 part II)</title>
+		<link>https://futurenotset.com/value-tag-podcasting-2-0-part-ii/</link>
+		<pubDate>Thu, 07 Oct 2021 19:38:01 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2021-10-07t19:23:34+00:00-e3b825d76fb3a65</guid>
+    	<description><![CDATA[Well we're back and we have unfinished business. In our last epsidode we started discussing he RSS tags added to help make podcasting more searchable, and like a good cliffhanger we finished before even getting to the value tag. Nothing seems to have energised the podcasting community like the value tag.
+
+The value tag has been, depending on where you stand, proposed or introduced to the RSS standard for podcasting, well what it is and how does it work. Getting paid for podcasting by the people who are listening, is that even possible?
+
+    YES!
+
+It starts off simple enough, but before long we are well deep into the crypto world of bitcoin, lightning, trust and trustless systems, n entry ledgers where n>2, Wild!
+
+For the record this podcast is v4v compliant and has an active ligtning address, feel free to pop us a boost. If you want to do it old schoole here is an address:
+
+03c457fafbc8b91b462ef0b8f61d4fd96577a4b58c18b50e59621fd0f41a8ae1a4]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/value-tag-podcasting-2-0-part-ii/#" />
+		
+<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_009.mp3" length="39123573" type="audio/mpeg"/>
+
+		<itunes:duration>00:46:34</itunes:duration>
+		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
+		<itunes:subtitle>Looping out so we can loop in!</itunes:subtitle>
+		<itunes:title>Value Tag (Podcasting 2.0 part II)</itunes:title>
+		<itunes:episode>2</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary><![CDATA[Well we're back and we have unfinished business. In our last epsidode we started discussing he RSS tags added to help make podcasting more searchable, and like a good cliffhanger we finished before even getting to the value tag. Nothing seems to have energised the podcasting community like the value tag.
+
+The value tag has been, depending on where you stand, proposed or introduced to the RSS standard for podcasting, well what it is and how does it work. Getting paid for podcasting by the people who are listening, is that even possible?
+
+    YES!
+
+It starts off simple enough, but before long we are well deep into the crypto world of bitcoin, lightning, trust and trustless systems, n entry ledgers where n&gt;2, Wild!
+
+For the record this podcast is v4v compliant and has an active ligtning address, feel free to pop us a boost. If you want to do it old schoole here is an address:
+
+03c457fafbc8b91b462ef0b8f61d4fd96577a4b58c18b50e59621fd0f41a8ae1a4]]></itunes:summary>
+		
+		<content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="alignleft size-medium"><img loading="lazy" width="300" height="225" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/10/thought-catalog-Xeo_7HSwYsA-unsplash-300x225.jpg" alt="" class="wp-image-103" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/10/thought-catalog-Xeo_7HSwYsA-unsplash-300x225.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/thought-catalog-Xeo_7HSwYsA-unsplash-1024x767.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/thought-catalog-Xeo_7HSwYsA-unsplash-768x575.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/thought-catalog-Xeo_7HSwYsA-unsplash-1536x1151.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/thought-catalog-Xeo_7HSwYsA-unsplash-2048x1535.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></figure></div>
+
+
+
+<p>Well we&#8217;re back and we have unfinished business.  In our last epsidode we started discussing  he RSS tags added to help make podcasting more searchable, and like a good cliffhanger we finished before even getting to the value tag. Nothing seems to have energised the podcasting community like the value tag.</p>
+
+
+
+<p>The value tag has been, depending on where you stand, proposed or introduced to the RSS standard for podcasting, well what it is and how does it work.  Getting paid for podcasting by the people who are listening, is that even possible?</p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong><em>YES!</em></strong></p></blockquote>
+
+
+
+<p>It starts off simple enough, but before long we are well deep into the crypto world of bitcoin, lightning, trust and trustless systems, n entry ledgers where n>2, Wild!</p>
+
+
+
+<p>For the record this podcast is v4v (value for value) compliant and has an active ligtning address, feel free to pop us a boost. If you want to do it old schoole here is an address:</p>
+
+
+
+<pre id="line1" class="wp-block-preformatted"><a>03c457fafbc8b91b462ef0b8f61d4fd96577a4b58c18b50e59621fd0f41a8ae1a4</a></pre>
+
+
+
+<p>Photo by <a href="https://unsplash.com/@thoughtcatalog?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Thought Catalog</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+]]></content:encoded>
+<atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://twitter.com/davekeeshan</atom:uri></atom:contributor>
+
+<atom:contributor><atom:name>Jonathan Byrne</atom:name></atom:contributor>
+
+<podcast:person img="https://futurenotset.com/wp-content/uploads/sites/8/2021/06/DK_face_dinky.png" role="host">Dave Keeshan</podcast:person>
+
+<podcast:person img="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e.jpg?s=512&amp;d=mm&amp;r=g" role="host">Jonathan Byrne</podcast:person>
+	</item>
 	
 	<item>
         <title>Podcasting 2.0 part I</title>
