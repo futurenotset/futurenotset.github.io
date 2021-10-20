@@ -6,7 +6,7 @@
 	<title>The Future is not Set</title>
 	<link>https://futurenotset.com/</link>
 	<description><![CDATA[The future is here! It is just unevenly distributed!]]></description>
-	<lastBuildDate>Thu, 07 Oct 2021 20:02:49 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 20 Oct 2021 19:26:09 +0000</lastBuildDate>
 	
 <image><url>https://futurenotset.com/wp-content/uploads/sites/8/2021/06/notset.png</url><title>The Future is not Set</title><link>https://futurenotset.com/</link></image>
 <atom:link rel="self" type="application/rss+xml" title="The Future is not Set (podcast)" href="https://futurenotset.com/feed/podcast/index.xml" />
@@ -37,6 +37,68 @@
 	</podcast:value>
 	
 	<item>
+        <title>The Trolley Problem</title>
+		<link>https://futurenotset.com/the-trolley-problem/</link>
+		<pubDate>Wed, 20 Oct 2021 19:25:55 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2021-10-20t19:05:07+00:00-f86044f830f2410</guid>
+    	<description><![CDATA[There is a runaway trolley, heading down a track, that will kill 5 people if you do nothing, but you can choose to divert the train and kill one person! What do you do?
+
+This is The Tolley Problem!
+
+Welcome to the world of moral psychology and how the thought experiment above is having real world discussions in the space of automonous vehicles, covid lockdown and vaccination protocols, AI assisted medical diagnosis and much much more.
+
+We discuss how simple systems get complicated very fast when you put a fast moving ton of metal onto the streets where it can interact with the unaware population going about its day to day life.]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/the-trolley-problem/#" />
+		
+<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_010.mp3" length="27393644" type="audio/mpeg"/>
+
+		<itunes:duration>00:38:26</itunes:duration>
+		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
+		<itunes:subtitle>The needs of the many, outweigh the needs of the few ... or the one!</itunes:subtitle>
+		<itunes:title>The Trolley Problem</itunes:title>
+		<itunes:episode>10</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary><![CDATA[There is a runaway trolley, heading down a track, that will kill 5 people if you do nothing, but you can choose to divert the train and kill one person! What do you do?
+
+This is The Tolley Problem!
+
+Welcome to the world of moral psychology and how the thought experiment above is having real world discussions in the space of automonous vehicles, covid lockdown and vaccination protocols, AI assisted medical diagnosis and much much more.
+
+We discuss how simple systems get complicated very fast when you put a fast moving ton of metal onto the streets where it can interact with the unaware population going about its day to day life.]]></itunes:summary>
+		
+		<content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="alignleft size-medium is-resized"><img loading="lazy" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-200x300.jpg" alt="" class="wp-image-110" width="250" height="375" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-200x300.jpg 200w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-683x1024.jpg 683w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-768x1151.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-1025x1536.jpg 1025w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-1367x2048.jpg 1367w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-scaled.jpg 1709w" sizes="(max-width: 250px) 100vw, 250px" /></figure></div>
+
+
+
+<p>There is a runaway trolley, heading down a track, that <strong><em>will </em></strong>kill 5 people if you do nothing, but you can <strong><em>choose </em></strong>to divert the train and kill one person! What do you do?</p>
+
+
+
+<p class="has-text-align-left"><strong><a href="https://en.wikipedia.org/wiki/Trolley_problem">This is The Tolley Problem</a>!</strong></p>
+
+
+
+<p>Welcome to the world of <a href="https://en.wikipedia.org/wiki/Moral_psychology">moral psychology</a> and how the thought experiment above is having real world discussions in the space of <a href="https://en.wikipedia.org/wiki/Autonomous_vehicle">automonous vehicles</a>, <a href="https://www.irishtimes.com/opinion/covid-19-a-moral-dilemma-for-society-1.4385347">covid lockdown and vaccination protocols</a>, AI assisted medical diagnosis and much much more.</p>
+
+
+
+<p>We discuss how simple systems get complicated very fast when you put a fast moving ton of metal onto the streets where it can interact with the unaware population going about its day to day life.</p>
+
+
+
+<p>Photo by <a href="https://unsplash.com/@astrobobo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Boris Stromar</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+]]></content:encoded>
+<atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://twitter.com/davekeeshan</atom:uri></atom:contributor>
+
+<atom:contributor><atom:name>Jonathan Byrne</atom:name></atom:contributor>
+
+<podcast:person img="https://futurenotset.com/wp-content/uploads/sites/8/2021/06/DK_face_dinky.png" role="host">Dave Keeshan</podcast:person>
+
+<podcast:person img="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e.jpg?s=512&amp;d=mm&amp;r=g" role="host">Jonathan Byrne</podcast:person>
+	</item>
+	
+	<item>
         <title>Value Tag (Podcasting 2.0 part II)</title>
 		<link>https://futurenotset.com/value-tag-podcasting-2-0-part-ii/</link>
 		<pubDate>Thu, 07 Oct 2021 19:38:01 +0000</pubDate>
@@ -60,7 +122,7 @@ For the record this podcast is v4v compliant and has an active ligtning address,
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
 		<itunes:subtitle>Looping out so we can loop in!</itunes:subtitle>
 		<itunes:title>Value Tag (Podcasting 2.0 part II)</itunes:title>
-		<itunes:episode>2</itunes:episode>
+		<itunes:episode>9</itunes:episode>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:summary><![CDATA[Well we're back and we have unfinished business. In our last epsidode we started discussing he RSS tags added to help make podcasting more searchable, and like a good cliffhanger we finished before even getting to the value tag. Nothing seems to have energised the podcasting community like the value tag.
 
@@ -91,7 +153,7 @@ For the record this podcast is v4v compliant and has an active ligtning address,
 
 
 
-<p>It starts off simple enough, but before long we are well deep into the crypto world of bitcoin, lightning, trust and trustless systems, n entry ledgers where n>2, Wild!</p>
+<p>It starts off simple enough, but before long we are well deep into the crypto world of bitcoin, lightning, trust and trustless systems, n entry ledgers where n&gt;2, Wild!</p>
 
 
 

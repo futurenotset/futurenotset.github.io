@@ -12,7 +12,7 @@
 	<atom:link href="https://futurenotset.com/feed/index.xml" rel="self" type="application/rss+xml" />
 	<link>https://futurenotset.com/</link>
 	<description></description>
-	<lastBuildDate>Thu, 07 Oct 2021 20:02:49 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 20 Oct 2021 19:26:09 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,48 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The Trolley Problem</title>
+		<link>https://futurenotset.com/the-trolley-problem/</link>
+		
+		<dc:creator><![CDATA[davekeeshan]]></dc:creator>
+		<pubDate>Wed, 20 Oct 2021 19:25:55 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[There is a runaway trolley, heading down a track, that will kill 5 people if you do nothing, but you can choose to divert the train and kill one person! What do you do?
+
+This is The Tolley Problem!
+
+Welcome to the world of moral psychology and how the thought experiment above is having real world discussions in the space of automonous vehicles, covid lockdown and vaccination protocols, AI assisted medical diagnosis and much much more.
+
+We discuss how simple systems get complicated very fast when you put a fast moving ton of metal onto the streets where it can interact with the unaware population going about its day to day life.]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="alignleft size-medium is-resized"><img loading="lazy" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-200x300.jpg" alt="" class="wp-image-110" width="250" height="375" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-200x300.jpg 200w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-683x1024.jpg 683w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-768x1151.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-1025x1536.jpg 1025w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-1367x2048.jpg 1367w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-scaled.jpg 1709w" sizes="(max-width: 250px) 100vw, 250px" /></figure></div>
+
+
+
+<p>There is a runaway trolley, heading down a track, that <strong><em>will </em></strong>kill 5 people if you do nothing, but you can <strong><em>choose </em></strong>to divert the train and kill one person! What do you do?</p>
+
+
+
+<p class="has-text-align-left"><strong><a href="https://en.wikipedia.org/wiki/Trolley_problem">This is The Tolley Problem</a>!</strong></p>
+
+
+
+<p>Welcome to the world of <a href="https://en.wikipedia.org/wiki/Moral_psychology">moral psychology</a> and how the thought experiment above is having real world discussions in the space of <a href="https://en.wikipedia.org/wiki/Autonomous_vehicle">automonous vehicles</a>, <a href="https://www.irishtimes.com/opinion/covid-19-a-moral-dilemma-for-society-1.4385347">covid lockdown and vaccination protocols</a>, AI assisted medical diagnosis and much much more.</p>
+
+
+
+<p>We discuss how simple systems get complicated very fast when you put a fast moving ton of metal onto the streets where it can interact with the unaware population going about its day to day life.</p>
+
+
+
+<p>Photo by <a href="https://unsplash.com/@astrobobo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Boris Stromar</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Value Tag (Podcasting 2.0 part II)</title>
 		<link>https://futurenotset.com/value-tag-podcasting-2-0-part-ii/</link>
 		
@@ -63,7 +105,7 @@ For the record this podcast is v4v compliant and has an active ligtning address,
 
 
 
-<p>It starts off simple enough, but before long we are well deep into the crypto world of bitcoin, lightning, trust and trustless systems, n entry ledgers where n>2, Wild!</p>
+<p>It starts off simple enough, but before long we are well deep into the crypto world of bitcoin, lightning, trust and trustless systems, n entry ledgers where n&gt;2, Wild!</p>
 
 
 
