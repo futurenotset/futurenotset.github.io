@@ -6,7 +6,7 @@
 	<title>The Future is not Set</title>
 	<link>https://futurenotset.com/</link>
 	<description><![CDATA[The future is here! It is just unevenly distributed!]]></description>
-	<lastBuildDate>Wed, 20 Oct 2021 19:34:37 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Nov 2021 22:39:41 +0000</lastBuildDate>
 	
 <image><url>https://futurenotset.com/wp-content/uploads/sites/8/2021/06/notset.png</url><title>The Future is not Set</title><link>https://futurenotset.com/</link></image>
 <atom:link rel="self" type="application/rss+xml" title="The Future is not Set (podcast)" href="https://futurenotset.com/feed/podcast/index.xml" />
@@ -35,6 +35,72 @@
 		<podcast:valueRecipient name="Gurus of Comedy (Podcaster)" type="node" address="033bf25b954273ff9425d1e2fec4b8b604355f618eda210a47ac820759664cf7ba" split="5" />
 		<podcast:valueRecipient name="Satoshi Stream" type="node" address="03c457fafbc8b91b462ef0b8f61d4fd96577a4b58c18b50e59621fd0f41a8ae1a4" split="95" />
 	</podcast:value>
+	
+	<item>
+        <title>Chipageddon</title>
+		<link>https://futurenotset.com/chipageddon/</link>
+		<pubDate>Thu, 04 Nov 2021 22:39:40 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2021-11-04t22:23:16+00:00-7bd035ce729366b</guid>
+    	<description><![CDATA[You may not know it, but we are currently experienceing the first chipageddon ever! Basic microchips are in short supply, but fundamental enough that car manufacturers are have to stop factories and layoff workers.
+
+With the advent of computers, it allowed us to deploy Just In Time manufacturing.  Parts are dispatched just before they are needed, and system that is so perfect it falls to pieces when a global lockdown forces workers to reduce capacity.
+
+This isn't limited to just chips.  Supply issues can be seen every where, bikes, cars, computers, toilet rolls, books for christmas and even cardboard!]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/chipageddon/#" />
+		
+<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_011.mp3" length="34869218" type="audio/mpeg"/>
+
+		<itunes:duration>00:41:30</itunes:duration>
+		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
+		<itunes:subtitle>Anyone buyin or sellin?</itunes:subtitle>
+		<itunes:title>Chipageddon</itunes:title>
+		<itunes:episode>11</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary><![CDATA[You may not know it, but we are currently experienceing the first chipageddon ever! Basic microchips are in short supply, but fundamental enough that car manufacturers are have to stop factories and layoff workers.
+
+With the advent of computers, it allowed us to deploy Just In Time manufacturing.  Parts are dispatched just before they are needed, and system that is so perfect it falls to pieces when a global lockdown forces workers to reduce capacity.
+
+This isn't limited to just chips.  Supply issues can be seen every where, bikes, cars, computers, toilet rolls, books for christmas and even cardboard!]]></itunes:summary>
+		
+		<content:encoded><![CDATA[
+<p></p>
+
+
+
+<div class="wp-block-image"><figure class="alignleft size-medium"><img loading="lazy" width="300" height="199" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/11/laura-ockel-pGVr8YRtQ80-unsplash-300x199.jpg" alt="" class="wp-image-116" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/11/laura-ockel-pGVr8YRtQ80-unsplash-300x199.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/11/laura-ockel-pGVr8YRtQ80-unsplash-1024x678.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/11/laura-ockel-pGVr8YRtQ80-unsplash-768x509.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/11/laura-ockel-pGVr8YRtQ80-unsplash-1536x1017.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2021/11/laura-ockel-pGVr8YRtQ80-unsplash-2048x1356.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></figure></div>
+
+
+
+<p>You may not know it, but we are currently experienceing the first chipageddon ever! Basic microchips are in short supply, but fundamental enough that car manufacturers are have to stop factories and layoff workers.</p>
+
+
+
+<p>With the advent of computers, it allowed us to deploy <a href="https://en.wikipedia.org/wiki/Lean_manufacturing">Just In Time manufacturing</a>.  Parts are dispatched just before they are needed, and system that is so perfect it falls to pieces when a global lockdown forces workers to reduce capacity.</p>
+
+
+
+<p>This isn&#8217;t limited to just chips.  Supply issues can be seen every where, bikes, cars, computers, toilet rolls, books for christmas and even cardboard!</p>
+
+
+
+<p>This podcast will help you get ready for the Mad Max induced <a href="https://en.wikipedia.org/wiki/Mad_Max_Beyond_Thunderdome">Bartertown </a>that will be in all our futures! I get to be <a href="https://en.wikipedia.org/wiki/Tina_Turner">Aunty Entity</a>. </p>
+
+
+
+<blockquote class="wp-block-quote"><p><a href="https://www.imdb.com/name/nm0000686/?ref_=tt_ch">Max Zorin</a> : Gentlemen, for centuries alchemists tried to make gold from base metals. Today, we make microchips from sillicon, which is common sand; but far better than gold. We are now in the unique position to form an international cartel to control not only production, but distribution of these microchips.</p></blockquote>
+
+
+
+<p>Photo by <a href="https://unsplash.com/@viazavier?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Laura Ockel</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+]]></content:encoded>
+<atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://twitter.com/davekeeshan</atom:uri></atom:contributor>
+
+<atom:contributor><atom:name>Jonathan Byrne</atom:name></atom:contributor>
+
+<podcast:person img="https://futurenotset.com/wp-content/uploads/sites/8/2021/06/DK_face_dinky.png" role="host">Dave Keeshan</podcast:person>
+
+<podcast:person img="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e.jpg?s=512&amp;d=mm&amp;r=g" role="host">Jonathan Byrne</podcast:person>
+	</item>
 	
 	<item>
         <title>The Trolley Problem</title>
