@@ -12,13 +12,13 @@
 	<atom:link href="https://futurenotset.com/feed/index.xml" rel="self" type="application/rss+xml" />
 	<link>https://futurenotset.com/</link>
 	<description></description>
-	<lastBuildDate>Thu, 04 Nov 2021 22:39:41 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 18 Nov 2021 20:10:28 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
 	<url>https://futurenotset.com/wp-content/uploads/sites/8/2021/06/cropped-notset-icon-32x32.png</url>
@@ -28,10 +28,40 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Crypto and Bitcoin</title>
+		<link>https://futurenotset.com/crypto-and-bitcoin/</link>
+		
+		<dc:creator><![CDATA[davekeeshan]]></dc:creator>
+		<pubDate>Thu, 18 Nov 2021 20:10:27 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[This is it! The Crypto episode, it is the one topic that has been asked for again and again, so you get it! We cover how it all began and the two nerds that Dave and Jonathan are early forays into crypto before it was cool! How did we all get from spending 20 BTC on a cup a coffee to the total market cap exceeding $2.5 Trillion (That is Trillion with a T). This podcast seeks to unwrap some of the babbozzling parts of crypto explain what it is all about. Well we give it a red hot go at least!
+
+This topic turned out to be too huge, so join us next episode when the crypto experience really takes off!]]></description>
+										<content:encoded><![CDATA[
+<p>This is it! The Crypto episode! It is the one topic that has been asked for again and again, so you get it! We cover how it all began and the two nerds that Dave and Jonathan are early forays into crypto before it was cool! How did we all get from spending 20 BTC on a cup a coffee to the <a href="https://coinmarketcap.com/all/views/all/">total market cap exceeding $2.5 Trillion</a> (That is Trillion with a T). This podcast seeks to unwrap some of the babbozzling parts of crypto and explain what it is all about. Well we give it a red hot go at least!</p>
+
+
+
+<p>This topic turned out to be too huge, so join us next episode when the crypto experience really takes off!</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="683" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/11/maxim-hopman-fiXLQXAhCfk-unsplash-1024x683.jpg" alt="" class="wp-image-121" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/11/maxim-hopman-fiXLQXAhCfk-unsplash-1024x683.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/11/maxim-hopman-fiXLQXAhCfk-unsplash-300x200.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/11/maxim-hopman-fiXLQXAhCfk-unsplash-768x512.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/11/maxim-hopman-fiXLQXAhCfk-unsplash-1536x1024.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2021/11/maxim-hopman-fiXLQXAhCfk-unsplash-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Photo by <a href="https://unsplash.com/@nampoh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Maxim Hopman</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Chipageddon</title>
 		<link>https://futurenotset.com/chipageddon/</link>
 		
-		<dc:creator><![CDATA[gomez]]></dc:creator>
+		<dc:creator><![CDATA[davekeeshan]]></dc:creator>
 		<pubDate>Thu, 04 Nov 2021 22:39:40 +0000</pubDate>
 				<guid isPermaLink="false"></guid>
 
@@ -49,7 +79,7 @@ This isn't limited to just chips.  Supply issues can be seen every where, bikes,
 
 
 
-<p>You may not know it, but we are currently experienceing the first chipageddon ever! Basic microchips are in short supply, but fundamental enough that car manufacturers are have to stop factories and layoff workers.</p>
+<p>You may not know it, but we are currently experiencing the first chipageddon ever! Basic microchips are in short supply, but fundamental enough that car manufacturers are have to stop factories and layoff workers.</p>
 
 
 
@@ -340,34 +370,6 @@ This is a podcasting 2.0 compliant podcast.]]></description>
 
 
 <p>This is a podcasting 2.0 compliant podcast.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Cargo Cults</title>
-		<link>https://futurenotset.com/cargo-cults/</link>
-		
-		<dc:creator><![CDATA[davekeeshan]]></dc:creator>
-		<pubDate>Thu, 01 Jul 2021 15:02:10 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
-
-					<description><![CDATA[In this episode Dave and Jonathan ramble on about cargo cults and how humans develop ritualistic behaviors that completely miss the point of what they are trying to accomplish. In programming, business management and even in science itself there are many examples of people doing silly things while appearing to look like they are working.
-
-links:
-Animal superstition: https://psycnet.apa.org/record/1948-04299-001
-Easily hacked certificate authorities (Diginotar): https://darknetdiaries.com/transcript/3/]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" width="640" height="464" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/tumblr_omgdz15TmT1sn5m9vo7_640.jpg" alt="" class="wp-image-64" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/tumblr_omgdz15TmT1sn5m9vo7_640.jpg 640w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/tumblr_omgdz15TmT1sn5m9vo7_640-300x218.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
-
-
-
-<p>In this episode Dave and Jonathan ramble on about cargo cults and how humans develop ritualistic behaviors that completely miss the point of what they are trying to accomplish. In programming, business management and even in science itself there are many examples of people doing silly things while appearing to look like they are working.</p>
-
-
-
-<p>links:<br><a href="https://psycnet.apa.org/record/1948-04299-001">Animal superstition</a><br><a href="https://darknetdiaries.com/transcript/3/">Easily hacked certificate authorities (Diginotar)</a></p>
 ]]></content:encoded>
 					
 		
