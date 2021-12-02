@@ -1,13 +1,10 @@
 <!DOCTYPE html>
-<!--[if IE 7 | IE 8]>
-<html class="ie" lang="en-GB">
-<![endif]--><!--[if !(IE 7) | !(IE 8)  ]><!--><html lang="en-GB">
-<!--<![endif]-->
+<html lang="en-GB">
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="profile" href="//gmpg.org/xfn/11">
 	<title>Contact &#8211; The Future is not Set</title>
 <meta name="robots" content="max-image-preview:large">
 <link rel="dns-prefetch" href="//cdn.podlove.org">
@@ -36,14 +33,13 @@ img.emoji {
 	<link rel="stylesheet" id="podlove-frontend-css-css" href="https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/css/frontend.css?ver=1.0" type="text/css" media="all">
 <link rel="stylesheet" id="podlove-admin-font-css" href="https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/css/admin-font.css?ver=3.5.4" type="text/css" media="all">
 <link rel="stylesheet" id="wp-block-library-css" href="https://futurenotset.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.2" type="text/css" media="all">
-<link rel="stylesheet" id="podcast-style-css" href="https://futurenotset.com/wp-content/themes/podcast/style.css?ver=5.8.2" type="text/css" media="all">
-<link rel="stylesheet" id="font-awesome-css" href="https://futurenotset.com/wp-content/themes/podcast/css/font-awesome.min.css?ver=4.7.0" type="text/css" media="all">
+<link rel="stylesheet" id="podcast-style-css" href="https://futurenotset.com/wp-content/themes/podcast/style.css?ver=1.2.3" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="https://futurenotset.com/wp-content/themes/podcast/css/fontawesome.all.min.css?ver=5.15.3" type="text/css" media="all">
 <link rel="stylesheet" id="podcast-webfonts-css" href="//fonts.googleapis.com/css?family=Poppins%3A400%2C400i%2C500%2C500i%2C600%2C600i%2C700%2C700i&#038;subset=latin%2Clatin-ext" type="text/css" media="all">
 <script type="text/javascript" src="https://cdn.podlove.org/web-player/5.x/embed.js?ver=5.4.13" id="podlove-web-player-player-js"></script>
 <script type="text/javascript" src="https://futurenotset.com/wp-content/plugins/podlove-web-player/js/cache.js?ver=5.4.13" id="podlove-web-player-player-cache-js"></script>
 <script type="text/javascript" src="https://futurenotset.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
 <script type="text/javascript" src="https://futurenotset.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
-<script type="text/javascript" src="https://futurenotset.com/wp-content/themes/podcast/js/jquery.slicknav.min.js?ver=1" id="jquery-slicknav-js"></script>
 <script type="text/javascript" src="https://futurenotset.com/wp-content/themes/podcast/js/superfish.min.js?ver=1" id="jquery-superfish-js"></script>
 <link rel="https://api.w.org/" href="https://futurenotset.com/wp-json/">
 <link rel="alternate" type="application/json" href="https://futurenotset.com/wp-json/wp/v2/pages/42">
@@ -96,24 +92,36 @@ owa_cmds.push(['trackClicks']);
 
 </head>
 
-<body class="page-template-default page page-id-42 wp-custom-logo page-sidebar-right theme-color-teal">
+<body class="page-template-default page page-id-42 wp-custom-logo wp-embed-responsive page-sidebar-right theme-color-teal">
 
 
 <div id="container">
+
+	<a class="skip-link screen-reader-text" href="#site-main">Skip to content</a>
 
 	<div class="site-wrapper-all site-wrapper-boxed">
 
 		<header id="site-masthead" class="site-section site-section-masthead">
 			<div class="site-section-wrapper site-section-wrapper-masthead">
 				<div id="site-logo"><a href="https://futurenotset.com/" class="custom-logo-link" rel="home"><img width="5005" height="522" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/06/notset-header-1.png" class="custom-logo" alt="Logo for The Future is not Set" loading="lazy" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/06/notset-header-1.png 5005w, https://futurenotset.com/wp-content/uploads/sites/8/2021/06/notset-header-1-300x31.png 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/06/notset-header-1-1024x107.png 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/06/notset-header-1-768x80.png 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/06/notset-header-1-1536x160.png 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2021/06/notset-header-1-2048x214.png 2048w" sizes="(max-width: 5005px) 100vw, 5005px"></a></div>
-<!-- #site-logo --><!-- ws fix 
-			--><div id="site-section-primary-menu">
-					<div class="site-navbar-header">
+<!-- #site-logo -->
+				<div id="site-section-primary-menu">
 
-						<div id="menu-main-slick" class="menu-main-menu-container"><ul id="menu-slide-in" class="menu">
+					<span id="site-mobile-menu-toggle">
+	<button class="site-toggle-anchor">
+		<span class="site-toggle-icon site-toggle-icon-open is-visible fas fa-bars"></span>
+		<span class="site-toggle-label site-toggle-label-open is-visible">Menu</span>
+		<span class="site-toggle-icon site-toggle-icon-close fas fa-bars"></span>
+		<span class="site-toggle-label site-toggle-label-close">Menu</span>
+	</button><!-- .site-toggle-anchor -->
+</span><!-- #site-mobile-menu-toggle --><div id="site-mobile-menu">
+	<div class="menu-wrapper">
+
+				<nav class="mobile-menu" aria-label="Mobile Menu">
+			<ul id="menu-main-menu" class="menu">
 <li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="https://futurenotset.com/the-podcast/">The Podcast</a></li>
 <li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-45">
-<a href="https://futurenotset.com/about/">About</a>
+<a href="https://futurenotset.com/about/">About</a><button class="sub-menu-toggle toggle-anchor"><span class="screen-reader-text">Show sub menu</span><i class="fas fa-chevron-down"></i></button>
 <ul class="sub-menu">
 	<li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="https://futurenotset.com/about/">About</a></li>
 	<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="https://futurenotset.com/credits/">Credits</a></li>
@@ -121,12 +129,12 @@ owa_cmds.push(['trackClicks']);
 	<li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-42 current_page_item menu-item-47"><a href="https://futurenotset.com/contact/" aria-current="page">Contact</a></li>
 </ul>
 </li>
-</ul></div>
-					</div>
-<!-- .site-navbar-header -->
-					<nav id="site-primary-nav">
-
-					<ul id="site-primary-menu" class="large-nav sf-menu mobile-menu clearfix">
+</ul>		</nav><!-- .mobile-menu -->
+	</div>
+<!-- .menu-wrapper -->
+</div>
+<!-- #site-mobile-menu -->
+					<nav id="site-primary-nav"><ul id="site-primary-menu" class="large-nav sf-menu">
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="https://futurenotset.com/the-podcast/">The Podcast</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-45">
 <a href="https://futurenotset.com/about/">About</a>
@@ -138,7 +146,7 @@ owa_cmds.push(['trackClicks']);
 </ul>
 </li>
 </ul>				</nav><!-- #site-primary-nav -->
-				</div>
+								</div>
 <!-- #site-section-primary-menu -->
 			</div>
 <!-- .site-section-wrapper .site-section-wrapper-masthead -->
@@ -147,27 +155,27 @@ owa_cmds.push(['trackClicks']);
 
 	
 	<div class="site-page-content">
-		<div class="site-section-wrapper site-section-wrapper-main clearfix">
+		<div class="site-section-wrapper site-section-wrapper-main">
 
 			<div class="site-column site-column-content">
-<div class="site-column-wrapper clearfix">
+<div class="site-column-wrapper">
 <!-- .site-column .site-column-1 .site-column-aside --><h1 class="page-title">Contact</h1>
 <div class="entry-content"></div>
 <!-- .entry-content -->
 </div>
-<!-- .site-column-wrapper .clearfix -->
+<!-- .site-column-wrapper -->
 </div>
 <!-- .site-column .site-column-content --><div class="site-column site-column-aside">
 
-			<div class="site-column-wrapper clearfix">
+			<div class="site-column-wrapper">
 
-				<div class="widget widget_podlove_subscribe_button_widget clearfix" id="podlove_subscribe_button_widget-2">
-<script>window.podcastDatab5b08bdb804020 = {"title":"The Future is not Set","subtitle":"The future is here! It is just unevenly distributed!","description":"Dave Keeshan and Jonathan Byrne cover some piece of technology or pop culture that has come up in the previous week.","cover":"https:\/\/futurenotset.com\/wp-content\/cache\/podlove\/a0\/a10ff62fb76c222029f94f92632d53\/the-future-is-not-set_400x.png","feeds":[{"type":"audio","format":"mp3","url":"https:\/\/futurenotset.com\/feed\/podcast\/index.xml","variant":"high","directory-url-itunes":"https:\/\/podcasts.apple.com\/podcast\/id1572673778"}]};</script>
-<script class="podlove-subscribe-button" src="https://cdn.podlove.org/subscribe-button/javascripts/app.js" data-json-data="podcastDatab5b08bdb804020" data-language="en" data-size="big auto" data-format="cover" data-style="filled" data-color="#000000"> </script>
+				<div class="widget widget_podlove_subscribe_button_widget" id="podlove_subscribe_button_widget-2">
+<script>window.podcastData217d7e01f6e59c = {"title":"The Future is not Set","subtitle":"The future is here! It is just unevenly distributed!","description":"Dave Keeshan and Jonathan Byrne cover some piece of technology or pop culture that has come up in the previous week.","cover":"https:\/\/futurenotset.com\/wp-content\/cache\/podlove\/a0\/a10ff62fb76c222029f94f92632d53\/the-future-is-not-set_400x.png","feeds":[{"type":"audio","format":"mp3","url":"https:\/\/futurenotset.com\/feed\/podcast\/index.xml","variant":"high","directory-url-itunes":"https:\/\/podcasts.apple.com\/podcast\/id1572673778"}]};</script>
+<script class="podlove-subscribe-button" src="https://cdn.podlove.org/subscribe-button/javascripts/app.js" data-json-data="podcastData217d7e01f6e59c" data-language="en" data-size="big auto" data-format="cover" data-style="filled" data-color="#000000"> </script>
 <script>
 if (typeof SubscribeButton == 'undefined') {
 
-    document.write(unescape("%3Cscript class=\"podlove-subscribe-button\" src=\"https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/dist/javascripts/app.js\" data-json-data=\"podcastDatab5b08bdb804020\" data-language=\"en\" data-size=\"big auto\" data-format=\"cover\" data-style=\"filled\" data-color=\"#000000\"> %3E%3C/script%3E"));
+    document.write(unescape("%3Cscript class=\"podlove-subscribe-button\" src=\"https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/dist/javascripts/app.js\" data-json-data=\"podcastData217d7e01f6e59c\" data-language=\"en\" data-size=\"big auto\" data-format=\"cover\" data-style=\"filled\" data-color=\"#000000\"> %3E%3C/script%3E"));
 
     // hide uninitialized button
     window.setTimeout(function() {
@@ -182,7 +190,15 @@ if (typeof SubscribeButton == 'undefined') {
 }
 </script>
 </div>
-<div class="widget widget_podlove_recent_episodes_widget clearfix" id="podlove_recent_episodes_widget-2"><ul style="list-style-type: none;">				<li>
+<div class="widget widget_podlove_recent_episodes_widget" id="podlove_recent_episodes_widget-2"><ul style="list-style-type: none;">				<li>
+										<img src="https://futurenotset.com/wp-content/cache/podlove/a0/a10ff62fb76c222029f94f92632d53/the-future-is-not-set_400x.png" alt="The Ghost of Crypto Present" style="width: 20%; vertical-align: top; margin-right: 2%;">
+					<div style="display: inline-block; width: 75%;">
+										<p>
+						<a href="https://futurenotset.com/the-ghost-of-crypto-present/">The Ghost of Crypto Present</a><br>
+						<i class="podlove-icon-calendar"></i> December 2, 2021						<br><i class="podlove-icon-time"></i> 50 minutes 					</p>
+										</div>
+									</li>
+							<li>
 										<img src="https://futurenotset.com/wp-content/cache/podlove/a0/a10ff62fb76c222029f94f92632d53/the-future-is-not-set_400x.png" alt="Crypto and Bitcoin" style="width: 20%; vertical-align: top; margin-right: 2%;">
 					<div style="display: inline-block; width: 75%;">
 										<p>
@@ -214,17 +230,9 @@ if (typeof SubscribeButton == 'undefined') {
 						<i class="podlove-icon-calendar"></i> October 7, 2021						<br><i class="podlove-icon-time"></i> 46 minutes 					</p>
 										</div>
 									</li>
-							<li>
-										<img src="https://futurenotset.com/wp-content/cache/podlove/a0/a10ff62fb76c222029f94f92632d53/the-future-is-not-set_400x.png" alt="Podcasting 2.0 part I" style="width: 20%; vertical-align: top; margin-right: 2%;">
-					<div style="display: inline-block; width: 75%;">
-										<p>
-						<a href="https://futurenotset.com/podcasting-2-0-part-i/">Podcasting 2.0 part I</a><br>
-						<i class="podlove-icon-calendar"></i> September 23, 2021						<br><i class="podlove-icon-time"></i> 45 minutes 					</p>
-										</div>
-									</li>
 			</ul></div>
 			</div>
-<!-- .site-column-wrapper .clearfix -->
+<!-- .site-column-wrapper -->
 
 		</div>
 <!-- .site-column .site-column-aside -->
@@ -251,12 +259,7 @@ if (typeof SubscribeButton == 'undefined') {
 </div>
 <!-- #container -->
 
-<script type="text/javascript" id="podcast-scripts-js-extra">
-/* <![CDATA[ */
-var podcastStrings = {"slicknav_menu_home":"Click for Menu"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://futurenotset.com/wp-content/themes/podcast/js/podcast.js?ver=20180915" id="podcast-scripts-js"></script>
+<script type="text/javascript" src="https://futurenotset.com/wp-content/themes/podcast/js/podcast.js?ver=1.2.3" id="podcast-scripts-js"></script>
 <script type="text/javascript" src="https://futurenotset.com/wp-includes/js/wp-embed.min.js?ver=5.8.2" id="wp-embed-js"></script>
 </body>
 </html>

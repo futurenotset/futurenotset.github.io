@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; The Future is not Set</title>
+	<atom:link href="https://futurenotset.com/category/uncategorized/feed/index.xml" rel="self" type="application/rss+xml" />
+	<link>https://futurenotset.com/</link>
+	<description></description>
+	<lastBuildDate>Thu, 02 Dec 2021 19:35:29 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>https://futurenotset.com/wp-content/uploads/sites/8/2021/06/cropped-notset-icon-32x32.png</url>
+	<title>Uncategorized &#8211; The Future is not Set</title>
+	<link>https://futurenotset.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Irish Tech Charts</title>
+		<link>https://futurenotset.com/irish-tech-charts/</link>
+		
+		<dc:creator><![CDATA[davekeeshan]]></dc:creator>
+		<pubDate>Sun, 28 Nov 2021 19:30:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://futurenotset.com/?p=129</guid>
+
+					<description><![CDATA[Very excited in Podonaut House, we are one spot away from the top ten Irish Techonology charts. TED Radio Hour we are coming for you!]]></description>
+										<content:encoded><![CDATA[
+<p>Very excited in <a href="https://podonaut.com/">Podonaut </a>House, we are one spot away from the top ten <a href="https://chartable.com/charts/itunes/ie-technology-podcasts">Irish Techonology charts</a>. TED Radio Hour we are coming for you!</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-485x1024.jpg" alt="" class="wp-image-127" width="309" height="652" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-485x1024.jpg 485w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-142x300.jpg 142w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-768x1622.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-727x1536.jpg 727w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-970x2048.jpg 970w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome.jpg 1037w" sizes="(max-width: 309px) 100vw, 309px" /></figure></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

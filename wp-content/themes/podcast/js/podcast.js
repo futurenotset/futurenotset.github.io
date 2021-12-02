@@ -1,51 +1,53 @@
-jQuery(document).ready(function($) { 
-	
-    /**
-    * Document ready (jQuery)
-    */
-    $(function () {
+var podcast = podcast || {},
+    $ = jQuery;
 
-        /**
-         * Activate superfish menu.
-         */
-        $('.sf-menu').superfish({
-            'speed': 'fast',
-            'delay' : 0,
-            'animation': {
-                'height': 'show'
-            }
-        });
+/** Global Variables */
 
-    });
+var $podcastDocument = $( document );
 
-        /**
-         * SlickNav
-         */
+/** Activate primary menu toggles */
 
-	$('#menu-main-slick').slicknav({
-		prependTo:'.site-navbar-header',
-		label: podcastStrings.slicknav_menu_home,
-		allowParentLinks: true
-	});
+podcast.headerMenuToggles = {
 
-    function mobileadjust() {
-        
-        var windowWidth = $(window).width();
+	init: function() {
 
-        if( typeof window.orientation === 'undefined' ) {
-            $('#menu-main').removeAttr('style');
-         }
+		$(".site-toggle-anchor").click(function(){
+			$("#site-mobile-menu").toggleClass("is-visible");
+			$(".site-toggle-anchor").toggleClass("is-visible");
+			$(".site-toggle-label").toggleClass("is-visible");
+			$(".site-toggle-icon").toggleClass("is-visible");
+		});
 
-        if( windowWidth < 769 ) {
-            $('#menu-main').addClass('mobile-menu');
-         }
- 
-    }
-    
-    mobileadjust();
+		$(".sub-menu-toggle").click(function(){
+			$(this).next().toggleClass("is-visible");
+			$(this).toggleClass("is-visible");
+		});
 
-    $(window).resize(function() {
-        mobileadjust();
-    });
+	},
 
-});
+} // podcast.headerMenuToggles
+
+/** Activate superfish menu */
+
+podcast.menuSuperfish = {
+
+	init: function() {
+
+		$('.sf-menu').superfish({
+			'speed': 'fast',
+			'delay' : 0,
+			'animation': {
+				'height': 'show'
+			}
+		});
+
+	},
+
+} // menuSuperfish
+
+$podcastDocument.ready( function() {
+
+	podcast.menuSuperfish.init();
+	podcast.headerMenuToggles.init();
+
+} );
