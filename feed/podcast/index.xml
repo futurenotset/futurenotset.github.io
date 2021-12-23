@@ -6,7 +6,7 @@
 	<title>The Future is not Set</title>
 	<link>https://futurenotset.com/</link>
 	<description><![CDATA[The future is here! It is just unevenly distributed!]]></description>
-	<lastBuildDate>Thu, 02 Dec 2021 19:43:06 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 23 Dec 2021 22:13:58 +0000</lastBuildDate>
 	
 <image><url>https://futurenotset.com/wp-content/uploads/sites/8/2021/06/notset.png</url><title>The Future is not Set</title><link>https://futurenotset.com/</link></image>
 <atom:link rel="self" type="application/rss+xml" title="The Future is not Set (podcast)" href="https://futurenotset.com/feed/podcast/index.xml" />
@@ -35,6 +35,56 @@
 		<podcast:valueRecipient name="Gurus of Comedy (Podcaster)" type="node" address="033bf25b954273ff9425d1e2fec4b8b604355f618eda210a47ac820759664cf7ba" split="5" />
 		<podcast:valueRecipient name="Satoshi Stream" type="node" address="03c457fafbc8b91b462ef0b8f61d4fd96577a4b58c18b50e59621fd0f41a8ae1a4" split="95" />
 	</podcast:value>
+	
+	<item>
+        <title>NFT and DAO</title>
+		<link>https://futurenotset.com/nft-and-dao/</link>
+		<pubDate>Thu, 23 Dec 2021 22:13:57 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2021-12-23t21:57:04+00:00-f960c8c71066f50</guid>
+    	<description><![CDATA[Just in time for Christmas (2021 for whoever is keeping track) we finally get to discuss where crypto is going.  NFT, DAO, fungible, what does it all mean and do I need a cream for that? Everything you wanted to know about decentralized autonomous organization and decentralized prediction markets, but were afraid to ask! Will it reinvigorate the art market, or is it the same man wearing a different suit?
+
+We break down, break out and break up some of the lingo to see if there is anything to the hype, the answer may surprise you ... (its yes BTW!).]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/nft-and-dao/#" />
+		
+<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_014.mp3" length="37752854" type="audio/mpeg"/>
+
+		<itunes:duration>00:44:56</itunes:duration>
+		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
+		<itunes:subtitle>Bored Ape Yacht Club approve this podcast</itunes:subtitle>
+		<itunes:title>NFT and DAO</itunes:title>
+		<itunes:episode>14</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary><![CDATA[Just in time for Christmas (2021 for whoever is keeping track) we finally get to discuss where crypto is going.  NFT, DAO, fungible, what does it all mean and do I need a cream for that? Everything you wanted to know about decentralized autonomous organization and decentralized prediction markets, but were afraid to ask! Will it reinvigorate the art market, or is it the same man wearing a different suit?
+
+We break down, break out and break up some of the lingo to see if there is anything to the hype, the answer may surprise you ... (its yes BTW!).]]></itunes:summary>
+		
+		<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/troop-of-bored-ape-nfts-rises-above-the-competition-nft-project-donates-200k-in-eth-to-orangutan-outreach-1024x576.jpeg" alt="" class="wp-image-138" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/troop-of-bored-ape-nfts-rises-above-the-competition-nft-project-donates-200k-in-eth-to-orangutan-outreach-1024x576.jpeg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/troop-of-bored-ape-nfts-rises-above-the-competition-nft-project-donates-200k-in-eth-to-orangutan-outreach-300x169.jpeg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/troop-of-bored-ape-nfts-rises-above-the-competition-nft-project-donates-200k-in-eth-to-orangutan-outreach-768x432.jpeg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/troop-of-bored-ape-nfts-rises-above-the-competition-nft-project-donates-200k-in-eth-to-orangutan-outreach.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Just in time for Christmas (2021 for whoever is keeping track) we finally get to discuss where crypto is going.  <a href="https://en.wikipedia.org/wiki/Non-fungible_token">NFT</a>, <a href="https://en.wikipedia.org/wiki/The_DAO_(organization)">DAO</a>, <a href="https://en.wikipedia.org/wiki/Fungibility">fungible</a>, what does it all mean and do I need a cream for that? Everything you wanted to know about <a href="https://en.wikipedia.org/wiki/Decentralized_autonomous_organization">decentralized autonomous organization</a> and <a href="https://en.wikipedia.org/wiki/Decentralized">decentralized</a> <a href="https://en.wikipedia.org/wiki/Prediction_market">prediction market</a>s, but were afraid to ask! Will it reinvigorate the art market, or is it the same man wearing a different suit?</p>
+
+
+
+<p>We break down, break out and break up some of the lingo to see if there is anything to the hype, the answer may surprise you &#8230; (its yes BTW!).</p>
+
+
+
+<p><a href="https://boredapeyachtclub.com/">Bored Ape Yacht Club</a> approve this podcast</p>
+
+
+
+<p></p>
+]]></content:encoded>
+<atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://twitter.com/davekeeshan</atom:uri></atom:contributor>
+
+<atom:contributor><atom:name>Jonathan Byrne</atom:name></atom:contributor>
+
+<podcast:person img="https://futurenotset.com/wp-content/uploads/sites/8/2021/06/DK_face_dinky.png" role="host">Dave Keeshan</podcast:person>
+
+<podcast:person img="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e.jpg?s=512&amp;d=mm&amp;r=g" role="host">Jonathan Byrne</podcast:person>
+	</item>
 	
 	<item>
         <title>The Ghost of Crypto Present</title>
