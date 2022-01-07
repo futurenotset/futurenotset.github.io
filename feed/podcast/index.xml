@@ -6,7 +6,7 @@
 	<title>The Future is not Set</title>
 	<link>https://futurenotset.com/</link>
 	<description><![CDATA[The future is here! It is just unevenly distributed!]]></description>
-	<lastBuildDate>Thu, 23 Dec 2021 22:50:12 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Jan 2022 23:47:28 +0000</lastBuildDate>
 	
 <image><url>https://futurenotset.com/wp-content/uploads/sites/8/2021/06/notset.png</url><title>The Future is not Set</title><link>https://futurenotset.com/</link></image>
 <atom:link rel="self" type="application/rss+xml" title="The Future is not Set (podcast)" href="https://futurenotset.com/feed/podcast/index.xml" />
@@ -35,6 +35,44 @@
 		<podcast:valueRecipient name="Gurus of Comedy (Podcaster)" type="node" address="033bf25b954273ff9425d1e2fec4b8b604355f618eda210a47ac820759664cf7ba" split="5" />
 		<podcast:valueRecipient name="Satoshi Stream" type="node" address="03c457fafbc8b91b462ef0b8f61d4fd96577a4b58c18b50e59621fd0f41a8ae1a4" split="95" />
 	</podcast:value>
+	
+	<item>
+        <title>Web3</title>
+		<link>https://futurenotset.com/web3/</link>
+		<pubDate>Fri, 07 Jan 2022 23:45:59 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2022-01-07t23:33:42+00:00-95195f3b7375ff3</guid>
+    	<description><![CDATA[Well it is the new year (2022) and there are new words! Web3 is the one of new buzzword floating around, but what is it? Morketing 101 or the beginning for something new? With a new Matrix film about too we dive into a brand new world, but maybe it is the old world wearing a different suit! We don't know, but someone is going to make a pants load of money for sure!]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/web3/#" />
+		
+<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_015.mp3" length="43563315" type="audio/mpeg"/>
+
+		<itunes:duration>00:51:51</itunes:duration>
+		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
+		<itunes:subtitle>The same man wearing a different suit!</itunes:subtitle>
+		<itunes:title>Web3</itunes:title>
+		<itunes:episode>21</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary><![CDATA[Well it is the new year (2022) and there are new words! Web3 is the one of new buzzword floating around, but what is it? Morketing 101 or the beginning for something new? With a new Matrix film about too we dive into a brand new world, but maybe it is the old world wearing a different suit! We don't know, but someone is going to make a pants load of money for sure!]]></itunes:summary>
+		
+		<content:encoded><![CDATA[
+<p></p>
+
+
+
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img loading="lazy" src="https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-1024x683.jpg" alt="" class="wp-image-144" width="382" height="255" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-1024x683.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-300x200.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-768x512.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-1536x1024.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-2048x1365.jpg 2048w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-410x275.jpg 410w" sizes="(max-width: 382px) 100vw, 382px" /><figcaption>Photo by <a href="https://unsplash.com/@mistrjosh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Joshua Michaels</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption></figure></div>
+
+
+
+<p>Well it is the new year (2022) and there are new words! <a href="https://en.wikipedia.org/wiki/Web3">Web3 </a>is the one of new buzzword floating around, but what is it? <a href="https://en.wikipedia.org/wiki/Ross_O%27Carroll-Kelly">Morketing 101</a> or the beginning for something new? With a new <a href="https://en.wikipedia.org/wiki/The_Matrix_Resurrections">Matrix </a>film about too we dive into a brand new world, but maybe it is the old world wearing a different suit! We don&#8217;t know, but someone is going to make a pants load of money for sure!</p>
+]]></content:encoded>
+<atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://twitter.com/davekeeshan</atom:uri></atom:contributor>
+
+<atom:contributor><atom:name>Jonathan Byrne</atom:name></atom:contributor>
+
+<podcast:person img="https://futurenotset.com/wp-content/uploads/sites/8/2021/06/DK_face_dinky.png" role="host">Dave Keeshan</podcast:person>
+
+<podcast:person img="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e.jpg?s=512&amp;d=mm&amp;r=g" role="host">Jonathan Byrne</podcast:person>
+	</item>
 	
 	<item>
         <title>NFT and DAO</title>
@@ -72,10 +110,6 @@ We break down, break out and break up some of the lingo to see if there is anyth
 
 
 <p><a href="https://boredapeyachtclub.com/">Bored Ape Yacht Club</a> approve this podcast</p>
-
-
-
-<p>CLAIM=0d75f4ea074f24b796004b77dcc7266100668802=CLAIM</p>
 ]]></content:encoded>
 <atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://twitter.com/davekeeshan</atom:uri></atom:contributor>
 
