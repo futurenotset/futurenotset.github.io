@@ -12,7 +12,7 @@
 	<atom:link href="https://futurenotset.com/feed/index.xml" rel="self" type="application/rss+xml" />
 	<link>https://futurenotset.com/</link>
 	<description></description>
-	<lastBuildDate>Fri, 07 Jan 2022 23:47:28 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Jan 2022 23:25:47 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,32 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Blender</title>
+		<link>https://futurenotset.com/blender/</link>
+		
+		<dc:creator><![CDATA[davekeeshan]]></dc:creator>
+		<pubDate>Wed, 19 Jan 2022 23:25:47 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[This week we discuss one of the biggest success stories in the open source world, Blender. Some people take up golf but instead both Dave and Jonathan took up blender and like golf you can spend years working on your technique.
+
+Where did Blender come from, what is it now and where is it going? THe guys recount their experience with this awesome tool. Blender could quiet literally save the whole world, or a few med-range computer animated movies.]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full is-resized"><img loading="lazy" src="https://futurenotset.com/wp-content/uploads/sites/8/2022/01/Blender_2.90-splash.png" alt="" class="wp-image-163" width="623" height="312" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2022/01/Blender_2.90-splash.png 1004w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/Blender_2.90-splash-300x150.png 300w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/Blender_2.90-splash-768x384.png 768w" sizes="(max-width: 623px) 100vw, 623px" /></figure></div>
+
+
+
+<p>This week we discuss one of the biggest success stories in the open source world, <a href="https://www.blender.org/">Blender</a>. Some people take up golf but instead both Dave and Jonathan took up blender and like golf you can spend years working on your technique.</p>
+
+
+
+<p>Where did Blender come from, what is it now and where is it going? THe guys recount their experience with this awesome tool. Blender could quiet literally save the whole world, or a few med-range computer animated movies.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Web3</title>
 		<link>https://futurenotset.com/web3/</link>
 		
@@ -349,40 +375,6 @@ Dave explains to Jonathan what podcasting 2.0 is and where it is going, sexy thi
 
 
 <p>Photo by <a href="https://unsplash.com/@harrycunningham?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Harry Cunningham</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>How to podcast?</title>
-		<link>https://futurenotset.com/how-to-podcast/</link>
-		
-		<dc:creator><![CDATA[davekeeshan]]></dc:creator>
-		<pubDate>Thu, 09 Sep 2021 20:10:53 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
-
-					<description><![CDATA[This episode we discuss how does one start a podcast?  Everyone talks about wanted to do one. Dave walks Jon through the process of how ones gets going, from recording remotely, editing, hosting and the gate keepers themselves the podcast directories, we get into it all! TLDR; Just start right now!
-
-Next episode we show you how to google google!]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="683" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/09/jonathan-farber-wUl6KBqdj2E-unsplash-1024x683.jpg" alt="" class="wp-image-90" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/09/jonathan-farber-wUl6KBqdj2E-unsplash-1024x683.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/09/jonathan-farber-wUl6KBqdj2E-unsplash-300x200.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/09/jonathan-farber-wUl6KBqdj2E-unsplash-768x512.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/09/jonathan-farber-wUl6KBqdj2E-unsplash-1536x1024.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2021/09/jonathan-farber-wUl6KBqdj2E-unsplash-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>This episode we discuss how does one start a podcast?  Everyone talks about wanted to do one. Dave walks Jon through the process of how one gets going, from recording remotely, editing, hosting and the gate keepers themselves the podcast directories, we get into it all! TLDR; <strong><em>Just start right now!</em></strong><br></p>
-
-
-
-<p>Next episode we show you how to google google!</p>
-
-
-
-<p></p>
-
-
-
-<p>Photo by <a href="https://unsplash.com/@farber?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jonathan Farber</a></p>
 ]]></content:encoded>
 					
 		
