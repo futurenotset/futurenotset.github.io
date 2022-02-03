@@ -6,12 +6,12 @@
 	<title>The Future is not Set</title>
 	<link>https://futurenotset.com/</link>
 	<description><![CDATA[The future is here! It is just unevenly distributed!]]></description>
-	<lastBuildDate>Wed, 19 Jan 2022 23:25:47 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 03 Feb 2022 20:27:49 +0000</lastBuildDate>
 	
 <image><url>https://futurenotset.com/wp-content/uploads/sites/8/2022/01/fns_square_circle2.png</url><title>The Future is not Set</title><link>https://futurenotset.com/</link></image>
 <atom:link rel="self" type="application/rss+xml" title="The Future is not Set (podcast)" href="https://futurenotset.com/feed/podcast/index.xml" />
 	<atom:link rel="first" href="https://futurenotset.com/feed/podcast/index.xml" />
-	<language>en-GB</language><generator>Podlove Podcast Publisher v3.5.4</generator>
+	<language>en-GB</language><generator>Podlove Podcast Publisher v3.7.2</generator>
 	<copyright>Copyright © 2021 Podonaut All Rights Reserved</copyright>
 	<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
 	<itunes:type>episodic</itunes:type>
@@ -32,9 +32,47 @@
 
 	<podcast:locked owner="admin@futurenotset.com">yes</podcast:locked>
 	<podcast:value type="lightning" method="keysend" suggested="0.00000015000">
-		<podcast:valueRecipient name="Gurus of Comedy (Podcaster)" type="node" address="033bf25b954273ff9425d1e2fec4b8b604355f618eda210a47ac820759664cf7ba" split="5" />
+		<podcast:valueRecipient name="Podonaut" type="node" address="033bf25b954273ff9425d1e2fec4b8b604355f618eda210a47ac820759664cf7ba" split="5" />
 		<podcast:valueRecipient name="Satoshi Stream" type="node" address="03c457fafbc8b91b462ef0b8f61d4fd96577a4b58c18b50e59621fd0f41a8ae1a4" split="95" />
 	</podcast:value>
+	
+	<item>
+        <title>Metaverse</title>
+		<link>https://futurenotset.com/metaverse/</link>
+		<pubDate>Thu, 03 Feb 2022 20:27:48 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2022-02-03t19:47:10+00:00-96558145c82abcf</guid>
+    	<description><![CDATA[Whooosh, that is the future! Dave and John bring to you the very first podcast from the Metaverse. First the suggestion was to do a podcast about the Metaverse, then someone suggested lets do it in the METAVERSE! So we did it!]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/metaverse/#" />
+		
+<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_017.mp3" length="25826909" type="audio/mpeg"/>
+
+		<itunes:duration>00:30:44</itunes:duration>
+		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
+		<itunes:subtitle>Now in ... 3D!</itunes:subtitle>
+		<itunes:title>Metaverse</itunes:title>
+		<itunes:episode>17</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary><![CDATA[Whooosh, that is the future! Dave and John bring to you the very first podcast from the Metaverse. First the suggestion was to do a podcast about the Metaverse, then someone suggested lets do it in the METAVERSE! So we did it!]]></itunes:summary>
+		
+		<content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="alignleft size-medium"><img loading="lazy" width="300" height="200" src="https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-300x200.jpg" alt="" class="wp-image-168" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-300x200.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-1024x683.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-768x512.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-1536x1025.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-2048x1366.jpg 2048w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-410x275.jpg 410w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption>Photo by <a href="https://unsplash.com/@barbarazandoval?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Barbara Zandoval</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption></figure></div>
+
+
+
+<p>WHOOSH, that is the sound of the future! Dave and Johnathan bring to you the very first podcast from the <a href="https://en.wikipedia.org/wiki/Metaverse">Metaverse</a> (at least the first one they have done!). First the suggestion was to do a podcast about the Metaverse, then someone suggested lets do it in the METAVERSE! So we did it!</p>
+
+
+
+<p>Join the guys as they try and broadcast while the residents of the the metaverse are determined to interrupt!</p>
+]]></content:encoded>
+<atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://twitter.com/davekeeshan</atom:uri></atom:contributor>
+
+<atom:contributor><atom:name>Jonathan Byrne</atom:name></atom:contributor>
+
+<podcast:person img="https://futurenotset.com/wp-content/uploads/sites/8/2022/01/fns_face_dk_text-300x300.png" role="host">Dave Keeshan</podcast:person>
+
+<podcast:person img="https://futurenotset.com/wp-content/uploads/sites/8/2022/01/fns_face_jb_text-300x300.png" role="host">Jonathan Byrne</podcast:person>
+	</item>
 	
 	<item>
         <title>Blender</title>
