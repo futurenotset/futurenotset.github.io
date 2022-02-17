@@ -4,9 +4,9 @@
 Theme Name: Podcast
 Theme URI: https://www.ilovewp.com/themes/podcast/
 Description: Podcast is a free WordPress theme intended for podcasts, youtubers, streamers, radio hosts, comedians, influencers and bloggers. Podcast theme comes with 8 built-in color palettes: black, blue, green, orange, purple, red, teal, yellow. The theme let's you put the sidebar on the left or on the right. It is compatible with popular podcasting plugins for WordPress like PowerPress and Seriously Simple Podcasting. You can also embed your podcast empisodes from platforms like Spotify, SoundCloud, Libsyn, Youtube, Apple Podcasts, Google Podcasts, Simplecast, Castos, Anchor.fm and many more.
-Version: 1.2.3
+Version: 1.2.4
 Requires PHP: 5.6
-Tested up to: 5.8
+Tested up to: 5.9
 Author: ilovewpcom
 Author URI: https://www.ilovewp.com/
 License: GNU General Public License v3 or later
@@ -15,6 +15,67 @@ Text Domain: podcast
 Tags: blog, entertainment, news, custom-logo, footer-widgets, one-column, two-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-menu, editor-style, featured-images, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
 
 */
+
+/* poppins-regular - latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Poppins Regular'),
+       url('https://futurenotset.podonaut.com/wp-content/themes/podcast/fonts/poppins-v19-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('https://futurenotset.podonaut.com/wp-content/themes/podcast/fonts/poppins-v19-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* poppins-italic - latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Poppins Italic'),
+       url('https://futurenotset.podonaut.com/wp-content/themes/podcast/fonts/poppins-v19-latin-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('https://futurenotset.podonaut.com/wp-content/themes/podcast/fonts/poppins-v19-latin-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* poppins-500 - latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: local('Poppins Medium'),
+       url('https://futurenotset.podonaut.com/wp-content/themes/podcast/fonts/poppins-v19-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('https://futurenotset.podonaut.com/wp-content/themes/podcast/fonts/poppins-v19-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* poppins-600 - latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: local('Poppins Semibold'),
+       url('https://futurenotset.podonaut.com/wp-content/themes/podcast/fonts/poppins-v19-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('https://futurenotset.podonaut.com/wp-content/themes/podcast/fonts/poppins-v19-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* poppins-700 - latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Poppins Bold'),
+       url('https://futurenotset.podonaut.com/wp-content/themes/podcast/fonts/poppins-v19-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('https://futurenotset.podonaut.com/wp-content/themes/podcast/fonts/poppins-v19-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* poppins-700italic - latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Poppins Bold Italic'),
+       url('https://futurenotset.podonaut.com/wp-content/themes/podcast/fonts/poppins-v19-latin-700italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('https://futurenotset.podonaut.com/wp-content/themes/podcast/fonts/poppins-v19-latin-700italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
 
 /* --------------------------------------------------------------------------------------------- */
 /*	0. CSS Variables
@@ -45,6 +106,7 @@ Tags: blog, entertainment, news, custom-logo, footer-widgets, one-column, two-co
 html {
 	font-size: 16px;
 	line-height: 1.1;
+	scroll-behavior: smooth;
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
 	-webkit-box-sizing: border-box;
@@ -685,7 +747,7 @@ body {
 	min-height: 100vh;
 	padding: 0;
 	text-align: center;
-	word-wrap: break-word;
+	word-break: break-word;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
@@ -1004,8 +1066,8 @@ div.divider {
 
 .sf-arrows .sf-with-ul:after {
 	content: "\f107";
-	font: 12px/12px 'font awesome 5 free';
-	font-weight: 900;
+	font: 10px/10px 'icomoon';
+	font-weight: 400;
 	display: inline-block;
 	margin: 2px 0 0 8px;
 	-webkit-font-smoothing: antialiased;
