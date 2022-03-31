@@ -6,12 +6,12 @@
 	<title>The Future is not Set</title>
 	<link>https://futurenotset.com/</link>
 	<description><![CDATA[The future is here! It is just unevenly distributed!]]></description>
-	<lastBuildDate>Thu, 17 Feb 2022 19:51:25 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 31 Mar 2022 20:11:58 +0000</lastBuildDate>
 	
 <image><url>https://futurenotset.com/wp-content/uploads/sites/8/2022/01/fns_square_circle2.png</url><title>The Future is not Set</title><link>https://futurenotset.com/</link></image>
 <atom:link rel="self" type="application/rss+xml" title="The Future is not Set (podcast)" href="https://futurenotset.com/feed/podcast/index.xml" />
 	<atom:link rel="first" href="https://futurenotset.com/feed/podcast/index.xml" />
-	<language>en-GB</language><generator>Podlove Podcast Publisher v3.8.0</generator>
+	<language>en-GB</language><generator>Podlove Podcast Publisher v3.8.1</generator>
 	<copyright>Copyright © 2021 Podonaut All Rights Reserved</copyright>
 	<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
 	<itunes:type>episodic</itunes:type>
@@ -30,6 +30,61 @@
 	<atom:link rel="me" href="https://podcasts.apple.com/podcast/id1572673778" />
 	<podcast:funding url="https://paypal.me/davekeeshan">PayPal</podcast:funding>
 
+	<podcast:locked owner="admin@futurenotset.com">yes</podcast:locked>
+	<podcast:value type="lightning" method="keysend" suggested="0.00000015000">
+		<podcast:valueRecipient name="Podonaut" type="node" address="033bf25b954273ff9425d1e2fec4b8b604355f618eda210a47ac820759664cf7ba" split="5" />
+		<podcast:valueRecipient name="Satoshi Stream" type="node" address="03c457fafbc8b91b462ef0b8f61d4fd96577a4b58c18b50e59621fd0f41a8ae1a4" split="95" />
+	</podcast:value>
+	
+	<item>
+        <title>Technology at War!</title>
+		<link>https://futurenotset.com/technology-at-war/</link>
+		<pubDate>Thu, 31 Mar 2022 20:11:58 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2022-03-31t19:50:42+00:00-b320e8033c5e9fd</guid>
+    	<description><![CDATA[We are talking about what every one is talking about, War! Even though Ireland is probably the furthest point in Europe from Ukraine we are beginning to see the effects at the fuel pump and in cyberspace.
+
+What does war look like now where soliders can be on insta live at the same time! Were the HSE ransomware attacks in early 2021 actually some early moves on bringing about the world Sneakers predicted?]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/technology-at-war/#" />
+		
+<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_019.mp3" length="37514425" type="audio/mpeg"/>
+
+		<itunes:duration>00:44:39</itunes:duration>
+		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
+		<itunes:subtitle>What we do in life.....echoes in eternity</itunes:subtitle>
+		<itunes:title>Technology at War!</itunes:title>
+		<itunes:episode>19</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary><![CDATA[We are talking about what every one is talking about, War! Even though Ireland is probably the furthest point in Europe from Ukraine we are beginning to see the effects at the fuel pump and in cyberspace.
+
+What does war look like now where soliders can be on insta live at the same time! Were the HSE ransomware attacks in early 2021 actually some early moves on bringing about the world Sneakers predicted?]]></itunes:summary>
+		
+		<content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="alignleft size-medium"><img loading="lazy" width="300" height="200" src="https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-300x200.jpg" alt="" class="wp-image-182" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-300x200.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-1024x683.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-768x512.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-1536x1024.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-2048x1365.jpg 2048w, https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-410x275.jpg 410w" sizes="(max-width: 300px) 100vw, 300px" /></figure></div>
+
+
+
+<p>We are talking about what every one is talking about, War! Even though Ireland is probably the furthest point in Europe from Ukraine we are beginning to see the effects at the fuel pump and in cyberspace. </p>
+
+
+
+<p>What does war look like now where soliders can be on <a href="https://help.instagram.com/292478487812558">insta live</a> at the same time! <a href="https://www.wired.com/story/conti-leaks-ransomware-work-life/">Were the HSE ransomware attacks</a> in early 2021 actually some early moves on bringing about the <a href="https://futurenotset.com/sneakers-a-retrospective/" data-type="podcast" data-id="74">world Sneakers predicted</a>?</p>
+
+
+
+<p>#Protestware #crypto #dronesVerusTanks #ransomware.</p>
+
+
+
+<p>Photo by <a href="https://unsplash.com/@dmey503?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Dan Meyers</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+]]></content:encoded>
+<atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://twitter.com/davekeeshan</atom:uri></atom:contributor>
+
+<atom:contributor><atom:name>Jonathan Byrne</atom:name></atom:contributor>
+
+<podcast:person img="https://futurenotset.com/wp-content/uploads/sites/8/2022/01/fns_face_dk_text-300x300.png" role="host">Dave Keeshan</podcast:person>
+
+<podcast:person img="https://futurenotset.com/wp-content/uploads/sites/8/2022/01/fns_face_jb_text-300x300.png" role="host">Jonathan Byrne</podcast:person>
+	</item>
 	
 	<item>
         <title>Slaughterbots!</title>

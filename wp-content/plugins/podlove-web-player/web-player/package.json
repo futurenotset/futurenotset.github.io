@@ -1,0 +1,5 @@
+{"name":"@podlove/web-player","version":"5.7.4","description":"Embedded version of Podlove Player","homepage":"https://github.com/podlove/ui/tree/development/apps/web-player","keywords":[],"author":"Alexander Heimbuch <github@heimbu.ch>","license":"MIT"
+,"_resolved": "https://registry.npmjs.org/@podlove/web-player/-/web-player-5.7.4.tgz"
+,"_integrity": "sha512-K8BCQLvjJ7ovq8YHRqm7JfQQVJOojTj+Z0XKGSdfC6DghA+tgEpMcWKnLyGjVVZu7v+qiROzeTwBI7253fXiZw=="
+,"_from": "@podlove/web-player@5.7.4"
+}
