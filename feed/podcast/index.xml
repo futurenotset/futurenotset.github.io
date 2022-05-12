@@ -6,7 +6,7 @@
 	<title>The Future is not Set</title>
 	<link>https://futurenotset.com/</link>
 	<description><![CDATA[The future is here! It is just unevenly distributed!]]></description>
-	<lastBuildDate>Thu, 31 Mar 2022 20:11:58 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 12 May 2022 20:43:02 +0000</lastBuildDate>
 	
 <image><url>https://futurenotset.com/wp-content/uploads/sites/8/2022/01/fns_square_circle2.png</url><title>The Future is not Set</title><link>https://futurenotset.com/</link></image>
 <atom:link rel="self" type="application/rss+xml" title="The Future is not Set (podcast)" href="https://futurenotset.com/feed/podcast/index.xml" />
@@ -35,6 +35,60 @@
 		<podcast:valueRecipient name="Podonaut" type="node" address="033bf25b954273ff9425d1e2fec4b8b604355f618eda210a47ac820759664cf7ba" split="5" />
 		<podcast:valueRecipient name="Satoshi Stream" type="node" address="03c457fafbc8b91b462ef0b8f61d4fd96577a4b58c18b50e59621fd0f41a8ae1a4" split="95" />
 	</podcast:value>
+	
+	<item>
+        <title>Coinageddon</title>
+		<link>https://futurenotset.com/coinageddon/</link>
+		<pubDate>Thu, 12 May 2022 20:43:01 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2022-05-12t20:25:23+00:00-4e065dcd22897d4</guid>
+    	<description><![CDATA[Welcome back to... the end?  We had a lovely epsiode lined up and then the whole crypto market decided to punch itself in the face, so we decided to cover that instead
+
+Is this the end?  We don't know! But while history might not repeat itself, it certainly rhymes and we put on our pundit hats to take about LUNA, algorithmic stablecoins, Terra, Tether and what ever your having yourself! Welcome to the crypto winter (again!)
+
+#crypto #luna #terra #btc #winter #cutebunnyrabbits]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/coinageddon/#" />
+		
+<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_020.mp3" length="40494615" type="audio/mpeg"/>
+
+		<itunes:duration>00:48:12</itunes:duration>
+		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
+		<itunes:subtitle>I don't know what a algorithmic stablecoin is!</itunes:subtitle>
+		<itunes:title>Coinaggedon</itunes:title>
+		<itunes:episode>20</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary><![CDATA[Welcome back to... the end?  We had a lovely epsiode lined up and then the whole crypto market decided to punch itself in the face, so we decided to cover that instead
+
+Is this the end?  We don't know! But while history might not repeat itself, it certainly rhymes and we put on our pundit hats to take about LUNA, algorithmic stablecoins, Terra, Tether and what ever your having yourself! Welcome to the crypto winter (again!)
+
+#crypto #luna #terra #btc #winter #cutebunnyrabbits]]></itunes:summary>
+		
+		<content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="alignleft size-medium"><img loading="lazy" width="204" height="300" src="https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-204x300.jpg" alt="" class="wp-image-186" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-204x300.jpg 204w, https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-695x1024.jpg 695w, https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-768x1131.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-1043x1536.jpg 1043w, https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-1391x2048.jpg 1391w, https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-scaled.jpg 1738w" sizes="(max-width: 204px) 100vw, 204px" /></figure></div>
+
+
+
+<p>Welcome back to&#8230; the end?  We had a lovely epsiode lined up and then the whole <a href="https://en.wikipedia.org/wiki/Cryptocurrency">crypto </a>market decided to punch itself in the face, so we decided to cover that instead</p>
+
+
+
+<p>Is this the end?  We don&#8217;t know! But while history might not repeat itself, it certainly rhymes and we put on our pundit hats to take about <a href="https://coinmarketcap.com/currencies/terra-luna/">LUNA</a>, <a href="https://fortune.com/2022/04/19/what-are-algorithmic-stablecoins/">algorithmic stablecoins</a>, Terra, <a href="https://en.wikipedia.org/wiki/Tether_(cryptocurrency)">Tether </a>and what ever your having yourself! Welcome to the crypto winter (again!)</p>
+
+
+
+<p>#crypto #luna #terra #btc #cryptowinter #cutebunnyrabbits</p>
+
+
+
+<p>Photo by <a href="https://unsplash.com/@mr_williams_photography?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Micah Williams</a> on <a href="https://unsplash.com/s/photos/implosion?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+]]></content:encoded>
+<atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://twitter.com/davekeeshan</atom:uri></atom:contributor>
+
+<atom:contributor><atom:name>Jonathan Byrne</atom:name></atom:contributor>
+
+<podcast:person img="https://futurenotset.com/wp-content/uploads/sites/8/2022/01/fns_face_dk_text-300x300.png" role="host">Dave Keeshan</podcast:person>
+
+<podcast:person img="https://futurenotset.com/wp-content/uploads/sites/8/2022/01/fns_face_jb_text-300x300.png" role="host">Jonathan Byrne</podcast:person>
+	</item>
 	
 	<item>
         <title>Technology at War!</title>
