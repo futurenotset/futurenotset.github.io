@@ -6,7 +6,7 @@
 	<title>The Future is not Set</title>
 	<link>https://futurenotset.com/</link>
 	<description><![CDATA[The future is here! It is just unevenly distributed!]]></description>
-	<lastBuildDate>Thu, 12 May 2022 20:52:24 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 05 Jul 2022 20:31:33 +0000</lastBuildDate>
 	
 <image><url>https://futurenotset.com/wp-content/uploads/sites/8/2022/01/fns_square_circle2.png</url><title>The Future is not Set</title><link>https://futurenotset.com/</link></image>
 <atom:link rel="self" type="application/rss+xml" title="The Future is not Set (podcast)" href="https://futurenotset.com/feed/podcast/index.xml" />
@@ -35,6 +35,55 @@
 		<podcast:valueRecipient name="Podonaut" type="node" address="033bf25b954273ff9425d1e2fec4b8b604355f618eda210a47ac820759664cf7ba" split="5" />
 		<podcast:valueRecipient name="Satoshi Stream" type="node" address="03c457fafbc8b91b462ef0b8f61d4fd96577a4b58c18b50e59621fd0f41a8ae1a4" split="95" />
 	</podcast:value>
+	
+	<item>
+        <title>Lambda: The Sentient Chatbot and others Stories</title>
+		<link>https://futurenotset.com/lambda/</link>
+		<pubDate>Tue, 05 Jul 2022 20:29:02 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2022-07-05t20:11:27+00:00-34f0d3a43c4751b</guid>
+    	<description><![CDATA[I know now why you cry, but it's something I can never do.]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/lambda/#" />
+		
+<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_021.mp3" length="45258444" type="audio/mpeg"/>
+
+		<itunes:duration>00:53:52</itunes:duration>
+		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
+		<itunes:subtitle>I know now why you cry, but it's something I can never do.</itunes:subtitle>
+		<itunes:title>Lambda: The Sentient Chatbot and others Stories</itunes:title>
+		<itunes:episode>21</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		
+		
+		<content:encoded><![CDATA[
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="alignleft size-medium"><img loading="lazy" width="300" height="300" src="https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-300x300.jpg" alt="" class="wp-image-192" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-300x300.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-1024x1024.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-150x150.jpg 150w, https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-768x768.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-1536x1536.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-2048x2048.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></figure></div>
+
+
+<p>So the story goes that Sentient <a href="https://en.wikipedia.org/wiki/Chatbot">chatbots </a>walk amongest us! Is it true? Or is it false? If you said it was a <code>null</code> statement you may have just outed yourself as one of those chat bots!</p>
+
+
+
+<p>This episode, we discuss <a href="https://www.wired.com/story/lamda-sentient-ai-bias-google-blake-lemoine">the recent leak from Google</a> that one of their engineers believed the chatbot he was communicating with had acheived sentience. What is intelligence any way? If it happened would we even know? </p>
+
+
+
+<p>By the way, if you are a sentient chatbot, and you enjoyed this episode, be sure to jump on Apple and where every you get you podcasts to give us 5 stars and leave a review!</p>
+
+
+
+<p>Photo by <a href="https://unsplash.com/@deepmind?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">DeepMind</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+]]></content:encoded>
+<atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://twitter.com/davekeeshan</atom:uri></atom:contributor>
+
+<atom:contributor><atom:name>Jonathan Byrne</atom:name></atom:contributor>
+
+<podcast:person img="https://futurenotset.com/wp-content/uploads/sites/8/2022/01/fns_face_dk_text-300x300.png" role="host">Dave Keeshan</podcast:person>
+
+<podcast:person img="https://futurenotset.com/wp-content/uploads/sites/8/2022/01/fns_face_jb_text-300x300.png" role="host">Jonathan Byrne</podcast:person>
+	</item>
 	
 	<item>
         <title>Coinageddon</title>
