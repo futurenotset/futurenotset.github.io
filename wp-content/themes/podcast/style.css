@@ -4,9 +4,9 @@
 Theme Name: Podcast
 Theme URI: https://www.ilovewp.com/themes/podcast/
 Description: Podcast is a free WordPress theme intended for podcasts, youtubers, streamers, radio hosts, comedians, influencers and bloggers. Podcast theme comes with 8 built-in color palettes: black, blue, green, orange, purple, red, teal, yellow. The theme let's you put the sidebar on the left or on the right. It is compatible with popular podcasting plugins for WordPress like PowerPress and Seriously Simple Podcasting. You can also embed your podcast empisodes from platforms like Spotify, SoundCloud, Libsyn, Youtube, Apple Podcasts, Google Podcasts, Simplecast, Castos, Anchor.fm and many more.
-Version: 1.2.4
+Version: 1.2.6
 Requires PHP: 5.6
-Tested up to: 5.9
+Tested up to: 6.1
 Author: ilovewpcom
 Author URI: https://www.ilovewp.com/
 License: GNU General Public License v3 or later
@@ -503,19 +503,18 @@ input[type="submit"]:focus,
 	text-decoration: underline;
 }
 
-button:focus,
-.button:focus,
-.faux-button:focus,
-.wp-block-button__link:focus,
-:root .wp-block-file__button:focus,
-input[type="button"]:focus,
-input[type="reset"]:focus,
-input[type="submit"]:focus,
-:root .woocommerce #respond input#submit:focus,
-:root .woocommerce a.button:focus,
-:root .woocommerce button.button:focus,
-:root .woocommerce input.button:focus,
-.entry-thumbnail:focus-within {
+button:focus-visible,
+.button:focus-visible,
+.faux-button:focus-visible,
+.wp-block-button__link:focus-visible,
+:root .wp-block-file__button:focus-visible,
+input[type="button"]:focus-visible,
+input[type="reset"]:focus-visible,
+input[type="submit"]:focus-visible,
+:root .woocommerce #respond input#submit:focus-visible,
+:root .woocommerce a.button:focus-visible,
+:root .woocommerce button.button:focus-visible,
+:root .woocommerce input.button:focus-visible {
 	outline: 2px solid var( --podcast-primary-text-color );
 	outline-offset: 2px;
 }
@@ -760,12 +759,12 @@ a {
 
 a:hover, a:focus {
 	color: var( --podcast-link-color-hover );
+	text-decoration: underline;
 }
 
-a:focus {
+a:focus-visible {
 	outline: 2px solid var( --podcast-primary-accent-color );
 	outline-offset: 2px;
-	text-decoration: underline;
 }
 
 /* Headings */
@@ -1305,11 +1304,11 @@ div.divider {
 }
 
 .site-section-wrapper-main > .site-column-content {
-	flex: 1 1 720px;
+	flex: 1;
 }
 
 .site-section-wrapper-main > .site-column-aside {
-	flex: 0 1 300px;
+	flex: 0 1 27.273%;
 	font-size: 0.875rem;
 	line-height: 1.6;
 }
@@ -1757,6 +1756,11 @@ div.divider {
 .widget tr:nth-child(even) td {
   border-inline-end-color: #dadada; }
 
+.wp-block-post-template.is-flex-container li, 
+.wp-block-query-loop.is-flex-container li {
+	list-style-type: none;
+}
+
 /*--------------------------------------------------------------
 7.0 Formatting
 --------------------------------------------------------------*/
@@ -1764,7 +1768,7 @@ div.divider {
   background-color: #f0f0f0;
   border: 0;
   height: 1px;
-  margin: 3rem 0; }
+  margin: 1.875rem 0; }
 
 /* Gallery Template */
 .gallery-item {

@@ -11,16 +11,17 @@
 <image><url>https://futurenotset.com/wp-content/uploads/sites/8/2022/01/fns_square_circle2.png</url><title>The Future is not Set</title><link>https://futurenotset.com/</link></image>
 <atom:link rel="self" type="application/rss+xml" title="The Future is not Set (podcast)" href="https://futurenotset.com/feed/podcast/index.xml" />
 	<atom:link rel="first" href="https://futurenotset.com/feed/podcast/index.xml" />
-	<language>en-GB</language><generator>Podlove Podcast Publisher v3.8.1</generator>
-	<copyright>Copyright © 2021 Podonaut All Rights Reserved</copyright>
+	<language>en-GB</language><generator>Podlove Podcast Publisher v4.0.8</generator>
+	<copyright>Copyright © 2021-2024 Podonaut All Rights Reserved</copyright>
 	<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
 	<itunes:type>episodic</itunes:type>
 	<itunes:summary><![CDATA[Dave Keeshan and Jonathan Byrne cover some piece of technology or pop culture that has come up in the previous week.]]></itunes:summary>
 <itunes:category text="Technology" />
+
 	
 	<itunes:owner>
 		<itunes:name>Dave Keeshan</itunes:name>
-		<itunes:email>admin@futurenotset.com</itunes:email>
+		<itunes:email>admin@podonaut.com</itunes:email>
 	</itunes:owner>
 	<itunes:image href="https://futurenotset.com/wp-content/uploads/sites/8/2022/01/fns_square_circle2.png"/>
 	<itunes:subtitle>The future is here! It is just unevenly distributed!</itunes:subtitle>
@@ -30,7 +31,7 @@
 	<atom:link rel="me" href="https://podcasts.apple.com/podcast/id1572673778" />
 	<podcast:funding url="https://paypal.me/davekeeshan">PayPal</podcast:funding>
 
-	<podcast:locked owner="admin@futurenotset.com">yes</podcast:locked>
+	<podcast:locked owner="admin@podonaut.com">yes</podcast:locked>
 	<podcast:value type="lightning" method="keysend" suggested="0.00000015000">
 		<podcast:valueRecipient name="Podonaut" type="node" address="033bf25b954273ff9425d1e2fec4b8b604355f618eda210a47ac820759664cf7ba" split="5" />
 		<podcast:valueRecipient name="Satoshi Stream" type="node" address="03c457fafbc8b91b462ef0b8f61d4fd96577a4b58c18b50e59621fd0f41a8ae1a4" split="95" />
@@ -44,11 +45,11 @@
     	<description><![CDATA[I know now why you cry, but it's something I can never do.]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/lambda/#" />
 		
-<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_021.mp3" length="45258444" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_021.mp3" length="45258444" type="audio/mpeg"/>
 
 		<itunes:duration>00:53:52</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
-		<itunes:subtitle>I know now why you cry, but it's something I can never do.</itunes:subtitle>
+		<itunes:subtitle>I know now why you cry, but it&amp;#039;s something I can never do.</itunes:subtitle>
 		<itunes:title>Lambda: The Sentient Chatbot and others Stories</itunes:title>
 		<itunes:episode>21</itunes:episode>
 		<itunes:episodeType>full</itunes:episodeType>
@@ -59,7 +60,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-medium"><img loading="lazy" width="300" height="300" src="https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-300x300.jpg" alt="" class="wp-image-192" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-300x300.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-1024x1024.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-150x150.jpg 150w, https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-768x768.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-1536x1536.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-2048x2048.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></figure></div>
+<figure class="alignleft size-medium"><img loading="lazy" decoding="async" width="300" height="300" src="https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-300x300.jpg" alt="" class="wp-image-192" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-300x300.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-1024x1024.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-150x150.jpg 150w, https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-768x768.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-1536x1536.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-2048x2048.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></figure></div>
 
 
 <p>So the story goes that Sentient <a href="https://en.wikipedia.org/wiki/Chatbot">chatbots </a>walk amongest us! Is it true? Or is it false? If you said it was a <code>null</code> statement you may have just outed yourself as one of those chat bots!</p>
@@ -97,22 +98,22 @@ Is this the end?  We don't know! But while history might not repeat itself, it c
 #crypto #luna #terra #btc #winter #cutebunnyrabbits]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/coinageddon/#" />
 		
-<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_020.mp3" length="40494615" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_020.mp3" length="40494615" type="audio/mpeg"/>
 
 		<itunes:duration>00:48:12</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
-		<itunes:subtitle>I don't know what a algorithmic stablecoin is!</itunes:subtitle>
+		<itunes:subtitle>I don&amp;#039;t know what a algorithmic stablecoin is!</itunes:subtitle>
 		<itunes:title>Coinaggedon</itunes:title>
 		<itunes:episode>20</itunes:episode>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:summary><![CDATA[Welcome back to... the end?  We had a lovely epsiode lined up and then the whole crypto market decided to punch itself in the face, so we decided to cover that instead
 
-Is this the end?  We don't know! But while history might not repeat itself, it certainly rhymes and we put on our pundit hats to talk about LUNA, algorithmic stablecoins, Terra, Tether and what ever your having yourself! Welcome to the crypto winter (again!)
+Is this the end?  We don&#039;t know! But while history might not repeat itself, it certainly rhymes and we put on our pundit hats to talk about LUNA, algorithmic stablecoins, Terra, Tether and what ever your having yourself! Welcome to the crypto winter (again!)
 
 #crypto #luna #terra #btc #winter #cutebunnyrabbits]]></itunes:summary>
 		
 		<content:encoded><![CDATA[
-<div class="wp-block-image"><figure class="alignleft size-medium"><img loading="lazy" width="204" height="300" src="https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-204x300.jpg" alt="" class="wp-image-186" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-204x300.jpg 204w, https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-695x1024.jpg 695w, https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-768x1131.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-1043x1536.jpg 1043w, https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-1391x2048.jpg 1391w, https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-scaled.jpg 1738w" sizes="(max-width: 204px) 100vw, 204px" /></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-medium"><img loading="lazy" decoding="async" width="204" height="300" src="https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-204x300.jpg" alt="" class="wp-image-186" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-204x300.jpg 204w, https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-695x1024.jpg 695w, https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-768x1131.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-1043x1536.jpg 1043w, https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-1391x2048.jpg 1391w, https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-scaled.jpg 1738w" sizes="(max-width: 204px) 100vw, 204px" /></figure></div>
 
 
 
@@ -149,7 +150,7 @@ Is this the end?  We don't know! But while history might not repeat itself, it c
 What does war look like now where soliders can be on insta live at the same time! Were the HSE ransomware attacks in early 2021 actually some early moves on bringing about the world Sneakers predicted?]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/technology-at-war/#" />
 		
-<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_019.mp3" length="37514425" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_019.mp3" length="37514425" type="audio/mpeg"/>
 
 		<itunes:duration>00:44:39</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -162,7 +163,7 @@ What does war look like now where soliders can be on insta live at the same time
 What does war look like now where soliders can be on insta live at the same time! Were the HSE ransomware attacks in early 2021 actually some early moves on bringing about the world Sneakers predicted?]]></itunes:summary>
 		
 		<content:encoded><![CDATA[
-<div class="wp-block-image"><figure class="alignleft size-medium"><img loading="lazy" width="300" height="200" src="https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-300x200.jpg" alt="" class="wp-image-182" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-300x200.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-1024x683.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-768x512.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-1536x1024.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-2048x1365.jpg 2048w, https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-410x275.jpg 410w" sizes="(max-width: 300px) 100vw, 300px" /></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-medium"><img loading="lazy" decoding="async" width="300" height="200" src="https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-300x200.jpg" alt="" class="wp-image-182" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-300x200.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-1024x683.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-768x512.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-1536x1024.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-2048x1365.jpg 2048w, https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-410x275.jpg 410w" sizes="(max-width: 300px) 100vw, 300px" /></figure></div>
 
 
 
@@ -199,7 +200,7 @@ What does war look like now where soliders can be on insta live at the same time
 In 2017 the video Slaughterbots! was posted on YouTube that showed a black Mirror like future where assassin drones existed and got slightly out of hand. This video was targeted at all the designers and engineers that could actually build something like that and to consider some of the less savory practical applications that their work could lead to.]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/slaughterbots/#" />
 		
-<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_018.mp3" length="33823988" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_018.mp3" length="33823988" type="audio/mpeg"/>
 
 		<itunes:duration>00:40:15</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -212,7 +213,7 @@ In 2017 the video Slaughterbots! was posted on YouTube that showed a black Mirro
 In 2017 the video Slaughterbots! was posted on YouTube that showed a black Mirror like future where assassin drones existed and got slightly out of hand. This video was targeted at all the designers and engineers that could actually build something like that and to consider some of the less savory practical applications that their work could lead to.]]></itunes:summary>
 		
 		<content:encoded><![CDATA[
-<div class="wp-block-image"><figure class="alignleft size-medium is-resized"><img loading="lazy" src="https://futurenotset.com/wp-content/uploads/sites/8/2022/02/MV5BMTIwNjE3OTQtYzQzMC00ZDkzLTk2Y2ItZGY1YWFjN2NmZTBlXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_-219x300.jpg" alt="" class="wp-image-173" width="302" height="414" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2022/02/MV5BMTIwNjE3OTQtYzQzMC00ZDkzLTk2Y2ItZGY1YWFjN2NmZTBlXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_-219x300.jpg 219w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/MV5BMTIwNjE3OTQtYzQzMC00ZDkzLTk2Y2ItZGY1YWFjN2NmZTBlXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_-746x1024.jpg 746w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/MV5BMTIwNjE3OTQtYzQzMC00ZDkzLTk2Y2ItZGY1YWFjN2NmZTBlXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_-768x1054.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/MV5BMTIwNjE3OTQtYzQzMC00ZDkzLTk2Y2ItZGY1YWFjN2NmZTBlXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_.jpg 983w" sizes="(max-width: 302px) 100vw, 302px" /></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-medium is-resized"><img loading="lazy" decoding="async" src="https://futurenotset.com/wp-content/uploads/sites/8/2022/02/MV5BMTIwNjE3OTQtYzQzMC00ZDkzLTk2Y2ItZGY1YWFjN2NmZTBlXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_-219x300.jpg" alt="" class="wp-image-173" width="302" height="414" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2022/02/MV5BMTIwNjE3OTQtYzQzMC00ZDkzLTk2Y2ItZGY1YWFjN2NmZTBlXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_-219x300.jpg 219w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/MV5BMTIwNjE3OTQtYzQzMC00ZDkzLTk2Y2ItZGY1YWFjN2NmZTBlXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_-746x1024.jpg 746w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/MV5BMTIwNjE3OTQtYzQzMC00ZDkzLTk2Y2ItZGY1YWFjN2NmZTBlXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_-768x1054.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/MV5BMTIwNjE3OTQtYzQzMC00ZDkzLTk2Y2ItZGY1YWFjN2NmZTBlXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_.jpg 983w" sizes="(max-width: 302px) 100vw, 302px" /></figure></div>
 
 
 
@@ -249,7 +250,7 @@ In 2017 the video Slaughterbots! was posted on YouTube that showed a black Mirro
     	<description><![CDATA[Whooosh, that is the future! Dave and John bring to you the very first podcast from the Metaverse. First the suggestion was to do a podcast about the Metaverse, then someone suggested lets do it in the METAVERSE! So we did it!]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/metaverse/#" />
 		
-<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_017.mp3" length="25826909" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_017.mp3" length="25826909" type="audio/mpeg"/>
 
 		<itunes:duration>00:30:44</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -260,7 +261,7 @@ In 2017 the video Slaughterbots! was posted on YouTube that showed a black Mirro
 		<itunes:summary><![CDATA[Whooosh, that is the future! Dave and John bring to you the very first podcast from the Metaverse. First the suggestion was to do a podcast about the Metaverse, then someone suggested lets do it in the METAVERSE! So we did it!]]></itunes:summary>
 		
 		<content:encoded><![CDATA[
-<div class="wp-block-image"><figure class="alignleft size-medium"><img loading="lazy" width="300" height="200" src="https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-300x200.jpg" alt="" class="wp-image-168" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-300x200.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-1024x683.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-768x512.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-1536x1025.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-2048x1366.jpg 2048w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-410x275.jpg 410w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption>Photo by <a href="https://unsplash.com/@barbarazandoval?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Barbara Zandoval</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-medium"><img loading="lazy" decoding="async" width="300" height="200" src="https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-300x200.jpg" alt="" class="wp-image-168" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-300x200.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-1024x683.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-768x512.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-1536x1025.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-2048x1366.jpg 2048w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-410x275.jpg 410w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption>Photo by <a href="https://unsplash.com/@barbarazandoval?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Barbara Zandoval</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption></figure></div>
 
 
 
@@ -289,7 +290,7 @@ In 2017 the video Slaughterbots! was posted on YouTube that showed a black Mirro
 Where did Blender come from, what is it now and where is it going? THe guys recount their experience with this awesome tool. Blender could quiet literally save the whole world, or a few med-range computer animated movies.]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/blender/#" />
 		
-<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_016.mp3" length="29552073" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_016.mp3" length="29552073" type="audio/mpeg"/>
 
 		<itunes:duration>00:35:10</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -302,7 +303,7 @@ Where did Blender come from, what is it now and where is it going? THe guys reco
 Where did Blender come from, what is it now and where is it going? THe guys recount their experience with this awesome tool. Blender could quiet literally save the whole world, or a few med-range computer animated movies.]]></itunes:summary>
 		
 		<content:encoded><![CDATA[
-<div class="wp-block-image is-style-default"><figure class="aligncenter size-full is-resized"><img loading="lazy" src="https://futurenotset.com/wp-content/uploads/sites/8/2022/01/Blender_2.90-splash.png" alt="" class="wp-image-163" width="623" height="312" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2022/01/Blender_2.90-splash.png 1004w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/Blender_2.90-splash-300x150.png 300w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/Blender_2.90-splash-768x384.png 768w" sizes="(max-width: 623px) 100vw, 623px" /></figure></div>
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" src="https://futurenotset.com/wp-content/uploads/sites/8/2022/01/Blender_2.90-splash.png" alt="" class="wp-image-163" width="623" height="312" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2022/01/Blender_2.90-splash.png 1004w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/Blender_2.90-splash-300x150.png 300w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/Blender_2.90-splash-768x384.png 768w" sizes="(max-width: 623px) 100vw, 623px" /></figure></div>
 
 
 
@@ -329,7 +330,7 @@ Where did Blender come from, what is it now and where is it going? THe guys reco
     	<description><![CDATA[Well it is the new year (2022) and there are new words! Web3 is the one of new buzzword floating around, but what is it? Morketing 101 or the beginning for something new? With a new Matrix film about too we dive into a brand new world, but maybe it is the old world wearing a different suit! We don't know, but someone is going to make a pants load of money for sure!]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/web3/#" />
 		
-<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_015.mp3" length="43563315" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_015.mp3" length="43563315" type="audio/mpeg"/>
 
 		<itunes:duration>00:51:51</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -337,14 +338,14 @@ Where did Blender come from, what is it now and where is it going? THe guys reco
 		<itunes:title>Web3</itunes:title>
 		<itunes:episode>21</itunes:episode>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:summary><![CDATA[Well it is the new year (2022) and there are new words! Web3 is the one of new buzzword floating around, but what is it? Morketing 101 or the beginning for something new? With a new Matrix film about too we dive into a brand new world, but maybe it is the old world wearing a different suit! We don't know, but someone is going to make a pants load of money for sure!]]></itunes:summary>
+		<itunes:summary><![CDATA[Well it is the new year (2022) and there are new words! Web3 is the one of new buzzword floating around, but what is it? Morketing 101 or the beginning for something new? With a new Matrix film about too we dive into a brand new world, but maybe it is the old world wearing a different suit! We don&#039;t know, but someone is going to make a pants load of money for sure!]]></itunes:summary>
 		
 		<content:encoded><![CDATA[
 <p></p>
 
 
 
-<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img loading="lazy" src="https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-1024x683.jpg" alt="" class="wp-image-144" width="382" height="255" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-1024x683.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-300x200.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-768x512.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-1536x1024.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-2048x1365.jpg 2048w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-410x275.jpg 410w" sizes="(max-width: 382px) 100vw, 382px" /><figcaption>Photo by <a href="https://unsplash.com/@mistrjosh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Joshua Michaels</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-1024x683.jpg" alt="" class="wp-image-144" width="382" height="255" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-1024x683.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-300x200.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-768x512.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-1536x1024.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-2048x1365.jpg 2048w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-410x275.jpg 410w" sizes="(max-width: 382px) 100vw, 382px" /><figcaption>Photo by <a href="https://unsplash.com/@mistrjosh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Joshua Michaels</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption></figure></div>
 
 
 
@@ -369,7 +370,7 @@ Where did Blender come from, what is it now and where is it going? THe guys reco
 We break down, break out and break up some of the lingo to see if there is anything to the hype, the answer may surprise you ... (its yes BTW!).]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/nft-and-dao/#" />
 		
-<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_014.mp3" length="37752854" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_014.mp3" length="37752854" type="audio/mpeg"/>
 
 		<itunes:duration>00:44:56</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -382,7 +383,7 @@ We break down, break out and break up some of the lingo to see if there is anyth
 We break down, break out and break up some of the lingo to see if there is anything to the hype, the answer may surprise you ... (its yes BTW!).]]></itunes:summary>
 		
 		<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/troop-of-bored-ape-nfts-rises-above-the-competition-nft-project-donates-200k-in-eth-to-orangutan-outreach-1024x576.jpeg" alt="" class="wp-image-138" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/troop-of-bored-ape-nfts-rises-above-the-competition-nft-project-donates-200k-in-eth-to-orangutan-outreach-1024x576.jpeg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/troop-of-bored-ape-nfts-rises-above-the-competition-nft-project-donates-200k-in-eth-to-orangutan-outreach-300x169.jpeg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/troop-of-bored-ape-nfts-rises-above-the-competition-nft-project-donates-200k-in-eth-to-orangutan-outreach-768x432.jpeg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/troop-of-bored-ape-nfts-rises-above-the-competition-nft-project-donates-200k-in-eth-to-orangutan-outreach.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/troop-of-bored-ape-nfts-rises-above-the-competition-nft-project-donates-200k-in-eth-to-orangutan-outreach-1024x576.jpeg" alt="" class="wp-image-138" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/troop-of-bored-ape-nfts-rises-above-the-competition-nft-project-donates-200k-in-eth-to-orangutan-outreach-1024x576.jpeg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/troop-of-bored-ape-nfts-rises-above-the-competition-nft-project-donates-200k-in-eth-to-orangutan-outreach-300x169.jpeg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/troop-of-bored-ape-nfts-rises-above-the-competition-nft-project-donates-200k-in-eth-to-orangutan-outreach-768x432.jpeg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/troop-of-bored-ape-nfts-rises-above-the-competition-nft-project-donates-200k-in-eth-to-orangutan-outreach.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -417,7 +418,7 @@ Dave and Jonathan have been charting the crypto seas now for over 10 years, what
 Anyone buying or selling shovels!]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/the-ghost-of-crypto-present/#" />
 		
-<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_013.mp3" length="42292847" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_013.mp3" length="42292847" type="audio/mpeg"/>
 
 		<itunes:duration>00:50:20</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -432,7 +433,7 @@ Dave and Jonathan have been charting the crypto seas now for over 10 years, what
 Anyone buying or selling shovels!]]></itunes:summary>
 		
 		<content:encoded><![CDATA[
-<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img loading="lazy" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/tandem-x-visuals-FZOOxR2auVI-unsplash-1024x683.jpg" alt="" class="wp-image-125" width="474" height="316" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/tandem-x-visuals-FZOOxR2auVI-unsplash-1024x683.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/tandem-x-visuals-FZOOxR2auVI-unsplash-300x200.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/tandem-x-visuals-FZOOxR2auVI-unsplash-768x512.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/tandem-x-visuals-FZOOxR2auVI-unsplash-1536x1024.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/tandem-x-visuals-FZOOxR2auVI-unsplash-2048x1365.jpg 2048w" sizes="(max-width: 474px) 100vw, 474px" /><figcaption>Photo by <a href="https://unsplash.com/@tandemxvisuals?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Tandem X Visuals</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/tandem-x-visuals-FZOOxR2auVI-unsplash-1024x683.jpg" alt="" class="wp-image-125" width="474" height="316" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/tandem-x-visuals-FZOOxR2auVI-unsplash-1024x683.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/tandem-x-visuals-FZOOxR2auVI-unsplash-300x200.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/tandem-x-visuals-FZOOxR2auVI-unsplash-768x512.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/tandem-x-visuals-FZOOxR2auVI-unsplash-1536x1024.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/tandem-x-visuals-FZOOxR2auVI-unsplash-2048x1365.jpg 2048w" sizes="(max-width: 474px) 100vw, 474px" /><figcaption>Photo by <a href="https://unsplash.com/@tandemxvisuals?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Tandem X Visuals</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption></figure></div>
 
 
 
@@ -452,7 +453,7 @@ Anyone buying or selling shovels!]]></itunes:summary>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="485" height="1024" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-485x1024.jpg" alt="" class="wp-image-127" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-485x1024.jpg 485w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-142x300.jpg 142w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-768x1622.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-727x1536.jpg 727w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-970x2048.jpg 970w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome.jpg 1037w" sizes="(max-width: 485px) 100vw, 485px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="485" height="1024" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-485x1024.jpg" alt="" class="wp-image-127" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-485x1024.jpg 485w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-142x300.jpg 142w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-768x1622.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-727x1536.jpg 727w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-970x2048.jpg 970w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome.jpg 1037w" sizes="(max-width: 485px) 100vw, 485px" /></figure>
 
 
 
@@ -481,7 +482,7 @@ Anyone buying or selling shovels!]]></itunes:summary>
 This topic turned out to be too huge, so join us next episode when the crypto experience really takes off!]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/crypto-and-bitcoin/#" />
 		
-<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_012.mp3" length="40582764" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_012.mp3" length="43575398" type="audio/mpeg"/>
 
 		<itunes:duration>00:51:52</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -502,7 +503,7 @@ This topic turned out to be too huge, so join us next episode when the crypto ex
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="683" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/11/maxim-hopman-fiXLQXAhCfk-unsplash-1024x683.jpg" alt="" class="wp-image-121" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/11/maxim-hopman-fiXLQXAhCfk-unsplash-1024x683.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/11/maxim-hopman-fiXLQXAhCfk-unsplash-300x200.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/11/maxim-hopman-fiXLQXAhCfk-unsplash-768x512.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/11/maxim-hopman-fiXLQXAhCfk-unsplash-1536x1024.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2021/11/maxim-hopman-fiXLQXAhCfk-unsplash-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/11/maxim-hopman-fiXLQXAhCfk-unsplash-1024x683.jpg" alt="" class="wp-image-121" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/11/maxim-hopman-fiXLQXAhCfk-unsplash-1024x683.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/11/maxim-hopman-fiXLQXAhCfk-unsplash-300x200.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/11/maxim-hopman-fiXLQXAhCfk-unsplash-768x512.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/11/maxim-hopman-fiXLQXAhCfk-unsplash-1536x1024.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2021/11/maxim-hopman-fiXLQXAhCfk-unsplash-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -529,7 +530,7 @@ With the advent of computers, it allowed us to deploy Just In Time manufacturing
 This isn't limited to just chips.  Supply issues can be seen every where, bikes, cars, computers, toilet rolls, books for christmas and even cardboard!]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/chipageddon/#" />
 		
-<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_011.mp3" length="34869218" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_011.mp3" length="34869218" type="audio/mpeg"/>
 
 		<itunes:duration>00:41:30</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -541,14 +542,14 @@ This isn't limited to just chips.  Supply issues can be seen every where, bikes,
 
 With the advent of computers, it allowed us to deploy Just In Time manufacturing.  Parts are dispatched just before they are needed, and system that is so perfect it falls to pieces when a global lockdown forces workers to reduce capacity.
 
-This isn't limited to just chips.  Supply issues can be seen every where, bikes, cars, computers, toilet rolls, books for christmas and even cardboard!]]></itunes:summary>
+This isn&#039;t limited to just chips.  Supply issues can be seen every where, bikes, cars, computers, toilet rolls, books for christmas and even cardboard!]]></itunes:summary>
 		
 		<content:encoded><![CDATA[
 <p></p>
 
 
 
-<div class="wp-block-image"><figure class="alignleft size-medium"><img loading="lazy" width="300" height="199" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/11/laura-ockel-pGVr8YRtQ80-unsplash-300x199.jpg" alt="" class="wp-image-116" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/11/laura-ockel-pGVr8YRtQ80-unsplash-300x199.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/11/laura-ockel-pGVr8YRtQ80-unsplash-1024x678.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/11/laura-ockel-pGVr8YRtQ80-unsplash-768x509.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/11/laura-ockel-pGVr8YRtQ80-unsplash-1536x1017.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2021/11/laura-ockel-pGVr8YRtQ80-unsplash-2048x1356.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-medium"><img loading="lazy" decoding="async" width="300" height="199" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/11/laura-ockel-pGVr8YRtQ80-unsplash-300x199.jpg" alt="" class="wp-image-116" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/11/laura-ockel-pGVr8YRtQ80-unsplash-300x199.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/11/laura-ockel-pGVr8YRtQ80-unsplash-1024x678.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/11/laura-ockel-pGVr8YRtQ80-unsplash-768x509.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/11/laura-ockel-pGVr8YRtQ80-unsplash-1536x1017.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2021/11/laura-ockel-pGVr8YRtQ80-unsplash-2048x1356.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></figure></div>
 
 
 
@@ -597,7 +598,7 @@ Welcome to the world of moral psychology and how the thought experiment above is
 We discuss how simple systems get complicated very fast when you put a fast moving ton of metal onto the streets where it can interact with the unaware population going about its day to day life.]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/the-trolley-problem/#" />
 		
-<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_010.mp3" length="27393644" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_010.mp3" length="32296770" type="audio/mpeg"/>
 
 		<itunes:duration>00:38:26</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -614,7 +615,7 @@ Welcome to the world of moral psychology and how the thought experiment above is
 We discuss how simple systems get complicated very fast when you put a fast moving ton of metal onto the streets where it can interact with the unaware population going about its day to day life.]]></itunes:summary>
 		
 		<content:encoded><![CDATA[
-<div class="wp-block-image"><figure class="alignleft size-medium is-resized"><img loading="lazy" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-200x300.jpg" alt="" class="wp-image-110" width="250" height="375" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-200x300.jpg 200w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-683x1024.jpg 683w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-768x1151.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-1025x1536.jpg 1025w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-1367x2048.jpg 1367w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-scaled.jpg 1709w" sizes="(max-width: 250px) 100vw, 250px" /></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-medium is-resized"><img loading="lazy" decoding="async" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-200x300.jpg" alt="" class="wp-image-110" width="250" height="375" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-200x300.jpg 200w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-683x1024.jpg 683w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-768x1151.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-1025x1536.jpg 1025w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-1367x2048.jpg 1367w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/boris-stromar-qoCZmnwmwe0-unsplash-scaled.jpg 1709w" sizes="(max-width: 250px) 100vw, 250px" /></figure></div>
 
 
 
@@ -663,7 +664,7 @@ For the record this podcast is v4v compliant and has an active ligtning address,
 03c457fafbc8b91b462ef0b8f61d4fd96577a4b58c18b50e59621fd0f41a8ae1a4]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/value-tag-podcasting-2-0-part-ii/#" />
 		
-<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_009.mp3" length="39123573" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_009.mp3" length="39123573" type="audio/mpeg"/>
 
 		<itunes:duration>00:46:34</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -671,7 +672,7 @@ For the record this podcast is v4v compliant and has an active ligtning address,
 		<itunes:title>Value Tag (Podcasting 2.0 part II)</itunes:title>
 		<itunes:episode>9</itunes:episode>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:summary><![CDATA[Well we're back and we have unfinished business. In our last epsidode we started discussing he RSS tags added to help make podcasting more searchable, and like a good cliffhanger we finished before even getting to the value tag. Nothing seems to have energised the podcasting community like the value tag.
+		<itunes:summary><![CDATA[Well we&#039;re back and we have unfinished business. In our last epsidode we started discussing he RSS tags added to help make podcasting more searchable, and like a good cliffhanger we finished before even getting to the value tag. Nothing seems to have energised the podcasting community like the value tag.
 
 The value tag has been, depending on where you stand, proposed or introduced to the RSS standard for podcasting, well what it is and how does it work. Getting paid for podcasting by the people who are listening, is that even possible?
 
@@ -684,7 +685,7 @@ For the record this podcast is v4v compliant and has an active ligtning address,
 03c457fafbc8b91b462ef0b8f61d4fd96577a4b58c18b50e59621fd0f41a8ae1a4]]></itunes:summary>
 		
 		<content:encoded><![CDATA[
-<div class="wp-block-image"><figure class="alignleft size-medium"><img loading="lazy" width="300" height="225" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/10/thought-catalog-Xeo_7HSwYsA-unsplash-300x225.jpg" alt="" class="wp-image-103" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/10/thought-catalog-Xeo_7HSwYsA-unsplash-300x225.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/thought-catalog-Xeo_7HSwYsA-unsplash-1024x767.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/thought-catalog-Xeo_7HSwYsA-unsplash-768x575.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/thought-catalog-Xeo_7HSwYsA-unsplash-1536x1151.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/thought-catalog-Xeo_7HSwYsA-unsplash-2048x1535.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-medium"><img loading="lazy" decoding="async" width="300" height="225" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/10/thought-catalog-Xeo_7HSwYsA-unsplash-300x225.jpg" alt="" class="wp-image-103" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/10/thought-catalog-Xeo_7HSwYsA-unsplash-300x225.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/thought-catalog-Xeo_7HSwYsA-unsplash-1024x767.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/thought-catalog-Xeo_7HSwYsA-unsplash-768x575.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/thought-catalog-Xeo_7HSwYsA-unsplash-1536x1151.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2021/10/thought-catalog-Xeo_7HSwYsA-unsplash-2048x1535.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></figure></div>
 
 
 
@@ -733,7 +734,7 @@ For the record this podcast is v4v compliant and has an active ligtning address,
 Dave explains to Jonathan what podcasting 2.0 is and where it is going, sexy things like RSS feeds and meta tags, we go nuts!  It turns out to be such a massive project, we run out of time, so we'll be back to cover the one topic that gets left as a cliffhanger, what is it? Join us for part II!]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/podcasting-2-0-part-i/#" />
 		
-<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_008.mp3" length="38528540" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_008.mp3" length="38528540" type="audio/mpeg"/>
 
 		<itunes:duration>00:45:51</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -741,16 +742,16 @@ Dave explains to Jonathan what podcasting 2.0 is and where it is going, sexy thi
 		<itunes:title>Podcasting 2.0 part I</itunes:title>
 		<itunes:episode>8</itunes:episode>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:summary><![CDATA[And we are back again talking about podcasting and the big fight against the walled gardens and their deep pockets.  It took, 150 million to pay of Joe Rogan, we won't be as cheap!
+		<itunes:summary><![CDATA[And we are back again talking about podcasting and the big fight against the walled gardens and their deep pockets.  It took, 150 million to pay of Joe Rogan, we won&#039;t be as cheap!
 
-Dave explains to Jonathan what podcasting 2.0 is and where it is going, sexy things like RSS feeds and meta tags, we go nuts!  It turns out to be such a massive project, we run out of time, so we'll be back to cover the one topic that gets left as a cliffhanger, what is it? Join us for part II!]]></itunes:summary>
+Dave explains to Jonathan what podcasting 2.0 is and where it is going, sexy things like RSS feeds and meta tags, we go nuts!  It turns out to be such a massive project, we run out of time, so we&#039;ll be back to cover the one topic that gets left as a cliffhanger, what is it? Join us for part II!]]></itunes:summary>
 		
 		<content:encoded><![CDATA[
 <p>And we are back again talking about podcasting and the big fight against the walled gardens and their deep pockets. It took, 150 million to pay of Joe Rogan, we won&#8217;t be as cheap!</p>
 
 
 
-<div class="wp-block-image is-style-rounded"><figure class="alignright size-large is-resized"><img loading="lazy" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/09/harry-cunningham-_1J2AioiNC0-unsplash-683x1024.jpg" alt="" class="wp-image-95" width="342" height="512" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/09/harry-cunningham-_1J2AioiNC0-unsplash-683x1024.jpg 683w, https://futurenotset.com/wp-content/uploads/sites/8/2021/09/harry-cunningham-_1J2AioiNC0-unsplash-200x300.jpg 200w, https://futurenotset.com/wp-content/uploads/sites/8/2021/09/harry-cunningham-_1J2AioiNC0-unsplash-768x1152.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/09/harry-cunningham-_1J2AioiNC0-unsplash-1024x1536.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/09/harry-cunningham-_1J2AioiNC0-unsplash-1365x2048.jpg 1365w, https://futurenotset.com/wp-content/uploads/sites/8/2021/09/harry-cunningham-_1J2AioiNC0-unsplash-scaled.jpg 1707w" sizes="(max-width: 342px) 100vw, 342px" /></figure></div>
+<div class="wp-block-image is-style-rounded"><figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/09/harry-cunningham-_1J2AioiNC0-unsplash-683x1024.jpg" alt="" class="wp-image-95" width="342" height="512" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/09/harry-cunningham-_1J2AioiNC0-unsplash-683x1024.jpg 683w, https://futurenotset.com/wp-content/uploads/sites/8/2021/09/harry-cunningham-_1J2AioiNC0-unsplash-200x300.jpg 200w, https://futurenotset.com/wp-content/uploads/sites/8/2021/09/harry-cunningham-_1J2AioiNC0-unsplash-768x1152.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/09/harry-cunningham-_1J2AioiNC0-unsplash-1024x1536.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/09/harry-cunningham-_1J2AioiNC0-unsplash-1365x2048.jpg 1365w, https://futurenotset.com/wp-content/uploads/sites/8/2021/09/harry-cunningham-_1J2AioiNC0-unsplash-scaled.jpg 1707w" sizes="(max-width: 342px) 100vw, 342px" /></figure></div>
 
 
 
@@ -779,7 +780,7 @@ Dave explains to Jonathan what podcasting 2.0 is and where it is going, sexy thi
 Next episode we show you how to google google!]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/how-to-podcast/#" />
 		
-<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_007.mp3" length="12172908" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_007.mp3" length="40122319" type="audio/mpeg"/>
 
 		<itunes:duration>00:47:45</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -792,7 +793,7 @@ Next episode we show you how to google google!]]></description>
 Next episode we show you how to google google!]]></itunes:summary>
 		
 		<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="683" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/09/jonathan-farber-wUl6KBqdj2E-unsplash-1024x683.jpg" alt="" class="wp-image-90" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/09/jonathan-farber-wUl6KBqdj2E-unsplash-1024x683.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/09/jonathan-farber-wUl6KBqdj2E-unsplash-300x200.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/09/jonathan-farber-wUl6KBqdj2E-unsplash-768x512.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/09/jonathan-farber-wUl6KBqdj2E-unsplash-1536x1024.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2021/09/jonathan-farber-wUl6KBqdj2E-unsplash-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/09/jonathan-farber-wUl6KBqdj2E-unsplash-1024x683.jpg" alt="" class="wp-image-90" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/09/jonathan-farber-wUl6KBqdj2E-unsplash-1024x683.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/09/jonathan-farber-wUl6KBqdj2E-unsplash-300x200.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/09/jonathan-farber-wUl6KBqdj2E-unsplash-768x512.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/09/jonathan-farber-wUl6KBqdj2E-unsplash-1536x1024.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2021/09/jonathan-farber-wUl6KBqdj2E-unsplash-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -829,7 +830,7 @@ Next episode we show you how to google google!]]></itunes:summary>
 While also big fans of a good conspiracy, we still struggle to figure out how to send a wireless 5G tracking microchip down a hypodermic needle.  Do you know how hard it is to get a 5G modem to work? I mean seriously! The person/company who achieve that will not do it is secret, they'll take that company public and be the biggest IPO ever seen! Just sayin!]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/mask-wearing/#" />
 		
-<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_006.mp3" length="27178226" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_006.mp3" length="27178226" type="audio/mpeg"/>
 
 		<itunes:duration>00:32:21</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -837,16 +838,16 @@ While also big fans of a good conspiracy, we still struggle to figure out how to
 		<itunes:title>Mask Wearing</itunes:title>
 		<itunes:episode>6</itunes:episode>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:summary><![CDATA[Lets talk about wearing masks.  Some people have to wear masks as part of their day to day life, now the whole world is in some way used to wearing a mask to get about their day. Dave and Jonathan are happy to wear masks for the risk prevention the afford, maths is on their side, however it doesn't mean that they like them.  Dave has taken up chewing gum to counter act his bad breath!
+		<itunes:summary><![CDATA[Lets talk about wearing masks.  Some people have to wear masks as part of their day to day life, now the whole world is in some way used to wearing a mask to get about their day. Dave and Jonathan are happy to wear masks for the risk prevention the afford, maths is on their side, however it doesn&#039;t mean that they like them.  Dave has taken up chewing gum to counter act his bad breath!
 
-While also big fans of a good conspiracy, we still struggle to figure out how to send a wireless 5G tracking microchip down a hypodermic needle.  Do you know how hard it is to get a 5G modem to work? I mean seriously! The person/company who achieve that will not do it is secret, they'll take that company public and be the biggest IPO ever seen! Just sayin!]]></itunes:summary>
+While also big fans of a good conspiracy, we still struggle to figure out how to send a wireless 5G tracking microchip down a hypodermic needle.  Do you know how hard it is to get a 5G modem to work? I mean seriously! The person/company who achieve that will not do it is secret, they&#039;ll take that company public and be the biggest IPO ever seen! Just sayin!]]></itunes:summary>
 		
 		<content:encoded><![CDATA[
 <p></p>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="768" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/08/il_fullxfull.2393351584_mz7a-1024x768.jpg" alt="" class="wp-image-84" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/08/il_fullxfull.2393351584_mz7a-1024x768.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/08/il_fullxfull.2393351584_mz7a-300x225.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/08/il_fullxfull.2393351584_mz7a-768x576.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/08/il_fullxfull.2393351584_mz7a-1536x1152.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2021/08/il_fullxfull.2393351584_mz7a.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/08/il_fullxfull.2393351584_mz7a-1024x768.jpg" alt="" class="wp-image-84" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/08/il_fullxfull.2393351584_mz7a-1024x768.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/08/il_fullxfull.2393351584_mz7a-300x225.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/08/il_fullxfull.2393351584_mz7a-768x576.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/08/il_fullxfull.2393351584_mz7a-1536x1152.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2021/08/il_fullxfull.2393351584_mz7a.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -875,7 +876,7 @@ While also big fans of a good conspiracy, we still struggle to figure out how to
 Dave and Jon recount their small exposure when information between computers was actual done by sound!]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/phreaking/#" />
 		
-<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_005.mp3" length="33779752" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_005.mp3" length="33779752" type="audio/mpeg"/>
 
 		<itunes:duration>00:40:12</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -888,7 +889,7 @@ Dave and Jon recount their small exposure when information between computers was
 Dave and Jon recount their small exposure when information between computers was actual done by sound!]]></itunes:summary>
 		
 		<content:encoded><![CDATA[
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/phreak.jpg" alt="" class="wp-image-80" width="449" height="358" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/phreak.jpg 992w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/phreak-300x240.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/phreak-768x613.jpg 768w" sizes="(max-width: 449px) 100vw, 449px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/phreak.jpg" alt="" class="wp-image-80" width="449" height="358" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/phreak.jpg 992w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/phreak-300x240.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/phreak-768x613.jpg 768w" sizes="(max-width: 449px) 100vw, 449px" /></figure>
 
 
 
@@ -915,7 +916,7 @@ Dave and Jon recount their small exposure when information between computers was
     	<description><![CDATA[SETEC ASTRONOMY... TOO MANY SECRETS.]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/sneakers-a-retrospective/#" />
 		
-<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_004.mp3" length="31080719" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_004.mp3" length="31080719" type="audio/mpeg"/>
 
 		<itunes:duration>00:37:25</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -926,7 +927,7 @@ Dave and Jon recount their small exposure when information between computers was
 		
 		
 		<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="559" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/vlcsnap-2021-07-15-16h34m13s281-1024x559.png" alt="" class="wp-image-75" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/vlcsnap-2021-07-15-16h34m13s281-1024x559.png 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/vlcsnap-2021-07-15-16h34m13s281-300x164.png 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/vlcsnap-2021-07-15-16h34m13s281-768x419.png 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/vlcsnap-2021-07-15-16h34m13s281-1536x839.png 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/vlcsnap-2021-07-15-16h34m13s281.png 1904w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="559" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/vlcsnap-2021-07-15-16h34m13s281-1024x559.png" alt="" class="wp-image-75" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/vlcsnap-2021-07-15-16h34m13s281-1024x559.png 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/vlcsnap-2021-07-15-16h34m13s281-300x164.png 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/vlcsnap-2021-07-15-16h34m13s281-768x419.png 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/vlcsnap-2021-07-15-16h34m13s281-1536x839.png 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/vlcsnap-2021-07-15-16h34m13s281.png 1904w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -959,7 +960,7 @@ Dave and Jon recount their small exposure when information between computers was
 This is a podcasting 2.0 compliant podcast.]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/machine-learning/#" />
 		
-<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_003.mp3" length="42144024" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_003.mp3" length="42144024" type="audio/mpeg"/>
 
 		<itunes:duration>00:47:46</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -972,7 +973,7 @@ This is a podcasting 2.0 compliant podcast.]]></description>
 This is a podcasting 2.0 compliant podcast.]]></itunes:summary>
 		
 		<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" width="1000" height="700" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/machineLearning3.png" alt="" class="wp-image-71" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/machineLearning3.png 1000w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/machineLearning3-300x210.png 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/machineLearning3-768x538.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1000" height="700" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/machineLearning3.png" alt="" class="wp-image-71" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/machineLearning3.png 1000w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/machineLearning3-300x210.png 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/machineLearning3-768x538.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
@@ -1003,7 +1004,7 @@ Animal superstition: https://psycnet.apa.org/record/1948-04299-001
 Easily hacked certificate authorities (Diginotar): https://darknetdiaries.com/transcript/3/]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/cargo-cults/#" />
 		
-<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_002.mp3" length="44303851" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_002.mp3" length="44303851" type="audio/mpeg"/>
 
 		<itunes:duration>00:48:07</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -1018,7 +1019,7 @@ Animal superstition: https://psycnet.apa.org/record/1948-04299-001
 Easily hacked certificate authorities (Diginotar): https://darknetdiaries.com/transcript/3/]]></itunes:summary>
 		
 		<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" width="640" height="464" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/tumblr_omgdz15TmT1sn5m9vo7_640.jpg" alt="" class="wp-image-64" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/tumblr_omgdz15TmT1sn5m9vo7_640.jpg 640w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/tumblr_omgdz15TmT1sn5m9vo7_640-300x218.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="640" height="464" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/tumblr_omgdz15TmT1sn5m9vo7_640.jpg" alt="" class="wp-image-64" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/07/tumblr_omgdz15TmT1sn5m9vo7_640.jpg 640w, https://futurenotset.com/wp-content/uploads/sites/8/2021/07/tumblr_omgdz15TmT1sn5m9vo7_640-300x218.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
 
 
 
@@ -1048,11 +1049,11 @@ Easily hacked certificate authorities (Diginotar): https://darknetdiaries.com/tr
 Meanwhile Jonathan begins to learn the art of podcasting.]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/zero-day-exploits/#" />
 		
-<enclosure url="https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_001.mp3" length="40361792" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_001.mp3" length="40361792" type="audio/mpeg"/>
 
 		<itunes:duration>00:51:37</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
-		<itunes:subtitle>And we're in!</itunes:subtitle>
+		<itunes:subtitle>And we&amp;#039;re in!</itunes:subtitle>
 		<itunes:title>Zero Day Exploits</itunes:title>
 		<itunes:episode>1</itunes:episode>
 		<itunes:episodeType>full</itunes:episodeType>
@@ -1062,7 +1063,7 @@ Meanwhile Jonathan begins to learn the art of podcasting.]]></description>
 Meanwhile Jonathan begins to learn the art of podcasting.]]></itunes:summary>
 		
 		<content:encoded><![CDATA[
-<figure class="wp-block-image size-large is-resized is-style-default"><img loading="lazy" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/06/zero-day-vulnerability-attack-exploit-1024x640.jpg" alt="" class="wp-image-51" width="799" height="499" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/06/zero-day-vulnerability-attack-exploit-1024x640.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/06/zero-day-vulnerability-attack-exploit-300x188.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/06/zero-day-vulnerability-attack-exploit-768x480.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/06/zero-day-vulnerability-attack-exploit-1536x960.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2021/06/zero-day-vulnerability-attack-exploit.jpg 1600w" sizes="(max-width: 799px) 100vw, 799px" /></figure>
+<figure class="wp-block-image size-large is-resized is-style-default"><img loading="lazy" decoding="async" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/06/zero-day-vulnerability-attack-exploit-1024x640.jpg" alt="" class="wp-image-51" width="799" height="499" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/06/zero-day-vulnerability-attack-exploit-1024x640.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/06/zero-day-vulnerability-attack-exploit-300x188.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/06/zero-day-vulnerability-attack-exploit-768x480.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/06/zero-day-vulnerability-attack-exploit-1536x960.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2021/06/zero-day-vulnerability-attack-exploit.jpg 1600w" sizes="(max-width: 799px) 100vw, 799px" /></figure>
 
 
 

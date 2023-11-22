@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0</generator>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
 
 <image>
 	<url>https://futurenotset.com/wp-content/uploads/sites/8/2021/06/cropped-notset-icon-32x32.png</url>
@@ -42,7 +42,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-485x1024.jpg" alt="" class="wp-image-127" width="309" height="652" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-485x1024.jpg 485w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-142x300.jpg 142w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-768x1622.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-727x1536.jpg 727w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-970x2048.jpg 970w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome.jpg 1037w" sizes="(max-width: 309px) 100vw, 309px" /></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img fetchpriority="high" decoding="async" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-485x1024.jpg" alt="" class="wp-image-127" width="309" height="652" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-485x1024.jpg 485w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-142x300.jpg 142w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-768x1622.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-727x1536.jpg 727w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-970x2048.jpg 970w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome.jpg 1037w" sizes="(max-width: 309px) 100vw, 309px" /></figure></div>
 ]]></content:encoded>
 					
 		

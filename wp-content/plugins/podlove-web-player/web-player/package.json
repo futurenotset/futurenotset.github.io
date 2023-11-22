@@ -1,5 +1,5 @@
-{"name":"@podlove/web-player","version":"5.11.0","description":"Embedded version of Podlove Player","homepage":"https://github.com/podlove/ui/tree/development/apps/web-player","keywords":[],"author":"Alexander Heimbuch <github@heimbu.ch>","license":"MIT"
-,"_resolved": "https://registry.npmjs.org/@podlove/web-player/-/web-player-5.11.0.tgz"
-,"_integrity": "sha512-EWct6pYSncZerJM5v3a05iRG9FeyO6DXUwcAmarKARQX5Dr0ib/mFu5qUp/zryyMuYyJ77xHdFOe1V/WdgBzEw=="
-,"_from": "@podlove/web-player@5.11.0"
+{"name":"@podlove/web-player","version":"5.12.0","description":"Embedded version of Podlove Player","homepage":"https://github.com/podlove/ui/tree/development/apps/web-player","keywords":[],"author":"Alexander Heimbuch <github@heimbu.ch>","license":"MIT"
+,"_resolved": "https://registry.npmjs.org/@podlove/web-player/-/web-player-5.12.0.tgz"
+,"_integrity": "sha512-pxnB3azLxcCdXo3a6VfXBjtuikorJFqTsebVdN2Uc4nvRke4TN5jUQcZ//yoNr0x8G46OmYT4rx1zeAdxwUF8A=="
+,"_from": "@podlove/web-player@5.12.0"
 }

@@ -10,6 +10,7 @@
 		var $preview    = $("#podlove_template_shortcode_preview");
 
 		var editor = ace.edit("ace-editor");
+        var isNetwork = !!podlove_admin_network_global.is_network_admin ? "yes" : "no";
 
 		$("#fullscreen").on( 'click', function () {
 			$(document.body).toggleClass("fullScreen");
@@ -23,7 +24,7 @@
 		var templates   = [];
 
 		var template = function (id, title, content) {
-			
+
 			var $navigationItem = $("li a[data-id=" + id + "]", $navigation);
 			var isMarked = false;
 
@@ -45,7 +46,7 @@
 			var activate = function () {
 				$title.val(this.title);
 				$preview.val('[podlove-template template="' + this.title + '"]');
-				editor.getSession().setValue(this.content);
+				editor.getSession().setValue(this.content ? this.content : "");
 			};
 
 			return {
@@ -76,6 +77,7 @@
 			} else {
 				$.getJSON(ajaxurl, {
 					id: template_id,
+                    is_network: isNetwork,
 					action: 'podlove-template-get'
 				}, function(data) {
 					templates[template_id] = template(template_id, data.title, data.content);
@@ -106,6 +108,7 @@
 					id: template_id,
 					title: template_title,
 					content: template_content,
+                    is_network: isNetwork,
 					action: 'podlove-template-update'
 				},
 				success: function(data, status, xhr) {
@@ -150,7 +153,7 @@
 		var handle_editor_change = function () {
 			// only track user input, *not* programmatical change
 			// @see https://github.com/ajaxorg/ace/issues/503#issuecomment-44525640
-			if (editor.curOp && editor.curOp.command.name) { 
+			if (editor.curOp && editor.curOp.command.name) {
 				update_editor_cache();
 			}
 		};
@@ -160,7 +163,7 @@
 			$.ajax(ajaxurl, {
 				dataType: 'json',
 				type: 'POST',
-				data: { action: 'podlove-template-create' },
+				data: { action: 'podlove-template-create', is_network: isNetwork },
 				success: function(data, status, xhr) {
 					$("ul", $navigation)
 						.append("<li><a href=\"#\" data-id=\"" + data.id + "\"><span class='filename'>new template</span>&nbsp;</a></li>");
@@ -184,6 +187,7 @@
 					type: 'POST',
 					data: {
 						id: template_id,
+                        is_network: isNetwork,
 						action: 'podlove-template-delete'
 					},
 					success: function(data, status, xhr) {
