@@ -6,12 +6,12 @@
 	<title>The Future is not Set</title>
 	<link>https://futurenotset.com/</link>
 	<description><![CDATA[The future is here! It is just unevenly distributed!]]></description>
-	<lastBuildDate>Tue, 05 Jul 2022 20:31:33 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Jan 2024 15:59:23 +0000</lastBuildDate>
 	
 <image><url>https://futurenotset.com/wp-content/uploads/sites/8/2022/01/fns_square_circle2.png</url><title>The Future is not Set</title><link>https://futurenotset.com/</link></image>
 <atom:link rel="self" type="application/rss+xml" title="The Future is not Set (podcast)" href="https://futurenotset.com/feed/podcast/index.xml" />
 	<atom:link rel="first" href="https://futurenotset.com/feed/podcast/index.xml" />
-	<language>en-GB</language><generator>Podlove Podcast Publisher v4.0.8</generator>
+	<language>en-GB</language><generator>Podlove Podcast Publisher v4.0.9</generator>
 	<copyright>Copyright © 2021-2024 Podonaut All Rights Reserved</copyright>
 	<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
 	<itunes:type>episodic</itunes:type>
@@ -31,11 +31,6 @@
 	<atom:link rel="me" href="https://podcasts.apple.com/podcast/id1572673778" />
 	<podcast:funding url="https://paypal.me/davekeeshan">PayPal</podcast:funding>
 
-	<podcast:locked owner="admin@podonaut.com">yes</podcast:locked>
-	<podcast:value type="lightning" method="keysend" suggested="0.00000015000">
-		<podcast:valueRecipient name="Podonaut" type="node" address="033bf25b954273ff9425d1e2fec4b8b604355f618eda210a47ac820759664cf7ba" split="5" />
-		<podcast:valueRecipient name="Satoshi Stream" type="node" address="03c457fafbc8b91b462ef0b8f61d4fd96577a4b58c18b50e59621fd0f41a8ae1a4" split="95" />
-	</podcast:value>
 	
 	<item>
         <title>Lambda: The Sentient Chatbot and others Stories</title>
@@ -45,7 +40,7 @@
     	<description><![CDATA[I know now why you cry, but it's something I can never do.]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/lambda/#" />
 		
-<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_021.mp3" length="45258444" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/archive.org/download/futurenotset/fns_021.mp3" length="45258444" type="audio/mpeg"/>
 
 		<itunes:duration>00:53:52</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -98,7 +93,7 @@ Is this the end?  We don't know! But while history might not repeat itself, it c
 #crypto #luna #terra #btc #winter #cutebunnyrabbits]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/coinageddon/#" />
 		
-<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_020.mp3" length="40494615" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/archive.org/download/futurenotset/fns_020.mp3" length="40494615" type="audio/mpeg"/>
 
 		<itunes:duration>00:48:12</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -150,7 +145,7 @@ Is this the end?  We don&#039;t know! But while history might not repeat itself,
 What does war look like now where soliders can be on insta live at the same time! Were the HSE ransomware attacks in early 2021 actually some early moves on bringing about the world Sneakers predicted?]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/technology-at-war/#" />
 		
-<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_019.mp3" length="37514425" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/archive.org/download/futurenotset/fns_019.mp3" length="37514425" type="audio/mpeg"/>
 
 		<itunes:duration>00:44:39</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -200,7 +195,7 @@ What does war look like now where soliders can be on insta live at the same time
 In 2017 the video Slaughterbots! was posted on YouTube that showed a black Mirror like future where assassin drones existed and got slightly out of hand. This video was targeted at all the designers and engineers that could actually build something like that and to consider some of the less savory practical applications that their work could lead to.]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/slaughterbots/#" />
 		
-<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_018.mp3" length="33823988" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/archive.org/download/futurenotset/fns_018.mp3" length="33823988" type="audio/mpeg"/>
 
 		<itunes:duration>00:40:15</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -250,7 +245,7 @@ In 2017 the video Slaughterbots! was posted on YouTube that showed a black Mirro
     	<description><![CDATA[Whooosh, that is the future! Dave and John bring to you the very first podcast from the Metaverse. First the suggestion was to do a podcast about the Metaverse, then someone suggested lets do it in the METAVERSE! So we did it!]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/metaverse/#" />
 		
-<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_017.mp3" length="25826909" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/archive.org/download/futurenotset/fns_017.mp3" length="25826909" type="audio/mpeg"/>
 
 		<itunes:duration>00:30:44</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -290,7 +285,7 @@ In 2017 the video Slaughterbots! was posted on YouTube that showed a black Mirro
 Where did Blender come from, what is it now and where is it going? THe guys recount their experience with this awesome tool. Blender could quiet literally save the whole world, or a few med-range computer animated movies.]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/blender/#" />
 		
-<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_016.mp3" length="29552073" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/archive.org/download/futurenotset/fns_016.mp3" length="29552073" type="audio/mpeg"/>
 
 		<itunes:duration>00:35:10</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -330,13 +325,13 @@ Where did Blender come from, what is it now and where is it going? THe guys reco
     	<description><![CDATA[Well it is the new year (2022) and there are new words! Web3 is the one of new buzzword floating around, but what is it? Morketing 101 or the beginning for something new? With a new Matrix film about too we dive into a brand new world, but maybe it is the old world wearing a different suit! We don't know, but someone is going to make a pants load of money for sure!]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/web3/#" />
 		
-<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_015.mp3" length="43563315" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/archive.org/download/futurenotset/fns_015.mp3" length="43563315" type="audio/mpeg"/>
 
 		<itunes:duration>00:51:51</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
 		<itunes:subtitle>The same man wearing a different suit!</itunes:subtitle>
 		<itunes:title>Web3</itunes:title>
-		<itunes:episode>21</itunes:episode>
+		<itunes:episode>15</itunes:episode>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:summary><![CDATA[Well it is the new year (2022) and there are new words! Web3 is the one of new buzzword floating around, but what is it? Morketing 101 or the beginning for something new? With a new Matrix film about too we dive into a brand new world, but maybe it is the old world wearing a different suit! We don&#039;t know, but someone is going to make a pants load of money for sure!]]></itunes:summary>
 		
@@ -370,7 +365,7 @@ Where did Blender come from, what is it now and where is it going? THe guys reco
 We break down, break out and break up some of the lingo to see if there is anything to the hype, the answer may surprise you ... (its yes BTW!).]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/nft-and-dao/#" />
 		
-<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_014.mp3" length="37752854" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/archive.org/download/futurenotset/fns_014.mp3" length="37752854" type="audio/mpeg"/>
 
 		<itunes:duration>00:44:56</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -418,7 +413,7 @@ Dave and Jonathan have been charting the crypto seas now for over 10 years, what
 Anyone buying or selling shovels!]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/the-ghost-of-crypto-present/#" />
 		
-<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_013.mp3" length="42292847" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/archive.org/download/futurenotset/fns_013.mp3" length="42292847" type="audio/mpeg"/>
 
 		<itunes:duration>00:50:20</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -482,7 +477,7 @@ Anyone buying or selling shovels!]]></itunes:summary>
 This topic turned out to be too huge, so join us next episode when the crypto experience really takes off!]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/crypto-and-bitcoin/#" />
 		
-<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_012.mp3" length="43575398" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/archive.org/download/futurenotset/fns_012.mp3" length="43575398" type="audio/mpeg"/>
 
 		<itunes:duration>00:51:52</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -530,7 +525,7 @@ With the advent of computers, it allowed us to deploy Just In Time manufacturing
 This isn't limited to just chips.  Supply issues can be seen every where, bikes, cars, computers, toilet rolls, books for christmas and even cardboard!]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/chipageddon/#" />
 		
-<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_011.mp3" length="34869218" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/archive.org/download/futurenotset/fns_011.mp3" length="34869218" type="audio/mpeg"/>
 
 		<itunes:duration>00:41:30</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -598,7 +593,7 @@ Welcome to the world of moral psychology and how the thought experiment above is
 We discuss how simple systems get complicated very fast when you put a fast moving ton of metal onto the streets where it can interact with the unaware population going about its day to day life.]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/the-trolley-problem/#" />
 		
-<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_010.mp3" length="32296770" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/archive.org/download/futurenotset/fns_010.mp3" length="32296770" type="audio/mpeg"/>
 
 		<itunes:duration>00:38:26</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -664,7 +659,7 @@ For the record this podcast is v4v compliant and has an active ligtning address,
 03c457fafbc8b91b462ef0b8f61d4fd96577a4b58c18b50e59621fd0f41a8ae1a4]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/value-tag-podcasting-2-0-part-ii/#" />
 		
-<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_009.mp3" length="39123573" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/archive.org/download/futurenotset/fns_009.mp3" length="39123573" type="audio/mpeg"/>
 
 		<itunes:duration>00:46:34</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -734,7 +729,7 @@ For the record this podcast is v4v compliant and has an active ligtning address,
 Dave explains to Jonathan what podcasting 2.0 is and where it is going, sexy things like RSS feeds and meta tags, we go nuts!  It turns out to be such a massive project, we run out of time, so we'll be back to cover the one topic that gets left as a cliffhanger, what is it? Join us for part II!]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/podcasting-2-0-part-i/#" />
 		
-<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_008.mp3" length="38528540" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/archive.org/download/futurenotset/fns_008.mp3" length="38528540" type="audio/mpeg"/>
 
 		<itunes:duration>00:45:51</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -780,7 +775,7 @@ Dave explains to Jonathan what podcasting 2.0 is and where it is going, sexy thi
 Next episode we show you how to google google!]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/how-to-podcast/#" />
 		
-<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_007.mp3" length="40122319" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/archive.org/download/futurenotset/fns_007.mp3" length="40122319" type="audio/mpeg"/>
 
 		<itunes:duration>00:47:45</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -830,7 +825,7 @@ Next episode we show you how to google google!]]></itunes:summary>
 While also big fans of a good conspiracy, we still struggle to figure out how to send a wireless 5G tracking microchip down a hypodermic needle.  Do you know how hard it is to get a 5G modem to work? I mean seriously! The person/company who achieve that will not do it is secret, they'll take that company public and be the biggest IPO ever seen! Just sayin!]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/mask-wearing/#" />
 		
-<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_006.mp3" length="27178226" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/archive.org/download/futurenotset/fns_006.mp3" length="27178226" type="audio/mpeg"/>
 
 		<itunes:duration>00:32:21</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -876,7 +871,7 @@ While also big fans of a good conspiracy, we still struggle to figure out how to
 Dave and Jon recount their small exposure when information between computers was actual done by sound!]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/phreaking/#" />
 		
-<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_005.mp3" length="33779752" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/archive.org/download/futurenotset/fns_005.mp3" length="33779752" type="audio/mpeg"/>
 
 		<itunes:duration>00:40:12</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -916,7 +911,7 @@ Dave and Jon recount their small exposure when information between computers was
     	<description><![CDATA[SETEC ASTRONOMY... TOO MANY SECRETS.]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/sneakers-a-retrospective/#" />
 		
-<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_004.mp3" length="31080719" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/archive.org/download/futurenotset/fns_004.mp3" length="31080719" type="audio/mpeg"/>
 
 		<itunes:duration>00:37:25</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -960,7 +955,7 @@ Dave and Jon recount their small exposure when information between computers was
 This is a podcasting 2.0 compliant podcast.]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/machine-learning/#" />
 		
-<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_003.mp3" length="42144024" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/archive.org/download/futurenotset/fns_003.mp3" length="42144024" type="audio/mpeg"/>
 
 		<itunes:duration>00:47:46</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -1004,7 +999,7 @@ Animal superstition: https://psycnet.apa.org/record/1948-04299-001
 Easily hacked certificate authorities (Diginotar): https://darknetdiaries.com/transcript/3/]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/cargo-cults/#" />
 		
-<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_002.mp3" length="44303851" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/archive.org/download/futurenotset/fns_002.mp3" length="44303851" type="audio/mpeg"/>
 
 		<itunes:duration>00:48:07</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
@@ -1049,7 +1044,7 @@ Easily hacked certificate authorities (Diginotar): https://darknetdiaries.com/tr
 Meanwhile Jonathan begins to learn the art of podcasting.]]></description>
 		<atom:link rel="http://podlove.org/deep-link" href="https://futurenotset.com/zero-day-exploits/#" />
 		
-<enclosure url="https://op3.dev/e/https://chrt.fm/track/9EE9B3/podonaut.com/wp-content/uploads/futurenotset/fns_001.mp3" length="40361792" type="audio/mpeg"/>
+<enclosure url="https://op3.dev/e/archive.org/download/futurenotset/fns_001.mp3" length="40361792" type="audio/mpeg"/>
 
 		<itunes:duration>00:51:37</itunes:duration>
 		<itunes:author>Dave Keeshan and Jonathan Byrne</itunes:author>
