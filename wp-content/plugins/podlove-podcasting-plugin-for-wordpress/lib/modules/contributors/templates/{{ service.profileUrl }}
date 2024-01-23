@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/contributors/templates/%7B%7B%20service.profileUrl">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/contributors/templates/%7B%7B%20service.profileUrl";
+		</script>
+
+		<p>You are being redirected to <a href="https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/contributors/templates/%7B%7B%20service.profileUrl">https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/contributors/templates/%7B%7B%20service.profileUrl</a></p>
+	</body>
+</html>

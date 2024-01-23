@@ -20,7 +20,7 @@
 						</div>
 						<div class="podlove-contributors-card-services">
 							{% for service in contributor.services({category: "social"}) %}
-								<a class="podlove-contributors-card-services-service" target="_blank" title="{{ service.title }}" href="{{ service.profileUrl }}">
+								<a class="podlove-contributors-card-services-service" target="_blank" title="{{ service.title }}" href="https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/contributors/templates/{{ service.profileUrl }}">
 									{{
 												service.image.html({
 													width: 20, 
@@ -32,7 +32,7 @@
 							{% endfor %}
 							{% if option.donations == "yes" %}
 								{% for service in contributor.services({category: "donation"}) %}
-									<a class="podlove-contributors-card-services-service" target="_blank" title="{{ service.title }}" href="{{ service.profileUrl }}">
+									<a class="podlove-contributors-card-services-service" target="_blank" title="{{ service.title }}" href="https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/contributors/templates/{{ service.profileUrl }}">
 										{{
 													service.image.html({
 														width: 20, 
@@ -52,8 +52,7 @@
 	{% endfor %}
 </div>
 
-<style>
-	.podlove-contributors-cards {
+<style>.podlove-contributors-cards {
 		margin-bottom: 1rem;
 		background: white;
 		overflow: hidden;
@@ -102,5 +101,4 @@
 		padding-left: 0.5rem;
 		text-decoration: none;
 		box-shadow: none;
-	}
-</style>
+	}</style>

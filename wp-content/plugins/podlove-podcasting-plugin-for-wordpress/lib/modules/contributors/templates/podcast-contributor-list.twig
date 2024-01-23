@@ -17,7 +17,7 @@
 						<strong class="contributor-name">{{ contributor.name }}</strong>
 						<div class="social-icons">
 							{% for service in contributor.socialServices %}
-								<a target="_blank" title="{{ service.title }}" href="{{ service.profileUrl }}">
+								<a target="_blank" title="{{ service.title }}" href="https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/contributors/templates/{{ service.profileUrl }}">
 									{{
 										service.image.html({
 											width: 32, 
@@ -35,7 +35,7 @@
 						<ul>
 						{% for episode in contributor.episodes %}
 							<li>
-								<a href="{{ episode.url }}">{{ episode.title }}</a>
+								<a href="https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/contributors/templates/{{ episode.url }}">{{ episode.title }}</a>
 							</li>
 						{% endfor %}
 						</ul>
@@ -55,7 +55,7 @@
 
 			if (items.length > 5) {
 				$("li:gt(4)", this).hide();
-				$('<span class="show-all-episodes"><a href="#">… show all episodes</a><span>').insertAfter($("ul", this));
+				$('<span class="show-all-episodes"><a href="#">… show all episodes<\/a><span>').insertAfter($("ul", this));
 			}
 		});
 
@@ -70,8 +70,7 @@
 }(jQuery));
 </script>
 
-<style type="text/css">
-.podlove-global-contributors td {
+<style type="text/css">.podlove-global-contributors td {
 	vertical-align: top;
 	line-height: 1.3em;
 }
@@ -111,6 +110,4 @@
 	padding: 2px 10px;
 	line-height: 170%;
 	border-radius: 10px;
-}
-
-</style>
+}</style>

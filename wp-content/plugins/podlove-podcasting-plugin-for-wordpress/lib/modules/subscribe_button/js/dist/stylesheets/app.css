@@ -1,21 +1,21 @@
 @font-face {
   font-family: 'Podlove';
-  src: url("https://futurenotset.podonaut.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/podlove/Podlove.eot");
-  src: url("https://futurenotset.podonaut.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/podlove/Podlove.eot#iefix") format("embedded-opentype"), url("https://futurenotset.podonaut.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/podlove/Podlove.woff") format("woff"), url("https://futurenotset.podonaut.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/podlove/Podlove.ttf") format("truetype"), url("https://futurenotset.podonaut.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/podlove/Podlove.svg#robotomedium") format("svg");
+  src: url("https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/podlove/Podlove.eot");
+  src: url("https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/podlove/Podlove.eot#iefix") format("embedded-opentype"), url("https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/podlove/Podlove.woff") format("woff"), url("https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/podlove/Podlove.ttf") format("truetype"), url("https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/podlove/Podlove.svg#robotomedium") format("svg");
   font-weight: 400;
   font-style: normal; }
 
 @font-face {
   font-family: 'Roboto';
-  src: url("https://futurenotset.podonaut.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/roboto_light/Roboto-Light-webfont.eot");
-  src: url("https://futurenotset.podonaut.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/roboto_light/Roboto-Light-webfont.eot#iefix") format("embedded-opentype"), url("https://futurenotset.podonaut.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/roboto_light/Roboto-Light-webfont.woff") format("woff"), url("https://futurenotset.podonaut.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/roboto_light/Roboto-Light-webfont.ttf") format("truetype"), url("https://futurenotset.podonaut.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/roboto_light/Roboto-Light-webfont.svg#robotolight") format("svg");
+  src: url("https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/roboto_light/Roboto-Light-webfont.eot");
+  src: url("https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/roboto_light/Roboto-Light-webfont.eot#iefix") format("embedded-opentype"), url("https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/roboto_light/Roboto-Light-webfont.woff") format("woff"), url("https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/roboto_light/Roboto-Light-webfont.ttf") format("truetype"), url("https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/roboto_light/Roboto-Light-webfont.svg#robotolight") format("svg");
   font-weight: 300;
   font-style: normal; }
 
 @font-face {
   font-family: 'Roboto';
-  src: url("https://futurenotset.podonaut.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/roboto_medium/Roboto-Medium-webfont.eot");
-  src: url("https://futurenotset.podonaut.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/roboto_medium/Roboto-Medium-webfont.eot#iefix") format("embedded-opentype"), url("https://futurenotset.podonaut.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/roboto_medium/Roboto-Medium-webfont.woff") format("woff"), url("https://futurenotset.podonaut.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/roboto_medium/Roboto-Medium-webfont.ttf") format("truetype"), url("https://futurenotset.podonaut.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/roboto_medium/Roboto-Medium-webfont.svg#robotomedium") format("svg");
+  src: url("https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/roboto_medium/Roboto-Medium-webfont.eot");
+  src: url("https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/roboto_medium/Roboto-Medium-webfont.eot#iefix") format("embedded-opentype"), url("https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/roboto_medium/Roboto-Medium-webfont.woff") format("woff"), url("https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/roboto_medium/Roboto-Medium-webfont.ttf") format("truetype"), url("https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/fonts/roboto_medium/Roboto-Medium-webfont.svg#robotomedium") format("svg");
   font-weight: 500;
   font-style: normal; }
 
@@ -375,7 +375,7 @@ script.podlove-subscribe-button {
     text-align: center; }
     #podlove-subscribe-popup #podlove-subscribe-panel-podcast .podcast-cover-placeholder {
       background-color: #F2F2F2;
-      background-image: url("https://futurenotset.podonaut.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/images/icon.svg");
+      background-image: url("https://futurenotset.com/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/subscribe_button/js/dist/images/icon.svg");
       background-position: 50% 48%;
       background-repeat: no-repeat;
       background-size: 66%;
