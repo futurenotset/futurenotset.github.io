@@ -9,11 +9,11 @@
 
 <channel>
 	<title>The Future is not Set</title>
-	<atom:link href="https://futurenotset.com/feed/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://futurenotset.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://futurenotset.com/</link>
 	<description></description>
-	<lastBuildDate>Mon, 08 Jan 2024 15:59:23 +0000</lastBuildDate>
-	<language>en-GB</language>
+	<lastBuildDate>Tue, 16 Jan 2024 10:11:05 +0000</lastBuildDate>
+	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -21,17 +21,36 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
-	<url>https://futurenotset.com/wp-content/uploads/sites/8/2021/06/cropped-notset-icon-32x32.png</url>
+	<url>https://futurenotset.com/wp-content/uploads/sites/5/2021/06/cropped-notset-icon-150x150.png</url>
 	<title>The Future is not Set</title>
 	<link>https://futurenotset.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
+		<title>Hello world!</title>
+		<link>https://futurenotset.com/hello-world/</link>
+					<comments>https://futurenotset.com/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[davekeeshan]]></dc:creator>
+		<pubDate>Tue, 16 Jan 2024 10:11:05 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://futurenotset.com/?p=1</guid>
+
+					<description><![CDATA[Welcome to Podonaut Sites. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[<p>Welcome to <a href="https://podonaut.com/">Podonaut Sites</a>. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://futurenotset.com/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Lambda: The Sentient Chatbot and others Stories</title>
 		<link>https://futurenotset.com/lambda/</link>
 		
-		<dc:creator><![CDATA[gomez]]></dc:creator>
+		<dc:creator><![CDATA[davekeeshan]]></dc:creator>
 		<pubDate>Tue, 05 Jul 2022 20:29:02 +0000</pubDate>
 				<guid isPermaLink="false"></guid>
 
@@ -41,7 +60,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-medium"><img fetchpriority="high" decoding="async" width="300" height="300" src="https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-300x300.jpg" alt="" class="wp-image-192" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-300x300.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-1024x1024.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-150x150.jpg 150w, https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-768x768.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-1536x1536.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-2048x2048.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></figure></div>
+<figure class="alignleft size-medium"><img decoding="async" src="https://futurenotset.wp.podonaut.com/wp-content/uploads/sites/8/2022/07/deepmind-mbq0qL3ynMs-unsplash-300x300.jpg" alt="" class="wp-image-192" /></figure></div>
 
 
 <p>So the story goes that Sentient <a href="https://en.wikipedia.org/wiki/Chatbot">chatbots </a>walk amongest us! Is it true? Or is it false? If you said it was a <code>null</code> statement you may have just outed yourself as one of those chat bots!</p>
@@ -70,13 +89,9 @@
 		<pubDate>Thu, 12 May 2022 20:43:01 +0000</pubDate>
 				<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Welcome back to... the end?  We had a lovely epsiode lined up and then the whole crypto market decided to punch itself in the face, so we decided to cover that instead
-
-Is this the end?  We don't know! But while history might not repeat itself, it certainly rhymes and we put on our pundit hats to talk about LUNA, algorithmic stablecoins, Terra, Tether and what ever your having yourself! Welcome to the crypto winter (again!)
-
-#crypto #luna #terra #btc #winter #cutebunnyrabbits]]></description>
+					<description><![CDATA[Welcome back to... the end?  We had a lovely epsiode lined up and then the whole crypto market decided to punch itself in the face, so we decided to cover that instead\r\n\r\nIs this the end?  We don\'t know! But while history might not repeat itself, it certainly rhymes and we put on our pundit hats to talk about LUNA, algorithmic stablecoins, Terra, Tether and what ever your having yourself! Welcome to the crypto winter (again!)\r\n\r\n#crypto #luna #terra #btc #winter #cutebunnyrabbits]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-image"><figure class="alignleft size-medium"><img decoding="async" width="204" height="300" src="https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-204x300.jpg" alt="" class="wp-image-186" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-204x300.jpg 204w, https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-695x1024.jpg 695w, https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-768x1131.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-1043x1536.jpg 1043w, https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-1391x2048.jpg 1391w, https://futurenotset.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-scaled.jpg 1738w" sizes="(max-width: 204px) 100vw, 204px" /></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-medium"><img decoding="async" src="https://futurenotset.wp.podonaut.com/wp-content/uploads/sites/8/2022/05/micah-williams-d4s3uw-AjsA-unsplash-204x300.jpg" alt="" class="wp-image-186" /></figure></div>
 
 
 
@@ -106,11 +121,9 @@ Is this the end?  We don't know! But while history might not repeat itself, it c
 		<pubDate>Thu, 31 Mar 2022 20:11:58 +0000</pubDate>
 				<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[We are talking about what every one is talking about, War! Even though Ireland is probably the furthest point in Europe from Ukraine we are beginning to see the effects at the fuel pump and in cyberspace.
-
-What does war look like now where soliders can be on insta live at the same time! Were the HSE ransomware attacks in early 2021 actually some early moves on bringing about the world Sneakers predicted?]]></description>
+					<description><![CDATA[We are talking about what every one is talking about, War! Even though Ireland is probably the furthest point in Europe from Ukraine we are beginning to see the effects at the fuel pump and in cyberspace.\r\n\r\nWhat does war look like now where soliders can be on insta live at the same time! Were the HSE ransomware attacks in early 2021 actually some early moves on bringing about the world Sneakers predicted?]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-image"><figure class="alignleft size-medium"><img decoding="async" width="300" height="200" src="https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-300x200.jpg" alt="" class="wp-image-182" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-300x200.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-1024x683.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-768x512.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-1536x1024.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-2048x1365.jpg 2048w, https://futurenotset.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-410x275.jpg 410w" sizes="(max-width: 300px) 100vw, 300px" /></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-medium"><img decoding="async" src="https://futurenotset.wp.podonaut.com/wp-content/uploads/sites/8/2022/03/dan-meyers-cHR1Q2g1_F4-unsplash-300x200.jpg" alt="" class="wp-image-182" /></figure></div>
 
 
 
@@ -118,7 +131,7 @@ What does war look like now where soliders can be on insta live at the same time
 
 
 
-<p>What does war look like now where soliders can be on <a href="https://help.instagram.com/292478487812558">insta live</a> at the same time! <a href="https://www.wired.com/story/conti-leaks-ransomware-work-life/">Were the HSE ransomware attacks</a> in early 2021 actually some early moves on bringing about the <a href="https://futurenotset.com/sneakers-a-retrospective/" data-type="podcast" data-id="74">world Sneakers predicted</a>?</p>
+<p>What does war look like now where soliders can be on <a href="https://help.instagram.com/292478487812558">insta live</a> at the same time! <a href="https://www.wired.com/story/conti-leaks-ransomware-work-life/">Were the HSE ransomware attacks</a> in early 2021 actually some early moves on bringing about the <a href="https://futurenotset.wp.podonaut.com/sneakers-a-retrospective/" data-type="podcast" data-id="74">world Sneakers predicted</a>?</p>
 
 
 
@@ -140,11 +153,9 @@ What does war look like now where soliders can be on insta live at the same time
 		<pubDate>Thu, 17 Feb 2022 19:48:37 +0000</pubDate>
 				<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[This episode we cover the amorality of technology and how it butts up against the messy real world of people and trying to model things like language and intent as implementation requirements. Hilarity ensues!
-
-In 2017 the video Slaughterbots! was posted on YouTube that showed a black Mirror like future where assassin drones existed and got slightly out of hand. This video was targeted at all the designers and engineers that could actually build something like that and to consider some of the less savory practical applications that their work could lead to.]]></description>
+					<description><![CDATA[This episode we cover the amorality of technology and how it butts up against the messy real world of people and trying to model things like language and intent as implementation requirements. Hilarity ensues!\r\n\r\nIn 2017 the video Slaughterbots! was posted on YouTube that showed a black Mirror like future where assassin drones existed and got slightly out of hand. This video was targeted at all the designers and engineers that could actually build something like that and to consider some of the less savory practical applications that their work could lead to.]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-image"><figure class="alignleft size-medium is-resized"><img loading="lazy" decoding="async" src="https://futurenotset.com/wp-content/uploads/sites/8/2022/02/MV5BMTIwNjE3OTQtYzQzMC00ZDkzLTk2Y2ItZGY1YWFjN2NmZTBlXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_-219x300.jpg" alt="" class="wp-image-173" width="302" height="414" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2022/02/MV5BMTIwNjE3OTQtYzQzMC00ZDkzLTk2Y2ItZGY1YWFjN2NmZTBlXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_-219x300.jpg 219w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/MV5BMTIwNjE3OTQtYzQzMC00ZDkzLTk2Y2ItZGY1YWFjN2NmZTBlXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_-746x1024.jpg 746w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/MV5BMTIwNjE3OTQtYzQzMC00ZDkzLTk2Y2ItZGY1YWFjN2NmZTBlXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_-768x1054.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/MV5BMTIwNjE3OTQtYzQzMC00ZDkzLTk2Y2ItZGY1YWFjN2NmZTBlXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_.jpg 983w" sizes="(max-width: 302px) 100vw, 302px" /></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-medium is-resized"><img fetchpriority="high" decoding="async" src="https://futurenotset.wp.podonaut.com/wp-content/uploads/sites/8/2022/02/MV5BMTIwNjE3OTQtYzQzMC00ZDkzLTk2Y2ItZGY1YWFjN2NmZTBlXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_-219x300.jpg" alt="" class="wp-image-173" width="302" height="414" srcset="https://futurenotset.com/wp-content/uploads/sites/5/2022/02/MV5BMTIwNjE3OTQtYzQzMC00ZDkzLTk2Y2ItZGY1YWFjN2NmZTBlXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_-219x300.jpg 219w, https://futurenotset.com/wp-content/uploads/sites/5/2022/02/MV5BMTIwNjE3OTQtYzQzMC00ZDkzLTk2Y2ItZGY1YWFjN2NmZTBlXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_-746x1024.jpg 746w, https://futurenotset.com/wp-content/uploads/sites/5/2022/02/MV5BMTIwNjE3OTQtYzQzMC00ZDkzLTk2Y2ItZGY1YWFjN2NmZTBlXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_-768x1054.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/5/2022/02/MV5BMTIwNjE3OTQtYzQzMC00ZDkzLTk2Y2ItZGY1YWFjN2NmZTBlXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_.jpg 983w" sizes="(max-width: 302px) 100vw, 302px" /></figure></div>
 
 
 
@@ -161,7 +172,7 @@ In 2017 the video Slaughterbots! was posted on YouTube that showed a black Mirro
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Slaughterbots" width="750" height="422" src="https://www.youtube.com/embed/9CO6M2HsoIA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Slaughterbots" width="750" height="422" src="https://www.youtube.com/embed/9CO6M2HsoIA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 ]]></content:encoded>
 					
@@ -178,7 +189,7 @@ In 2017 the video Slaughterbots! was posted on YouTube that showed a black Mirro
 
 					<description><![CDATA[Whooosh, that is the future! Dave and John bring to you the very first podcast from the Metaverse. First the suggestion was to do a podcast about the Metaverse, then someone suggested lets do it in the METAVERSE! So we did it!]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-image"><figure class="alignleft size-medium"><img loading="lazy" decoding="async" width="300" height="200" src="https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-300x200.jpg" alt="" class="wp-image-168" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-300x200.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-1024x683.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-768x512.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-1536x1025.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-2048x1366.jpg 2048w, https://futurenotset.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-410x275.jpg 410w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption>Photo by <a href="https://unsplash.com/@barbarazandoval?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Barbara Zandoval</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-medium"><img decoding="async" src="https://futurenotset.wp.podonaut.com/wp-content/uploads/sites/8/2022/02/barbara-zandoval-w0lI3AkD14A-unsplash-300x200.jpg" alt="" class="wp-image-168" /><figcaption>Photo by <a href="https://unsplash.com/@barbarazandoval?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Barbara Zandoval</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption></figure></div>
 
 
 
@@ -200,11 +211,9 @@ In 2017 the video Slaughterbots! was posted on YouTube that showed a black Mirro
 		<pubDate>Wed, 19 Jan 2022 23:25:47 +0000</pubDate>
 				<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[This week we discuss one of the biggest success stories in the open source world, Blender. Some people take up golf but instead both Dave and Jonathan took up blender and like golf you can spend years working on your technique.
-
-Where did Blender come from, what is it now and where is it going? THe guys recount their experience with this awesome tool. Blender could quiet literally save the whole world, or a few med-range computer animated movies.]]></description>
+					<description><![CDATA[This week we discuss one of the biggest success stories in the open source world, Blender. Some people take up golf but instead both Dave and Jonathan took up blender and like golf you can spend years working on your technique.\r\n\r\nWhere did Blender come from, what is it now and where is it going? THe guys recount their experience with this awesome tool. Blender could quiet literally save the whole world, or a few med-range computer animated movies.]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-image is-style-default"><figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" src="https://futurenotset.com/wp-content/uploads/sites/8/2022/01/Blender_2.90-splash.png" alt="" class="wp-image-163" width="623" height="312" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2022/01/Blender_2.90-splash.png 1004w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/Blender_2.90-splash-300x150.png 300w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/Blender_2.90-splash-768x384.png 768w" sizes="(max-width: 623px) 100vw, 623px" /></figure></div>
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full is-resized"><img decoding="async" src="https://futurenotset.wp.podonaut.com/wp-content/uploads/sites/8/2022/01/Blender_2.90-splash.png" alt="" class="wp-image-163" width="623" height="312" srcset="https://futurenotset.com/wp-content/uploads/sites/5/2022/01/Blender_2.90-splash.png 1004w, https://futurenotset.com/wp-content/uploads/sites/5/2022/01/Blender_2.90-splash-300x150.png 300w, https://futurenotset.com/wp-content/uploads/sites/5/2022/01/Blender_2.90-splash-768x384.png 768w" sizes="(max-width: 623px) 100vw, 623px" /></figure></div>
 
 
 
@@ -226,13 +235,13 @@ Where did Blender come from, what is it now and where is it going? THe guys reco
 		<pubDate>Fri, 07 Jan 2022 23:45:59 +0000</pubDate>
 				<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Well it is the new year (2022) and there are new words! Web3 is the one of new buzzword floating around, but what is it? Morketing 101 or the beginning for something new? With a new Matrix film about too we dive into a brand new world, but maybe it is the old world wearing a different suit! We don't know, but someone is going to make a pants load of money for sure!]]></description>
+					<description><![CDATA[Well it is the new year (2022) and there are new words! Web3 is the one of new buzzword floating around, but what is it? Morketing 101 or the beginning for something new? With a new Matrix film about too we dive into a brand new world, but maybe it is the old world wearing a different suit! We don\'t know, but someone is going to make a pants load of money for sure!]]></description>
 										<content:encoded><![CDATA[
 <p></p>
 
 
 
-<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-1024x683.jpg" alt="" class="wp-image-144" width="382" height="255" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-1024x683.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-300x200.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-768x512.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-1536x1024.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-2048x1365.jpg 2048w, https://futurenotset.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-410x275.jpg 410w" sizes="(max-width: 382px) 100vw, 382px" /><figcaption>Photo by <a href="https://unsplash.com/@mistrjosh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Joshua Michaels</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="https://futurenotset.wp.podonaut.com/wp-content/uploads/sites/8/2022/01/joshua-michaels-vbEBSGPqNaQ-unsplash-1024x683.jpg" alt="" class="wp-image-144" width="382" height="255" /><figcaption>Photo by <a href="https://unsplash.com/@mistrjosh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Joshua Michaels</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption></figure></div>
 
 
 
@@ -246,15 +255,13 @@ Where did Blender come from, what is it now and where is it going? THe guys reco
 		<title>NFT and DAO</title>
 		<link>https://futurenotset.com/nft-and-dao/</link>
 		
-		<dc:creator><![CDATA[gomez]]></dc:creator>
+		<dc:creator><![CDATA[davekeeshan]]></dc:creator>
 		<pubDate>Thu, 23 Dec 2021 22:13:57 +0000</pubDate>
 				<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Just in time for Christmas (2021 for whoever is keeping track) we finally get to discuss where crypto is going.  NFT, DAO, fungible, what does it all mean and do I need a cream for that? Everything you wanted to know about decentralized autonomous organization and decentralized prediction markets, but were afraid to ask! Will it reinvigorate the art market, or is it the same man wearing a different suit?
-
-We break down, break out and break up some of the lingo to see if there is anything to the hype, the answer may surprise you ... (its yes BTW!).]]></description>
+					<description><![CDATA[Just in time for Christmas (2021 for whoever is keeping track) we finally get to discuss where crypto is going.  NFT, DAO, fungible, what does it all mean and do I need a cream for that? Everything you wanted to know about decentralized autonomous organization and decentralized prediction markets, but were afraid to ask! Will it reinvigorate the art market, or is it the same man wearing a different suit?\r\n\r\nWe break down, break out and break up some of the lingo to see if there is anything to the hype, the answer may surprise you ... (its yes BTW!).]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/troop-of-bored-ape-nfts-rises-above-the-competition-nft-project-donates-200k-in-eth-to-orangutan-outreach-1024x576.jpeg" alt="" class="wp-image-138" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/troop-of-bored-ape-nfts-rises-above-the-competition-nft-project-donates-200k-in-eth-to-orangutan-outreach-1024x576.jpeg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/troop-of-bored-ape-nfts-rises-above-the-competition-nft-project-donates-200k-in-eth-to-orangutan-outreach-300x169.jpeg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/troop-of-bored-ape-nfts-rises-above-the-competition-nft-project-donates-200k-in-eth-to-orangutan-outreach-768x432.jpeg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/troop-of-bored-ape-nfts-rises-above-the-competition-nft-project-donates-200k-in-eth-to-orangutan-outreach.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://futurenotset.wp.podonaut.com/wp-content/uploads/sites/8/2021/12/troop-of-bored-ape-nfts-rises-above-the-competition-nft-project-donates-200k-in-eth-to-orangutan-outreach-1024x576.jpeg" alt="" class="wp-image-138" srcset="https://futurenotset.com/wp-content/uploads/sites/5/2021/12/troop-of-bored-ape-nfts-rises-above-the-competition-nft-project-donates-200k-in-eth-to-orangutan-outreach-1024x576.jpeg 1024w, https://futurenotset.com/wp-content/uploads/sites/5/2021/12/troop-of-bored-ape-nfts-rises-above-the-competition-nft-project-donates-200k-in-eth-to-orangutan-outreach-300x169.jpeg 300w, https://futurenotset.com/wp-content/uploads/sites/5/2021/12/troop-of-bored-ape-nfts-rises-above-the-competition-nft-project-donates-200k-in-eth-to-orangutan-outreach-768x432.jpeg 768w, https://futurenotset.com/wp-content/uploads/sites/5/2021/12/troop-of-bored-ape-nfts-rises-above-the-competition-nft-project-donates-200k-in-eth-to-orangutan-outreach.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -280,13 +287,9 @@ We break down, break out and break up some of the lingo to see if there is anyth
 		<pubDate>Thu, 02 Dec 2021 19:30:12 +0000</pubDate>
 				<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[This episode we continue on our crytpo discussion we, what is crypto in 2021? It has been compared to tulip mania so many times now, we can safely say, it is not tulip mania.
-
-Dave and Jonathan have been charting the crypto seas now for over 10 years, what have they seen and what can they unsee.
-
-Anyone buying or selling shovels!]]></description>
+					<description><![CDATA[This episode we continue on our crytpo discussion we, what is crypto in 2021? It has been compared to tulip mania so many times now, we can safely say, it is not tulip mania.\r\n\r\nDave and Jonathan have been charting the crypto seas now for over 10 years, what have they seen and what can they unsee.\r\n\r\nAnyone buying or selling shovels!]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/tandem-x-visuals-FZOOxR2auVI-unsplash-1024x683.jpg" alt="" class="wp-image-125" width="474" height="316" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/tandem-x-visuals-FZOOxR2auVI-unsplash-1024x683.jpg 1024w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/tandem-x-visuals-FZOOxR2auVI-unsplash-300x200.jpg 300w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/tandem-x-visuals-FZOOxR2auVI-unsplash-768x512.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/tandem-x-visuals-FZOOxR2auVI-unsplash-1536x1024.jpg 1536w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/tandem-x-visuals-FZOOxR2auVI-unsplash-2048x1365.jpg 2048w" sizes="(max-width: 474px) 100vw, 474px" /><figcaption>Photo by <a href="https://unsplash.com/@tandemxvisuals?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Tandem X Visuals</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="https://futurenotset.wp.podonaut.com/wp-content/uploads/sites/8/2021/12/tandem-x-visuals-FZOOxR2auVI-unsplash-1024x683.jpg" alt="" class="wp-image-125" width="474" height="316" /><figcaption>Photo by <a href="https://unsplash.com/@tandemxvisuals?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Tandem X Visuals</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption></figure></div>
 
 
 
@@ -306,7 +309,7 @@ Anyone buying or selling shovels!]]></description>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="485" height="1024" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-485x1024.jpg" alt="" class="wp-image-127" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-485x1024.jpg 485w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-142x300.jpg 142w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-768x1622.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-727x1536.jpg 727w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-970x2048.jpg 970w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome.jpg 1037w" sizes="(max-width: 485px) 100vw, 485px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="485" height="1024" src="https://futurenotset.wp.podonaut.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-485x1024.jpg" alt="" class="wp-image-127" srcset="https://futurenotset.com/wp-content/uploads/sites/5/2021/12/Screenshot_20211126-214608_Chrome-485x1024.jpg 485w, https://futurenotset.com/wp-content/uploads/sites/5/2021/12/Screenshot_20211126-214608_Chrome-142x300.jpg 142w, https://futurenotset.com/wp-content/uploads/sites/5/2021/12/Screenshot_20211126-214608_Chrome-768x1622.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/5/2021/12/Screenshot_20211126-214608_Chrome-727x1536.jpg 727w, https://futurenotset.com/wp-content/uploads/sites/5/2021/12/Screenshot_20211126-214608_Chrome-970x2048.jpg 970w, https://futurenotset.com/wp-content/uploads/sites/5/2021/12/Screenshot_20211126-214608_Chrome.jpg 1037w" sizes="(max-width: 485px) 100vw, 485px" /></figure>
 
 
 
@@ -315,27 +318,6 @@ Anyone buying or selling shovels!]]></description>
 
 
 <p></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Irish Tech Charts</title>
-		<link>https://futurenotset.com/irish-tech-charts/</link>
-		
-		<dc:creator><![CDATA[davekeeshan]]></dc:creator>
-		<pubDate>Sun, 28 Nov 2021 19:30:00 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://futurenotset.com/?p=129</guid>
-
-					<description><![CDATA[Very excited in Podonaut House, we are one spot away from the top ten Irish Techonology charts. TED Radio Hour we are coming for you!]]></description>
-										<content:encoded><![CDATA[
-<p>Very excited in <a href="https://podonaut.com/">Podonaut </a>House, we are one spot away from the top ten <a href="https://chartable.com/charts/itunes/ie-technology-podcasts">Irish Techonology charts</a>. TED Radio Hour we are coming for you!</p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-485x1024.jpg" alt="" class="wp-image-127" width="309" height="652" srcset="https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-485x1024.jpg 485w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-142x300.jpg 142w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-768x1622.jpg 768w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-727x1536.jpg 727w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome-970x2048.jpg 970w, https://futurenotset.com/wp-content/uploads/sites/8/2021/12/Screenshot_20211126-214608_Chrome.jpg 1037w" sizes="(max-width: 309px) 100vw, 309px" /></figure></div>
 ]]></content:encoded>
 					
 		
